@@ -60,4 +60,6 @@ var secondLetterOfFirstName = firstName[1];
 var lastLetterOfFirstName = firstName[firstName.length - 1];
  ```
  
-
+ DAY 3 #100 Days Of Code
+Loading.....loading......error loading. There wasnt day 3 due to much activities and poor network I wasnt able to get any work done. Felt hurt but won't work myself up about it.
+Would Focus on my technical documentation page tommorow
