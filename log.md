@@ -63,4 +63,8 @@ var lastLetterOfFirstName = firstName[firstName.length - 1];
  DAY 3 #100 Days Of Code
  
 Loading.....loading......error loading. There wasnt day 3 due to much activities and poor network I wasnt able to get any work done. Felt hurt but won't work myself up about it.
-Would Focus on my technical documentation page tommorow
+Would Focus on my technical documentation page tommorow.
+
+DAY 3(repeat)  #100 Days Of Code
+
+I spent quality time coding today. I was able to decide just what I want my technical documentation page project on FCC to look like. Building a React docs https://github.com/stealthman22/tech-doc-page/tree/master ...well of course i am copying most of their html ( I never said i was a react pro...well for now). So I am going to build either a landing page for it or an image slider. Also I learnt some amazing productivity hack in linux, for downloading batch video files check here: https://itsfoss.com/download-youtube-linux/ and https://youtu.be/dMXzoHTTvi0.
