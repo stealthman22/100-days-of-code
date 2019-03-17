@@ -74,7 +74,7 @@ DAy 4
 Put more work into the Html of my technical documentation page #freecodecamp.  Done with it now.  Over to basic stylings.  Will be using flexbox or grid.  Wonder if Just a simple landing page or a slider would be better. https://codepen.io/alara_joel_stealth/pen/moxQjO
 
 DAY 5
-Learnt a lot about escaping HTML elements, which help you to render raw source code on your webpage eficiently without needing javascript. Yes it won't be as nice as the js approach with all its syntax highlighting; but it does get the job done. tHis online tool made it such a breeze through:https://www.freeformatter.com/html-escape.html. 
+Learnt a lot about escaping HTML elements, which help you to render raw source code on your webpage eficiently without needing javascript. Yes it won't be as nice as the js approach with all its syntax highlighting; but it does get the job done. tHis online tool made it such a breeze through:https://www.freeformatter.com/html-escape.html. https://codepen.io/alara_joel_stealth/pen/moxQjO
 
 
 
