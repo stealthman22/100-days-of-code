@@ -68,3 +68,13 @@ Would Focus on my technical documentation page tommorow.
 DAY 3(repeat)  #100 Days Of Code
 
 I spent quality time coding today. I was able to decide just what I want my technical documentation page project on FCC to look like. Building a React docs https://github.com/stealthman22/tech-doc-page/tree/master ...well of course i am copying most of their html ( I never said i was a react pro...well for now). So I am going to build either a landing page for it or an image slider. Also I learnt some amazing productivity hack in linux, for downloading batch video files check here: https://itsfoss.com/download-youtube-linux/ and https://youtu.be/dMXzoHTTvi0.
+
+DAy 4
+
+Put more work into the Html of my technical documentation page #freecodecamp.  Done with it now.  Over to basic stylings.  Will be using flexbox or grid.  Wonder if Just a simple landing page or a slider would be better. https://codepen.io/alara_joel_stealth/pen/moxQjO
+
+DAY 5
+Learnt a lot about escaping HTML elements, which help you to render raw source code on your webpage eficiently without needing javascript. Yes it won't be as nice as the js approach with all its syntax highlighting; but it does get the job done. tHis online tool made it such a breeze through:https://www.freeformatter.com/html-escape.html. 
+
+
+
