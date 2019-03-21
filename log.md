@@ -74,7 +74,26 @@ DAy 4
 Put more work into the Html of my technical documentation page #freecodecamp.  Done with it now.  Over to basic stylings.  Will be using flexbox or grid.  Wonder if Just a simple landing page or a slider would be better. https://codepen.io/alara_joel_stealth/pen/moxQjO
 
 DAY 5
+
 Learnt a lot about escaping HTML elements, which help you to render raw source code on your webpage eficiently without needing javascript. Yes it won't be as nice as the js approach with all its syntax highlighting; but it does get the job done. tHis online tool made it such a breeze through:https://www.freeformatter.com/html-escape.html. https://codepen.io/alara_joel_stealth/pen/moxQjO
 
 
+Day 6
+
+Tinkering away still cannot seem to wrap my head around the css this time. I have forgotten quiet a number of things. 
+
+
+Day 7
+Finally getting myself css refreshed. Using variables to control my page's coloring.
+
+
+Day 8
+
+Still stuck at building the side nav. But i got two tutorials from youtube, and i am keenly going through them and getting the needed knowledge. https://www.youtube.com/watch?v=F0uED-w9E48 and https://www.youtube.com/watch?v=wpGNFGqNfdU
+
+
+Day 9
+
+So everything was going on splendidly. Finally built the side nav bar and was tinkering for a bit. Then voila my navbar disappears in my editor but shows on my pen. https://codepen.io/alara_joel_stealth/pen/moxQjO
+Guess i will have to be coding from the pen now till i figure it out.
 
