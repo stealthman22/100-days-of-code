@@ -97,3 +97,11 @@ Day 9
 So everything was going on splendidly. Finally built the side nav bar and was tinkering for a bit. Then voila my navbar disappears in my editor but shows on my pen. https://codepen.io/alara_joel_stealth/pen/moxQjO
 Guess i will have to be coding from the pen now till i figure it out.
 
+DAY 10
+
+Really thought that i will finish this project today, turns out I broke my css code about twice and had to start again. 
+At this pace, I will leave out the proposed landing page, and just get the content hide and unhide working.
+https://codepen.io/alara_joel_stealth/full/moxQjO
+
+Also my nav-links seem to be missing their target most times.
+
