@@ -105,3 +105,33 @@ https://codepen.io/alara_joel_stealth/full/moxQjO
 
 Also my nav-links seem to be missing their target most times.
 
+Day 11
+
+Learnt so much today about js
+I got massive help from the #freeCodeCamp family and #stackoverflow.  Will have to change my <a> to buttons rather to help create the tab swiching triggers in js. 
+Learning js is going to be a journey but im ready. 
+
+ 
+ Day 12 (23rd March 2019)
+Error... loading..... Fatal error. 
+So i missed day 12.  It was a sober day for me.  Dad's good friend was buried.  
+
+It's all good now.  Would cover up for the lag
+
+
+Day 12 (repeat) (24th March 2019)
+
+Today was good actually.  A gentleman helped me with the much needed js code to hide my page contents,  so it doesn't look so bloated.  
+Also got my html links to work smoothly.  Turns out it's better you nest the <a> in the <li>. 
+ 
+ Day 13 (25th March 2019)
+ 
+Finally it's done. And it's not the best thing ever, I am quite proud of this project. Thanks to Micheal Aubrey from freecodecamp for his massive js input. 1 thing tho; my nav links won't move without the onclick functions i initially added.
+ Don't sweat the small stuffs learn more and make steady progress, it will all come together.
+ A link to the pen [Codepen](https://codepen.io/alara_joel_stealth/full/moxQjO)
+
+
+ 
+ 
+ 
+
