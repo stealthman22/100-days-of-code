@@ -131,6 +131,12 @@ Finally it's done. And it's not the best thing ever, I am quite proud of this pr
  A link to the pen [Codepen](https://codepen.io/alara_joel_stealth/full/moxQjO)
 
 
+Day 14 (26th March 2019)
+
+Got a lot of feedback on my complemented project. one word; IMPROVE. Started gathering resources for color theory and design. I want to be better at this. Would love to get more resources reccomendations. 
+Did a bit of the js challenges at FCC. I was feeling a bit ill all day.
+
+
  
  
  
