@@ -96,13 +96,16 @@ Got a lot of feedback on my completed project. One word; IMPROVE. Started gather
 
 
 
-Day 15
+Day 15 (27th March 2019)
 
 
 Did more of the js challenges @ Fcc. Js is all starting to make sense now. Getting my resources for color and design ready. The deep dive is imminent. Found this wonderful youtube channel https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog I think this will level me up in css.
  
 
  
+ Day 16 (28th March 2019)
  
- 
+ More input to the js challenges at FCC. JS is absolutely tricky and challenging, but I think it wields an unrivalled power.
+ Went through more of Online Tutorials CSS designs on youtube and I am absolutely blown away. 
+Still prepping for the color theory and design theory deep dive. No rush, taking things slow.
 
