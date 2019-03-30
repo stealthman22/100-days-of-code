@@ -109,3 +109,8 @@ Did more of the js challenges @ Fcc. Js is all starting to make sense now. Getti
  Went through more of Online Tutorials CSS designs on youtube and I am absolutely blown away. 
 Still prepping for the color theory and design theory deep dive. No rush, taking things slow.
 
+
+Day 17 (29th march 2019)
+
+These js challenges are really getting interesting. i learnt a bit about golf in on the js challenges. Very funny indeed.
+Started reaing a bit on color theory. It sounds a bit abstract, but I will give it time.
