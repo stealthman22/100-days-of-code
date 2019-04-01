@@ -114,3 +114,11 @@ Day 17 (29th march 2019)
 
 These js challenges are really getting interesting. i learnt a bit about golf in on the js challenges. Very funny indeed.
 Started reaing a bit on color theory. It sounds a bit abstract, but I will give it time.
+
+Day 18 (30th March 2019)
+
+Did some more js challenges today. Was so tired and was virtually dozing all through the challenges. One thing I learnt; the earler in the day you get some work done, the better.
+
+Day 19 (31st March 2019)
+
+Okay took a break from the js challenges at FCC. Started wporking of my design eye..lol. I have began working on ONline tutorial's design lessons. Built something nice. Hover and see 
