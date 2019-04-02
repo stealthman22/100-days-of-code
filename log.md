@@ -121,4 +121,10 @@ Did some more js challenges today. Was so tired and was virtually dozing all thr
 
 Day 19 (31st March 2019)
 
-Okay took a break from the js challenges at FCC. Started wporking of my design eye..lol. I have began working on ONline tutorial's design lessons. Built something nice. Hover and see 
+Okay took a break from the js challenges at FCC. Started wporking of my design eye..lol. I have began working on ONline tutorial's design lessons. Built something nice. Hover and see: https://codepen.io/alara_joel_stealth/full/eomNzK
+
+Day 20 1st April 2019 )
+
+The js challenges were really seeming quite elusive today, I have to really start studying more js.Knocked down another design lesson by  http://www.onlinetutorialsweb.com. link is at https://codepen.io/alara_joel_stealth/full/YMPpay.
+Reading code is as important as writing them.
+
