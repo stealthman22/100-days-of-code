@@ -128,3 +128,7 @@ Day 20 1st April 2019 )
 The js challenges were really seeming quite elusive today, I have to really start studying more js.Knocked down another design lesson by  http://www.onlinetutorialsweb.com. link is at https://codepen.io/alara_joel_stealth/full/YMPpay.
 Reading code is as important as writing them.
 
+Day 21 (2nd April 2019)
+
+More js challenges. Did another Css design tutorial, didn't quite get it but I will work on it more. 
+Got some issues with adding smooth transitions to animations
