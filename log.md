@@ -132,3 +132,11 @@ Day 21 (2nd April 2019)
 
 More js challenges. Did another Css design tutorial, didn't quite get it but I will work on it more. 
 Got some issues with adding smooth transitions to animations
+
+Day 22 (3rd April 2018)
+
+Ya so I missed today, deliberately too. I needed to take a step back and reevaluate. What am I doing wrong? How far have I come? How can I get better?. I tried to prepare a goal oriented time table so I can push myself more and make the best of my time and efforts.
+
+Day 22 (4th April 2018)
+
+
