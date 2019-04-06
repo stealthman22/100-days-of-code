@@ -133,12 +133,15 @@ Day 21 (2nd April 2019)
 More js challenges. Did another Css design tutorial, didn't quite get it but I will work on it more. 
 Got some issues with adding smooth transitions to animations
 
-Day 22 (3rd April 2018)
+Day 22 (3rd April 2019)
 
 Ya so I missed today, deliberately too. I needed to take a step back and reevaluate. What am I doing wrong? How far have I come? How can I get better?. I tried to prepare a goal oriented time table so I can push myself more and make the best of my time and efforts.
 
-Day 22 (Repeat 4th April 2018)
+Day 22 (Repeat 4th April 2019)
 
 Worked on js challenges on FCC. Yop my js still sucks.I had a great time studying Laura Elizabeth's 'A Simple Web Developer's Color Guide' on Smashing magazine. She made it all look simple. Also worked through a CSS tutorial by  http://www.onlinetutorialsweb.com Didn't quite catch it, but will work more on it tommorow.   
 
 
+Day 23 (5th April 2019)
+
+Started reading JavaScript grammer today, it is all modern, I guess it is better to study js the new way rather than re invent the wheel. Learnt and documented a css solution for navbar content targetting (by Micheal Aubrey at FCC). Did a bit of the js challenges at FCC. 
