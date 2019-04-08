@@ -121,9 +121,9 @@ Did some more js challenges today. Was so tired and was virtually dozing all thr
 
 Day 19 (31st March 2019)
 
-Okay took a break from the js challenges at FCC. Started wporking of my design eye..lol. I have began working on ONline tutorial's design lessons. Built something nice. Hover and see: https://codepen.io/alara_joel_stealth/full/eomNzK
+Okay took a break from the js challenges at FCC. Started working of my design eye..lol. I have began working on ONline tutorial's design lessons. Built something nice. Hover and see: https://codepen.io/alara_joel_stealth/full/eomNzK
 
-Day 20 1st April 2019 )
+Day 20 (1st April 2019 )
 
 The js challenges were really seeming quite elusive today, I have to really start studying more js.Knocked down another design lesson by  http://www.onlinetutorialsweb.com. link is at https://codepen.io/alara_joel_stealth/full/YMPpay.
 Reading code is as important as writing them.
@@ -145,3 +145,11 @@ Worked on js challenges on FCC. Yop my js still sucks.I had a great time studyin
 Day 23 (5th April 2019)
 
 Started reading JavaScript grammer today, it is all modern, I guess it is better to study js the new way rather than re invent the wheel. Learnt and documented a css solution for navbar content targetting (by Micheal Aubrey at FCC). Did a bit of the js challenges at FCC. 
+
+
+DAY 24 (6th April 2019)
+Still trying to get comfy with the js world. Did more of Freecodecamp's js challenges. This ES6 syntax makes my head tingle nice.
+
+
+DAY 25  (7th April 2019)
+Got back home super late. Thanks to these tropical torrential downpour. So I sat down to code, struggled for 40 minutes with a sleepy eye, Couldn't help it and dozed of. Let's reset for tommorow.
