@@ -152,4 +152,11 @@ Still trying to get comfy with the js world. Did more of Freecodecamp's js chall
 
 
 DAY 25  (7th April 2019)
+
 Got back home super late. Thanks to these tropical torrential downpour. So I sat down to code, struggled for 40 minutes with a sleepy eye, Couldn't help it and dozed of. Let's reset for tommorow.
+
+
+DAY 25 (Repeat 8th April 2019)
+
+Did a lot of reading today, there is a lot of knowledge gap I need to fill in JS. Read about 2 chapters in js grammar, it's  makimg me love ES 6 more. Did further reading on colour theory, and learnt how to build a site in grayscale. O and played around with the wix site builder.   Yah it wasn't really a coding day I guess.
+
