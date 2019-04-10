@@ -160,3 +160,7 @@ DAY 25 (Repeat 8th April 2019)
 
 Did a lot of reading today, there are knowledge gaps I need to fill in JS. Read about 2 chapters in js grammar, it's making me love ES 6. Studied colour theory, and learnt how to build a site in grayscale. Played around with the wix site builder
 
+DAy 26 (9th April 2019)
+
+Did a revision on what I learnt from my progress in Bob Tabor's begineers js course. Read a medium article by Sunhil Sandu on; map, reduce and filter functions in js. Been held up at FCC js tutorials.  
+
