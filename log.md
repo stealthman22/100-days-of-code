@@ -162,5 +162,5 @@ Did a lot of reading today, there are knowledge gaps I need to fill in JS. Read 
 
 DAy 26 (9th April 2019)
 
-Did a revision on what I learnt from my progress in Bob Tabor's begineers js course. Read a medium article by Sunhil Sandu on; map, reduce and filter functions in js. Been held up at FCC js tutorials.  
+Did a revision on what I learnt from my progress in Bob Tabor's beginner's js course. Read a medium article by Sunhil Sandu on; map, reduce and filter functions in js. Been held up at FCC js tutorials. Starting my portfolio page project tomorrow
 
