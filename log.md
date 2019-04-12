@@ -164,3 +164,8 @@ DAy 26 (9th April 2019)
 
 Did a revision on what I learnt from my progress in Bob Tabor's beginner's js course. Read a medium article by Sunhil Sandu on; map, reduce and filter functions in js. Been held up at FCC js tutorials. Starting my portfolio page project tomorrow
 
+
+DAY 27 (10th April 2019)
+
+
+It was a colourful day! Continued the deep dive into colour, with; Color theory for designers (Part 1: The meaning of colour), by Cameron Chapman at smashing magazine. Learnt about warm colours, cool colours, neutral colours. Amazing article, worth the read 
