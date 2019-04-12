@@ -169,3 +169,8 @@ DAY 27 (10th April 2019)
 
 
 It was a colourful day! Continued the deep dive into colour, with; Color theory for designers (Part 1: The meaning of colour), by Cameron Chapman at smashing magazine. Learnt about warm colours, cool colours, neutral colours. Amazing article, worth the read 
+
+DAY 28 (11th April 2019)
+
+And another no day. just couldn't commit today. I do feel bad but it was not in my control; a couple of meetings that took all my time.
+Tomorrow will be better as I start a portfolio page project.
