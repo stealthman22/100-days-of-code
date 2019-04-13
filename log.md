@@ -174,3 +174,7 @@ DAY 28 (11th April 2019)
 
 And another no day. just couldn't commit today. I do feel bad but it was not in my control; a couple of meetings that took all my time.
 Tomorrow will be better as I start a portfolio page project.
+
+DAY 29 (12th April 2019)
+
+Focused on the portfolio page project today, coded the HTML, and following the grayscale first CSS approach (layout before colour). It's surprising how I semantically build my pages now.
