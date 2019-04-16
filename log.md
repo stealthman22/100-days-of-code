@@ -1,3 +1,5 @@
+ #100DaysOfCode #codingNewbies #freeCodeCamp 
+ 
  DAY 1 #100daysofcode
  
 
@@ -178,3 +180,20 @@ Tomorrow will be better as I start a portfolio page project.
 DAY 29 (12th April 2019)
 
 Focused on the portfolio page project today, coded the HTML, and following the grayscale first CSS approach (layout before colour). It's surprising how I semantically build my pages now.
+
+DAY 30 (13th April 2019)
+
+Still working on the portfolio page. Tried learning creative ways to use SVG, turns out they are not that scalable after all....smiles.
+
+
+DAY 31 (14th April 2019)
+
+Did more work on the portfolio page. Did a little reading on responsive web design, and images responsiveness, learnt about the use of size attribute, also for SVG's it is better to set height and width properties on HTML.
+
+DAY 32 (15th April 2019)
+
+Enjoying building this project, I am really learning a lot. learnt it's better to declare your media queries on the fly rather than waiting to finish the page styling 
+
+Reflected a bit today, turns out I haven't been puting much work in, got my mind on too many things, and spend way less time coding. It's time that changes
+
+
