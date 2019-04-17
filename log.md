@@ -192,8 +192,10 @@ Did more work on the portfolio page. Did a little reading on responsive web desi
 
 DAY 32 (15th April 2019)
 
-Enjoying building this project, I am really learning a lot. learnt it's better to declare your media queries on the fly rather than waiting to finish the page styling 
+ learnt it's better to declare your media queries on the fly rather than waiting to finish the page styling.
+Reflected a bit today, turns out I have been spending way less time coding. Counted today out (spent less than an hour)
 
-Reflected a bit today, turns out I haven't been puting much work in, got my mind on too many things, and spend way less time coding. It's time that changes
 
+DAY 32 ( repeat 16th April 2019)
 
+Great day, been learning so much. Projects are so amazing, they push you out of your box. Building the image slider for my portfolio page, with the help of Brad Traversy's tutorial. The opacity style in CSS can do wonders.
