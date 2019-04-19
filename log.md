@@ -203,3 +203,7 @@ Great day, been learning so much. Projects are so amazing, they push you out of 
 DAY 33 (17th April 2019)
 
 Worked through the portfolio project. Incoporating an image slider after followingBrad Traversy's tutorial. Encountering a problem  of empty backgrounds and buttons not working well. It's exhausting.
+
+DAY 34 (18th April 2019)
+
+Stil on the project , this is definitely taking too long. Might just give up on the image slider and build something decent with just one background image. But in all I am learning a lot. Slower than I wish, but learning still. 
