@@ -199,3 +199,7 @@ Reflected a bit today, turns out I have been spending way less time coding. Coun
 DAY 32 ( repeat 16th April 2019)
 
 Great day, been learning so much. Projects are so amazing, they push you out of your box. Building the image slider for my portfolio page, with the help of Brad Traversy's tutorial. The opacity style in CSS can do wonders.
+
+DAY 33 (17th April 2019)
+
+Worked through the portfolio project. Incoporating an image slider after followingBrad Traversy's tutorial. Encountering a problem  of empty backgrounds and buttons not working well. It's exhausting.
