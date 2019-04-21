@@ -207,3 +207,14 @@ Worked through the portfolio project. Incoporating an image slider after followi
 DAY 34 (18th April 2019)
 
 Stil on the project , this is definitely taking too long. Might just give up on the image slider and build something decent with just one background image. But in all I am learning a lot. Slower than I wish, but learning still. 
+
+
+DAY 35 (19th April 2019)
+
+Okay so I left the image slider to work on other page sections, I still have a lot to do on the layout. Might just let go of the image slider so i could move on with my learning.  Hope to get a good grip on js with time.\
+
+
+
+DAY 36 (20th April 2019)
+
+Finally got it all setup thanks to the help by Micheal Aubrey of free code camp, he has been an amazing friend and teacher. He got me three working solutions for the image slider, turns out when you target elements with document.querySelectorAll other elements in that container will be affected even though they lack the targeted class; beacause they are siblings. 
