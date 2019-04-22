@@ -218,3 +218,7 @@ Okay so I left the image slider to work on other page sections, I still have a l
 DAY 36 (20th April 2019)
 
 Finally got it all setup thanks to the help by Micheal Aubrey of free code camp, he has been an amazing friend and teacher. He got me three working solutions for the image slider, turns out when you target elements with document.querySelectorAll other elements in that container will be affected even though they lack the targeted class; beacause they are siblings. 
+
+DAY 37 (21st April 2019)
+
+Worked on tge page layout and responsiveness. I found out about responsive mood in dev tools just before this project, so I won't do the washy responsiveness I used to, but take my time to make the page look and function as best as it can accross devices.
