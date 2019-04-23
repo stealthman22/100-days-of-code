@@ -221,4 +221,7 @@ Finally got it all setup thanks to the help by Micheal Aubrey of free code camp,
 
 DAY 37 (21st April 2019)
 
-Worked on tge page layout and responsiveness. I found out about responsive mood in dev tools just before this project, so I won't do the washy responsiveness I used to, but take my time to make the page look and function as best as it can accross devices.
+Worked on the page layout and responsiveness. I found out about responsive mood in dev tools just before this project, so I won't do the washy responsiveness I used to, but take my time to make the page look and function as best as it can accross devices.
+
+DAY 38 (22nd April 2019)
+I have done a lot of work on the page, only the image seems not to be responsive. But  I will work that out by loading a smaller image at smaller viewports. Also can't get past FCC test suite, although I seem to have done everything right.
