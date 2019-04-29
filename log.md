@@ -224,4 +224,9 @@ DAY 37 (21st April 2019)
 Worked on the page layout and responsiveness. I found out about responsive mood in dev tools just before this project, so I won't do the washy responsiveness I used to, but take my time to make the page look and function as best as it can accross devices.
 
 DAY 38 (22nd April 2019)
+
 I have done a lot of work on the page, only the image seems not to be responsive. But  I will work that out by loading a smaller image at smaller viewports. Also can't get past FCC test suite, although I seem to have done everything right.
+
+DAY 39 (23 red April 2019)
+Finished up with the portfolio page project(https://codepen.io/alara_joel_stealth/full/yrjLjB), and also claimed the RWD certificate at FCC. 1 down 5 to go. Will reshedule to start a new course while still taking FCC challenges. Javascript lets do this. Hope to get better and design and color theory along the way as I am learning js. Got a lot to learn and got a loyt to greateful for.
+Missed 24th April - 27th April (Lots of personal issues and other assignments. I really missed doing this, but it was impossible to concentrate, I had to wait for it all to wear off. Good to be back guys let's continue the javascript journey
