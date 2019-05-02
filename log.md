@@ -233,4 +233,17 @@ Finished up with the portfolio page project(https://codepen.io/alara_joel_stealt
 
 Missed 24th April - 28th April (Lots of personal issues and other assignments. I really missed doing this, but it was impossible to concentrate, I had to wait for it all to wear off. Good to be back guys let's continue the javascript journey
 
-Resumed Bob Tabor's beginner js course. Learnt something on Prototypical inheritance and classes. WOuld revise all I learnt earlier in this course tomorrow.
+DAY 40 (29th April 2019)
+
+Resumed Bob Tabor's beginner js course. Learnt something on Prototypical inheritance and classes. Would revise all I learnt earlier in this course tomorrow.
+
+DAY 41 (30th April 2019)
+
+More of Bob Tabor's js course. Learnt about natives, constructors and prototypical inheritance. I am actually enjoying it. And I think it makes sense how constructors work- linking a new object to it's prototype. I like the fact that objects can be edited on the fly.
+
+Day 42 (1st April 2019)
+
+Amazing day for me, I claimed my FCC RWD certificate, and also studied the Web Design for Web Developers: Build Beautiful Websites! by Jonas Schmedtmann and claimed the certificate too. Time to prepare for the big ones Fcc js cert and complete web dev 2019 by Andrei Neagoie.
+
+
+
