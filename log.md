@@ -245,5 +245,9 @@ Day 42 (1st April 2019)
 
 Amazing day for me, I claimed my FCC RWD certificate, and also studied the Web Design for Web Developers: Build Beautiful Websites! by Jonas Schmedtmann and claimed the certificate too. Time to prepare for the big ones Fcc js cert and complete web dev 2019 by Andrei Neagoie.
 
+DAY 43 (1st April 2019)
+
+Learnt how javascript concept of classes works, how to use the extend keyword to push the boundaries of a new class. Also learnt quite a lot about arrow functions. Some truthy and falsy values and finally how Null in js, and how it's a  type of object. #100DaysOfCode
+
 
 
