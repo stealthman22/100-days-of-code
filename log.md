@@ -245,9 +245,20 @@ Day 42 (1st April 2019)
 
 Amazing day for me, I claimed my FCC RWD certificate, and also studied the Web Design for Web Developers: Build Beautiful Websites! by Jonas Schmedtmann and claimed the certificate too. Time to prepare for the big ones Fcc js cert and complete web dev 2019 by Andrei Neagoie.
 
-DAY 43 (1st April 2019)
+DAY 43 (2nd April 2019)
 
 Learnt how javascript concept of classes works, how to use the extend keyword to push the boundaries of a new class. Also learnt quite a lot about arrow functions. Some truthy and falsy values and finally how Null in js, and how it's a  type of object. #100DaysOfCode
 
 
 
+DAY 44 (3rd April 2019)
+
+Learnt qute a lot about methods used on strings and arrays. Methods are inbuilt functionalities baked into the natives of javascript primitives, thereby extending their fuctionalties. There are quite a number of them and I am yet to see the usefulness of some. More and more practice is necessary to assimilate everything 
+
+
+Day 45 (4th April 2019)
+
+Learnt more of the array methods, there are quite a number of them. Then learnt a bit about error handling with try catch. Something about blocking exceptions from breaking the code. Would have to dive deeper on that.
+
+(5th April 2019)
+No Coding on sunday. Decided to take sundays off to rest and pursue other endeavors
