@@ -262,3 +262,7 @@ Learnt more of the array methods, there are quite a number of them. Then learnt 
 
 (5th April 2019)
 No Coding on sunday. Decided to take sundays off to rest and pursue other endeavors
+
+DAY 46 (6th April 2019)
+
+Still trying to understand how the error handling with try-catch actually works. From there I will learn a brief into about the javascript DOM.  
