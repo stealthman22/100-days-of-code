@@ -266,3 +266,8 @@ No Coding on sunday. Decided to take sundays off to rest and pursue other endeav
 DAY 46 (6th April 2019)
 
 Still trying to understand how the error handling with try-catch actually works. From there I will learn a brief into about the javascript DOM.  
+
+DAY 47 (7th April 2019)
+
+Finally got a fair grip on error handling with try-catch today. Rounded up Bob Tabor's js tutorial with a quick intro to the Dom.
+The DOM is an object-based graphical representation of an HTML page alongside it's linked resources. It can be accessed by JS 
