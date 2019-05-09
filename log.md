@@ -271,3 +271,8 @@ DAY 47 (7th April 2019)
 
 Finally got a fair grip on error handling with try-catch today. Rounded up Bob Tabor's js tutorial with a quick intro to the Dom.
 The DOM is an object-based graphical representation of an HTML page alongside it's linked resources. It can be accessed by JS 
+
+DAY 48 (8th April 2019)
+
+Continued with the FCC challenges, there are some I couldn't solve under basic JavaScript. Well, I had to check the hints, sometimes I didn't quite catch what the challenge wanted.
+Hope to get better at it tomorrow after some revision
