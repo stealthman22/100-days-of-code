@@ -281,6 +281,8 @@ Hope to get better at it tomorrow after some revision
 
 DAY 49 (13th April)
 
-Finding the FCC js challenges a bit daunting. Been looking st the hints way too much. Also went through the introdutory sections of Andrei Neagoie's completemweb dev course. Met the discord community,they are legion. I am trilled.
-
 Finding the FCC js challenges a bit daunting. Been looking at the hints way too much. Also went through the introductory sections of Andrei Neagoie's complete web dev course. Met the discord community, they are legion. I am thrilled. Thanks,
+
+DAY 50 ( 14th April)
+
+Started the Andrei  Neagoie ZTM course and it's going nicely. learned about the history of the internet (ARPANET, INTERNET), and the tool traceroute(Amazing tool). Will do more research on it. This was a welcome break from learning JS.
