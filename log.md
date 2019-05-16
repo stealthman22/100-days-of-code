@@ -286,3 +286,9 @@ Finding the FCC js challenges a bit daunting. Been looking at the hints way too 
 DAY 50 ( 14th April)
 
 Started the Andrei  Neagoie ZTM course and it's going nicely. learned about the history of the internet (ARPANET, INTERNET), and the tool traceroute(Amazing tool). Will do more research on it. This was a welcome break from learning JS.
+
+(Missed TUesday 15th April
+
+DAY 51 (16th April )
+
+Tried More of the FCC JS challenges. Something about combining Switch and if else statements. It all gets quite confusing at times, and you just need a spoiler alert to get through. Still I do not want to give up (Baby Steps!)
