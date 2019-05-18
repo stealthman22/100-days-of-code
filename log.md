@@ -292,3 +292,7 @@ Started the Andrei  Neagoie ZTM course and it's going nicely. learned about the 
 DAY 51 (16th April )
 
 Tried More of the FCC JS challenges. Something about combining Switch and if else statements. It all gets quite confusing at times, and you just need a spoiler alert to get through. Still I do not want to give up (Baby Steps!)
+
+DAY 52 (17th April)
+
+More JS with You Don't Know JS 1. This is filling up my memory gaps in js. Learnt the difference between compilers and interpreters, the importance of boolean in evaluating conditionals and loops.
