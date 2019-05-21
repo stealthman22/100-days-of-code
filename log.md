@@ -241,58 +241,63 @@ DAY 41 (30th April 2019)
 
 More of Bob Tabor's js course. Learnt about natives, constructors and prototypical inheritance. I am actually enjoying it. And I think it makes sense how constructors work- linking a new object to it's prototype. I like the fact that objects can be edited on the fly.
 
-Day 42 (1st April 2019)
+Day 42 (1st May 2019)
 
 Amazing day for me, I claimed my FCC RWD certificate, and also studied the Web Design for Web Developers: Build Beautiful Websites! by Jonas Schmedtmann and claimed the certificate too. Time to prepare for the big ones Fcc js cert and complete web dev 2019 by Andrei Neagoie.
 
-DAY 43 (2nd April 2019)
+DAY 43 (2nd May 2019)
 
 Learnt how javascript concept of classes works, how to use the extend keyword to push the boundaries of a new class. Also learnt quite a lot about arrow functions. Some truthy and falsy values and finally how Null in js, and how it's a  type of object. #100DaysOfCode
 
 
 
-DAY 44 (3rd April 2019)
+DAY 44 (3rd May 2019)
 
 Learnt qute a lot about methods used on strings and arrays. Methods are inbuilt functionalities baked into the natives of javascript primitives, thereby extending their fuctionalties. There are quite a number of them and I am yet to see the usefulness of some. More and more practice is necessary to assimilate everything 
 
 
-Day 45 (4th April 2019)
+Day 45 (4th May 2019)
 
 Learnt more of the array methods, there are quite a number of them. Then learnt a bit about error handling with try catch. Something about blocking exceptions from breaking the code. Would have to dive deeper on that.
 
-(5th April 2019)
+(5th May 2019)
 No Coding on sunday. Decided to take sundays off to rest and pursue other endeavors
 
-DAY 46 (6th April 2019)
+DAY 46 (6th May 2019)
 
 Still trying to understand how the error handling with try-catch actually works. From there I will learn a brief into about the javascript DOM.  
 
-DAY 47 (7th April 2019)
+DAY 47 (7th May 2019)
 
 Finally got a fair grip on error handling with try-catch today. Rounded up Bob Tabor's js tutorial with a quick intro to the Dom.
 The DOM is an object-based graphical representation of an HTML page alongside it's linked resources. It can be accessed by JS 
 
-DAY 48 (8th April 2019)
+DAY 48 (8th May 2019)
 
 Continued with the FCC challenges, there are some I couldn't solve under basic JavaScript. Well, I had to check the hints, sometimes I didn't quite catch what the challenge wanted.
 Hope to get better at it tomorrow after some revision
 
-(Missed from 9th to 14th.. lack of motivation and lots of activities)took a break to clear my head and make some personal decisions I m glad to be back. How have you guys been?
+(Missed from 9th to 12th.. lack of motivation and lots of activities)took a break to clear my head and make some personal decisions I m glad to be back. How have you guys been?
 
-DAY 49 (13th April)
+DAY 49 (13th May 2019)
 
 Finding the FCC js challenges a bit daunting. Been looking at the hints way too much. Also went through the introductory sections of Andrei Neagoie's complete web dev course. Met the discord community, they are legion. I am thrilled. Thanks,
 
-DAY 50 ( 14th April)
+DAY 50 ( 14th May 2019)
 
 Started the Andrei  Neagoie ZTM course and it's going nicely. learned about the history of the internet (ARPANET, INTERNET), and the tool traceroute(Amazing tool). Will do more research on it. This was a welcome break from learning JS.
 
-(Missed TUesday 15th April
+(Missed 15th May)
 
-DAY 51 (16th April )
+DAY 51 ( 16th May 2019 )
 
 Tried More of the FCC JS challenges. Something about combining Switch and if else statements. It all gets quite confusing at times, and you just need a spoiler alert to get through. Still I do not want to give up (Baby Steps!)
 
-DAY 52 (17th April)
+DAY 52 ( 17th May 2019)
 
 More JS with You Don't Know JS 1. This is filling up my memory gaps in js. Learnt the difference between compilers and interpreters, the importance of boolean in evaluating conditionals and loops.
+
+DAY 53 ( 18th May 2019)
+
+Learnt more about loops, the importance of break statements, and the rules of scoping. Also learnt why type coercion is a strenght of JS that must be leveraged (YOU DON'T KNOW JS).  
+
