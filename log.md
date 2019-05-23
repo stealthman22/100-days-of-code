@@ -301,3 +301,7 @@ DAY 53 ( 18th May 2019)
 
 Learnt more about loops, the importance of break statements, and the rules of scoping. Also learnt why type coercion is a strenght of JS that must be leveraged (YOU DON'T KNOW JS).  
 
+
+DAY 54 (22nd May 2019)
+
+Spent time working on a mock-up for a side project that has been on my mind. Want to focus more on active learning for a while, and use what I have learnt so far to build something. 
