@@ -305,3 +305,8 @@ Learnt more about loops, the importance of break statements, and the rules of sc
 DAY 54 (22nd May 2019)
 
 Spent time working on a mock-up for a side project that has been on my mind. Want to focus more on active learning for a while, and use what I have learnt so far to build something. 
+
+
+DAY 55 (26th May 2019)
+
+Built my first electronic mockup for the new project using mockplus. It wasn't the most aesthetic, but helped me really put things into perspective. 
