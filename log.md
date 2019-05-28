@@ -310,3 +310,5 @@ Spent time working on a mock-up for a side project that has been on my mind. Wan
 DAY 55 (26th May 2019)
 
 Built my first electronic mockup for the new project using mockplus. It wasn't the most aesthetic, but helped me really put things into perspective. 
+
+Day 56 (28th May 2019)
