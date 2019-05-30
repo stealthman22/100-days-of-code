@@ -312,3 +312,5 @@ DAY 55 (26th May 2019)
 Built my first electronic mockup for the new project using mockplus. It wasn't the most aesthetic, but helped me really put things into perspective. 
 
 Day 56 (28th May 2019)
+
+Dived deeper into you don't know Js 1 Tried hard to solve a challenge, got the basic idea of what should be done but couldn't put it together. Finished with a review of built-in types and natives.  
