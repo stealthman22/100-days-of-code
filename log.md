@@ -314,3 +314,7 @@ Built my first electronic mockup for the new project using mockplus. It wasn't t
 Day 56 (28th May 2019)
 
 Dived deeper into you don't know Js 1 Tried hard to solve a challenge, got the basic idea of what should be done but couldn't put it together. Finished with a review of built-in types and natives.  
+
+DAY 57 (30th May 2019)
+
+Worked on my side project, built the basic markup and flow of the page. This promises to be interesting. Structuring it a bit like my last project. Consistency is key, things you are not quite good seem to get more difficult when you leave them for more than a day
