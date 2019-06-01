@@ -318,3 +318,9 @@ Dived deeper into you don't know Js 1 Tried hard to solve a challenge, got the b
 DAY 57 (30th May 2019)
 
 Worked on my side project, built the basic markup and flow of the page. This promises to be interesting. Structuring it a bit like my last project. Consistency is key, things you are not quite good seem to get more difficult when you leave them for more than a day
+
+
+DAY 58 (31 May 2019)
+
+Finally, decided on how the nav bar should look. And moved on to the image slider (All code was ready from my last project). I now understand the usefulness of  resuable code. Build it once and use it always. 
+
