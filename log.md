@@ -324,3 +324,10 @@ DAY 58 (31 May 2019)
 
 Finally, decided on how the nav bar should look. And moved on to the image slider (All code was ready from my last project). I now understand the usefulness of  resuable code. Build it once and use it always. 
 
+
+DAY 59 (2nd June 2019)
+
+
+Worked a little more on my side project. Viewing a lot of sites with flat colors and succinct designs..... The inspirations from these will definitely affect how my site will turn out. I will go a bit heavy  on animations this time.
+
+
