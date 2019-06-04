@@ -331,3 +331,6 @@ DAY 59 (2nd June 2019)
 Worked a little more on my side project. Viewing a lot of sites with flat colors and succinct designs..... The inspirations from these will definitely affect how my site will turn out. I will go a bit heavy  on animations this time.
 
 
+DAY 60 (3rd June 2019)
+
+Started the Javascript30 challenge. So amazing: Built a js drumkit. The logic was quite daunting to catch but I enjoyed it thoroughly. Also spent some time on my suicide project. Didn't knock down all items on my schedule today tho
