@@ -334,3 +334,7 @@ Worked a little more on my side project. Viewing a lot of sites with flat colors
 DAY 60 (3rd June 2019)
 
 Started the Javascript30 challenge. So amazing: Built a js drumkit. The logic was quite daunting to catch but I enjoyed it thoroughly. Also spent some time on my suicide project. Didn't knock down all items on my schedule today tho
+
+DAY 61 (4th June 2019)
+
+And another JavaScript30 challenge. We built a js clock. Really learnt a lot about getting time in javascript using the setDate() function. Also learnt the transform-origin property in CSS. Would go through then again to det the logic   
