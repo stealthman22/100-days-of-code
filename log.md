@@ -338,3 +338,7 @@ Started the Javascript30 challenge. So amazing: Built a js drumkit. The logic wa
 DAY 61 (4th June 2019)
 
 And another JavaScript30 challenge. We built a js clock. Really learnt a lot about getting time in javascript using the setDate() function. Also learnt the transform-origin property in CSS. Would go through then again to det the logic   
+
+
+DAY 62 (5th June 2019)
+WAooo JS30: updating CSS var with js.The mouseover and change events, the dataset object to select custom data attrib, binding an element to this using interpolation syntax, Selecting the HTML doc with :root in CSS and documentElement for js
