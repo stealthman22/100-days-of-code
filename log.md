@@ -342,3 +342,7 @@ And another JavaScript30 challenge. We built a js clock. Really learnt a lot abo
 
 DAY 62 (5th June 2019)
 WAooo JS30: updating CSS var with js.The mouseover and change events, the dataset object to select custom data attrib, binding an element to this using interpolation syntax, Selecting the HTML doc with :root in CSS and documentElement for js
+
+DAY 63 (6th June 2019)
+
+ The 4th challenge in js30. Learnt how to work with array methods (map, filter, reduce, sort). The spread operator [...],  Array.from:  creates arrays form obj. And my favourite: console.table(). Lastly a bit about splitting and destructuring.  
