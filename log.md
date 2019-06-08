@@ -346,3 +346,7 @@ WAooo JS30: updating CSS var with js.The mouseover and change events, the datase
 DAY 63 (6th June 2019)
 
  The 4th challenge in js30. Learnt how to work with array methods (map, filter, reduce, sort). The spread operator [...],  Array.from:  creates arrays form obj. And my favourite: console.table(). Lastly a bit about splitting and destructuring.  
+
+DAY 64 (7th June 2019)
+
+Built a flexbox gallery that is updated with js. Learnt the difference between referencing a function in an event, and causing it to run at page load .addEvenListener('click', updatehandler())..NO ..addEvenListener('click', updatehandler)..YES
