@@ -351,4 +351,4 @@ DAY 64 (7th June 2019)
 
 Built a flexbox gallery that is updated with js. Learnt the difference between referencing a function in an event, and causing it to run at page load .addEvenListener('click', updatehandler())..NO ..addEvenListener('click', updatehandler)..YES
 
-DAY 65 (7th June 2019)Learnt how to fetch data from an external source, using the fetch API in the browser. Getting used to the logic and new methods. And a brief understanding of what data science is all about.
+DAY 65 (7th June 2019)Learnt how to fetch data from an external source, using the fetch API in the browser. Getting used to the logic and new methods. And a brief understanding of what data science is all about. We built an intellisense search bar
