@@ -351,4 +351,20 @@ DAY 64 (7th June 2019)
 
 Built a flexbox gallery that is updated with js. Learnt the difference between referencing a function in an event, and causing it to run at page load .addEvenListener('click', updatehandler())..NO ..addEvenListener('click', updatehandler)..YES
 
-DAY 65 (7th June 2019)Learnt how to fetch data from an external source, using the fetch API in the browser. Getting used to the logic and new methods. And a brief understanding of what data science is all about. We built an intellisense search bar
+DAY 65 (8th June 2019)
+
+Learnt how to fetch data from an external source, using the fetch API in the browser. Getting used to the logic and new methods. And a brief understanding of what data science is all about. We built an intellisense search bar
+
+
+DAY 66 (9th June 2019)
+
+Learned some more array methods today. The some (Check for an occurrence), every(all occurrences), and find(finds the first occurrence).
+
+DAY 67 (10th June 2019)
+
+Leaarned about the amazing html5 canvas today. Worked with 2D rendering today. Turns out methods can be called on it(canvas.get). Speed through the HTMl section of ZTM.
+
+DAY 68 (11th June 2019)
+
+Tried to finish up the HTMl section of ZTM, almosst done with the CSS too. Tried to finish up the HTML section of ZTM, almost done with the CSS too. 
+Today's JS30 challenge was on DEV tools tricks for debugging and testing. Learned a couple of them. console.dir (Shows Node list), console.group console.ime
