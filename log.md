@@ -367,4 +367,9 @@ Leaarned about the amazing html5 canvas today. Worked with 2D rendering today. T
 DAY 68 (11th June 2019)
 
 Tried to finish up the HTMl section of ZTM, almosst done with the CSS too. Tried to finish up the HTML section of ZTM, almost done with the CSS too. 
-Today's JS30 challenge was on DEV tools tricks for debugging and testing. Learned a couple of them. console.dir (Shows Node list), console.group console.ime
+Today's JS30 challenge was on DEV tools tricks for debugging and testing. Learned a couple of them. console.dir (Shows Node list), console.group console.time
+
+
+DAY 69 (14th June 2019)
+
+Did the shift key checkbox challenge in JS30. This was quite hard to envision. I tried breaking it down to smaller pieces but could only get a bit of the logic. a = !a Still baffles me. And I never expected  'ShiftKey' to be all you need to reference the key
