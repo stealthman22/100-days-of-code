@@ -373,3 +373,7 @@ Today's JS30 challenge was on DEV tools tricks for debugging and testing. Learne
 DAY 69 (14th June 2019)
 
 Did the shift key checkbox challenge in JS30. This was quite hard to envision. I tried breaking it down to smaller pieces but could only get a bit of the logic. a = !a Still baffles me. And I never expected  'ShiftKey' to be all you need to reference the key
+
+DAY 70 (16th June 2019)
+
+Reflected on the patterns that were consistent in the code examples I have been learning. Few things stood out; First selecting of NodeLists, then event listeners, and finally the blocks of functions. I think most front end JS are fashioned in this manner. 
