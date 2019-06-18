@@ -377,3 +377,7 @@ Did the shift key checkbox challenge in JS30. This was quite hard to envision. I
 DAY 70 (16th June 2019)
 
 Reflected on the patterns that were consistent in the code examples I have been learning. Few things stood out; First selecting of NodeLists, then event listeners, and finally the blocks of functions. I think most front end JS are fashioned in this manner. 
+
+DAY 71 (17th June 2019)
+
+Tackled half of the Day 11 challenge in JS30. We are building a customized HTML5 video player. I am set to apply Becca Williams approach of asking many questions on the codebase you are working on, researching and tracking your progress.
