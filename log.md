@@ -381,3 +381,7 @@ Reflected on the patterns that were consistent in the code examples I have been 
 DAY 71 (17th June 2019)
 
 Tackled half of the Day 11 challenge in JS30. We are building a customized HTML5 video player. I am set to apply Becca Williams approach of asking many questions on the codebase you are working on, researching and tracking your progress.
+
+DAY 72 (18th June 2019)
+
+Finished up the Day 11 Challenge in JS30. And I proceeded to ask questions on code logic I do not understand. Also yet to solve the challenge of adding a fullscreen toggle button. Need to shift more focus to the ZTM course. 
