@@ -385,3 +385,8 @@ Tackled half of the Day 11 challenge in JS30. We are building a customized HTML5
 DAY 72 (18th June 2019)
 
 Finished up the Day 11 Challenge in JS30. And I proceeded to ask questions on code logic I do not understand. Also yet to solve the challenge of adding a fullscreen toggle button. Need to shift more focus to the ZTM course. 
+
+DAY 73 (19th June 2019)
+
+Another JS30 day. Built a key sequence identifier, It creates an object and stores every keystroke. It's the basis of a keylogger application. I am convinced that the possibilities of javascript are endless
+
