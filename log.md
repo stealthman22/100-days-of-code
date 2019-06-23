@@ -390,3 +390,6 @@ DAY 73 (19th June 2019)
 
 Another JS30 day. Built a key sequence identifier, It creates an object and stores every keystroke. It's the basis of a keylogger application. I am convinced that the possibilities of javascript are endless
 
+DAY 74 (21 -22nd June 2019)
+
+Built a slide in on scroll page in JS30 (Day 13) using the debounce function, learnt a lot about window objects ()still yet to grasp the maths involved  Then finished the started and finished the CSS section in ZTM. Next completed all CSS Diner (selector) challenges at https://flukeout.github.io/. Finally, understand all relevant CSS selectors out there.
