@@ -393,3 +393,7 @@ Another JS30 day. Built a key sequence identifier, It creates an object and stor
 DAY 74 (21 -22nd June 2019)
 
 Built a slide in on scroll page in JS30 (Day 13) using the debounce function, learnt a lot about window objects ()still yet to grasp the maths involved  Then finished the started and finished the CSS section in ZTM. Next completed all CSS Diner (selector) challenges at https://flukeout.github.io/. Finally, understand all relevant CSS selectors out there.
+
+DAY 75 (23rd June 2019)
+
+Learnt the difference between reference and copy in javascript in JS30 challenge. Really got to understand some more array methods for copying (.from spread .concat .slice) and to copy an object, you use the (.assign) method. To create deep clones (i.e copying deeper than a level), you can use JSON.parse(JSON.stringify ()). Also built a flexbox image galley in the ZTM course. Fulfilling day
