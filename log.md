@@ -397,3 +397,10 @@ Built a slide in on scroll page in JS30 (Day 13) using the debounce function, le
 DAY 75 (23rd June 2019)
 
 Learnt the difference between reference and copy in javascript in JS30 challenge. Really got to understand some more array methods for copying (.from spread .concat .slice) and to copy an object, you use the (.assign) method. To create deep clones (i.e copying deeper than a level), you can use JSON.parse(JSON.stringify ()). Also built a flexbox image galley in the ZTM course. Fulfilling day
+
+DAY 76 (24th June 2019)
+
+
+Finished up the Advanced CSS section of ZTM, moved on to the bootstrap section. Then I tackled the 15th challenge in JS30: understanding Event delegation and working with the local storage API when the event is listened for;  In a nutshell, event delegation helps you keep track of events by passing it to parent elements to handle, in the case of the children which you are actually targeting not being present And immediately redelegating it to the children... 
+The local storage is seemingly an object that is really a key-value store that helps keep updated changes persistent even at page refresh, Hence preserving the state. 
+
