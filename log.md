@@ -404,3 +404,6 @@ DAY 76 (24th June 2019)
 Finished up the Advanced CSS section of ZTM, moved on to the bootstrap section. Then I tackled the 15th challenge in JS30: understanding Event delegation and working with the local storage API when the event is listened for;  In a nutshell, event delegation helps you keep track of events by passing it to parent elements to handle, in the case of the children which you are actually targeting not being present And immediately redelegating it to the children... 
 The local storage is seemingly an object that is really a key-value store that helps keep updated changes persistent even at page refresh, Hence preserving the state. 
 
+DAY 77 (25th June 2019)
+
+Finished the Bootstrap section of the Zero to Mastery course, and built a simple startup landing page, which has an email subscription list linked to it. Then I learnt how to make it live on GitHub using either the desktop app or Cli. Finally completed DAY 16 of JS30 and learnt how to a text shadow effect that follows the mouse as it moves. 
