@@ -407,3 +407,7 @@ The local storage is seemingly an object that is really a key-value store that h
 DAY 77 (25th June 2019)
 
 Finished the Bootstrap section of the Zero to Mastery course, and built a simple startup landing page, which has an email subscription list linked to it. Then I learnt how to make it live on GitHub using either the desktop app or Cli. Finally completed DAY 16 of JS30 and learnt how to a text shadow effect that follows the mouse as it moves. 
+
+DAY 78 (26th June 2019)
+
+Did day 17 of JS30. Worked with the sort, replace and trim array methods, and the much-revered regex pattern to order some data while removing the definite articles "the" "a" "an". Also stared the CSS Grid section of the Zero to Mastery course. 
