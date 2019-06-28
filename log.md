@@ -410,4 +410,9 @@ Finished the Bootstrap section of the Zero to Mastery course, and built a simple
 
 DAY 78 (26th June 2019)
 
-Did day 17 of JS30. Worked with the sort, replace and trim array methods, and the much-revered regex pattern to order some data while removing the definite articles "the" "a" "an". Also stared the CSS Grid section of the Zero to Mastery course. 
+Did day 17 of JS30. Worked with the sort, replace and trim array methods, and the much-revered regex pattern to order some data while removing the definite articles "the" "a" "an". Also stared the CSS Grid section of the Zero to Mastery course.
+
+
+DAY 79 (27th June 2019)
+
+Challenge 18 in JS30, I really enjoyed this one. We added the time in a video playlist using map and reduce array methods. I had good practice with map(Takes in an array and returns an array)   .reduce(Takes in an array and returns anything specified, usually an accumulated value) Math.floor(Chops answers to whole numbers), %(Returns remainder of a maths operation).
