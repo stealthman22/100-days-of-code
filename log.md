@@ -420,4 +420,6 @@ Challenge 18 in JS30, I really enjoyed this one. We added the time in a video pl
 
 
 DAY 80 (1st July 2019)
+
+
 Tackled the webcam challenge with HTML canvas element in JS30 it was quite fun. But a bit hectic, I debugged for almost 3 hours, still can't figure out what is wrong, as only 1 of the 3 effects is working. But I did learn a whole lot; (navigator object, local media stream etc) then I got half of the CSS Grid section done in the ZTM course. It was fun learning layouts with CSS Grid.  Also, I put my first GitHub site online, it's just a landing page that has an email subscription form from MailChimp stealthman22.github.io  
