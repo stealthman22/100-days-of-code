@@ -427,3 +427,6 @@ DAY 81 (2nd July 2019)
 
 And finally a challenge I really enjoyed. Built a speech to text recognition page today. I built it in Microsoft (Linux was having driver issues), and I had so much fun with Cortana (She is pretty smart)! The possibilities with this are endless, and it is really useful. In the ZTM course, I tried to build a CSS grid layout, didn't quite catch it so will go through again.
 
+DAY 82 (3rd July 2019)
+
+Really busy day, but I did do a minimum commit, Finished the CSS grid section of my ZTM course. ZTM is Zero to Mastery, a full stack web development course by Andrei Neagoie on Udemy... He focused on learning important things to get job ready and also be very efficient. With a discord channel of almost 40,000 programmers, this is a massive resource https://www.udemy.com/the-complete-web-developer-zero-to-mastery/  
