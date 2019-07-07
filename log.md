@@ -430,3 +430,8 @@ And finally a challenge I really enjoyed. Built a speech to text recognition pag
 DAY 82 (3rd July 2019)
 
 Really busy day, but I did do a minimum commit, Finished the CSS grid section of my ZTM course. ZTM is Zero to Mastery, a full stack web development course by Andrei Neagoie on Udemy... He focused on learning important things to get job ready and also be very efficient. With a discord channel of almost 40,000 programmers, this is a massive resource https://www.udemy.com/the-complete-web-developer-zero-to-mastery/  
+
+
+DAY 83 (6th July 2019)
+
+Tackled day 22 of javascript 30. We built a page that has a smooth hover effect oon the linls, that resizes and follows you around, this is definitely something i've been wondering how to solve. Finally O am now in the Javascript section for ZTM! let the fun begin
