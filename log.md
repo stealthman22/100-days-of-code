@@ -435,3 +435,8 @@ Really busy day, but I did do a minimum commit, Finished the CSS grid section of
 DAY 83 (6th July 2019)
 
 Tackled day 22 of javascript 30. We built a page that has a smooth hover effect oon the linls, that resizes and follows you around, this is definitely something i've been wondering how to solve. Finally O am now in the Javascript section for ZTM! let the fun begin
+
+
+DAY 84 (7th July 2019)
+
+Started the javascript section of my ZTM course. Learnt about logical operators and variables, I seem to have retained more knowledge of js than I thought I was. Seems the javascript30 challenges have helped me. Hope to get back FCC challenges soon.
