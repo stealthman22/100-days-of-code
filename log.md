@@ -440,3 +440,8 @@ Tackled day 22 of javascript 30. We built a page that has a smooth hover effect 
 DAY 84 (7th July 2019)
 
 Started the javascript section of my ZTM course. Learnt about logical operators and variables, I seem to have retained more knowledge of js than I thought I was. Seems the javascript30 challenges have helped me. Hope to get back FCC challenges soon.
+
+
+DAY 85 (8th July 2019)
+
+Tackled the 23rd challenge of Javascript30, build a speech synthesizer (Converting text to speech), using the speechSynthesisUtterance API and the speechSynthesis global variable. Quite a straight process, that proves how invaluable arrays are 
