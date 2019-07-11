@@ -445,3 +445,15 @@ Started the javascript section of my ZTM course. Learnt about logical operators 
 DAY 85 (8th July 2019)
 
 Tackled the 23rd challenge of Javascript30, build a speech synthesizer (Converting text to speech), using the speechSynthesisUtterance API and the speechSynthesis global variable. Quite a straight process, that proves how invaluable arrays are 
+
+DAY 86 (9th July 2019)
+
+Short commit today. Went through the functions lesson of the ZTM course, We focused on traditional functions.. function sayHello() {
+console.log('Hello World')
+}. Also learnt some best practices (Always write dry codes i.e avoid repetition), And why functions exit after a return statement. Finally the difference between functions expressions ( anonymous functions) and function declarations (they have an assigned name). 
+
+
+DAY 87 (10th July 2019)
+
+Day 24 for JS30. Built a sticky navbar that is controlled by js. The height and passing are dynamically handled using the offsetHeight and offsetTop properties. This way you never need to worry if it resizes in any way.
+Finally finished the javascript section of ZTM. Went through arrays, objects and loops. Built a sign in logic for facebook. Found the for Each loop method quite interesting. But the methods in arrays make them so useful, it is advisable to wrap them round objects
