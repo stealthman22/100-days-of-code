@@ -457,3 +457,10 @@ DAY 87 (10th July 2019)
 
 Day 24 for JS30. Built a sticky navbar that is controlled by js. The height and passing are dynamically handled using the offsetHeight and offsetTop properties. This way you never need to worry if it resizes in any way.
 Finally finished the javascript section of ZTM. Went through arrays, objects and loops. Built a sign in logic for facebook. Found the for Each loop method quite interesting. But the methods in arrays make them so useful, it is advisable to wrap them round objects
+
+DAY 88 (11th July 2019)
+
+ Started the DOM  section of the ZTM course, and learnt DOM events  This explains how to add event listeners to elements and fire an event on interaction. Learnt a lot of DOM selectors and useful keywords to allow you to dynamically add content and styles with JS.
+
+Finally tackled day 25 of JS30 which talked about event capture (figuring out the event from parent element to target element), stop propagation (This stops event from bubbling up, hence stops the firing at the target element), bubbling (Going back up to the parent while firing the event) and once (listening for the event only once then unbinding).
+
