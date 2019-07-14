@@ -464,3 +464,6 @@ DAY 88 (11th July 2019)
 
 Finally tackled day 25 of JS30 which talked about event capture (figuring out the event from parent element to target element), stop propagation (This stops event from bubbling up, hence stops the firing at the target element), bubbling (Going back up to the parent while firing the event) and once (listening for the event only once then unbinding).
 
+DAY 89 (12 - 13th July 2019)
+
+Worked through an exercise on ZTM DOM Events, couldn't solve it but  I'm  determined to do so. Finally, I worked on DAY 26 of JS 30 and we built a seamless dropdown menu with transitions. Learnt a lot about events and the 'getBoundingClientRect' method, which grabs the coordinates of an element, giving us it's exact position at every time, hence we can work with the different figures it outputs, and update it dynamically.  Also figured out some more info about the lexical 'this'.
