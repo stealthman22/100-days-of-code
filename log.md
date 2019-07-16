@@ -472,4 +472,4 @@ Worked through an exercise on ZTM DOM Events, couldn't solve it but  I'm  determ
 Day 90 (14th July 2019)
 
 Worked on the to-do list exercise on ZTM could only solve; toggling the line through effect on the list items and the dynamically added list items (added with Dom).
-But couldn't add buttons dynamically to each li item. The loops I constructed don't work
+But couldn't add buttons dynamically to each li item. Would give it another shot .
