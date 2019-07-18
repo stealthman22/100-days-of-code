@@ -473,3 +473,8 @@ Day 90 (14th July 2019)
 
 Worked on the to-do list exercise on ZTM could only solve; toggling the line through effect on the list items and the dynamically added list items (added with Dom).
 But couldn't add buttons dynamically to each li item. Would give it another shot .
+
+Day 91 (16th July 2019)
+
+Tackled Day 27 of JS30. We built a project that tackled the fundamentals of the 'click and drag effect'. e.pageX (is a method that gives us the x coords on a page), e.preventDefault (prevents any accidental actions that may 'confuse the event listener' e.g text selection). 
+offsetLeft (calculates the current position of an element along the x-axis). scrollLeft (calculates the number in px an elements content is scrolled horizontally).
