@@ -478,3 +478,6 @@ Day 91 (16th July 2019)
 
 Tackled Day 27 of JS30. We built a project that tackled the fundamentals of the 'click and drag effect'. e.pageX (is a method that gives us the x coords on a page), e.preventDefault (prevents any accidental actions that may 'confuse the event listener' e.g text selection). 
 offsetLeft (calculates the current position of an element along the x-axis). scrollLeft (calculates the number in px an elements content is scrolled horizontally).
+
+DAY 92 (18th July 2019)
+Went through my ZTM course and finished the DOM section (Still have an outstanding exercise ). Built a linear gradient generator, and learnt about the input event (listens for an action on an input element and performs a function).Then learnt some developer fundamentals and got to know about imperative and declarative coding. Finally learnt a lot on scope; the parent/root scope and the child scope.
