@@ -487,3 +487,9 @@ DAY 93 (19th July 2019)
 
 Tackled day 28 in JS30 and built a video playback speed controller, using a beautiful UI speed bar that is updated using the mousemove event. We used pageY, offsetTop and offsetHeight to control the speed bar. Converting offsetHeight to % with
 const percent = y / this.offsetHeight where y is const y = e.pageY - this.offsetTop; and finally this logic: const height = Math.round(percent * 100) + '%'; did the whole magic. My understanding and appreciation of JS  has increased greatly.
+
+DAY 94 (20th July 2019)
+
+Focused on ZTM today. Learnt more about conditionals; the ternary operator and the switch statement. 
+Ternary operator: condition ? expr1: expr2; In a single line, it can validate a condition that has two possible states i.e if condition stands do this else do that.
+Switch statement: This is a consice way to chain together many if else datements.  switch {case: "param": var = "outcome"; break;} 
