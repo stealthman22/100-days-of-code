@@ -493,3 +493,8 @@ DAY 94 (20th July 2019)
 Focused on ZTM today. Learnt more about conditionals; the ternary operator and the switch statement. 
 Ternary operator: condition ? expr1: expr2; In a single line, it can validate a condition that has two possible states i.e if condition stands do this else do that.
 Switch statement: This is a consice way to chain together many if else datements.  switch {case: "param": var = "outcome"; break;} 
+
+DAY 95 (22nd July 2019)
+
+Day 29: JS 30. We built a Pomodoro clock. Learnt how to work with Date.now() (gets timestamp) , and new Date (converts timestamp to actual time), alongside it's sub-methods; getHours(), getMInutes(), then to make setInterval()work properly with countdowns. 
+Then I did ZTM; learnt new features of ES 5 and 6 (Babel, let and const, Destructuring (makes it easy to dynamically create and update object properties {name, age} = obj), symbol and =>).  
