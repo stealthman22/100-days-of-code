@@ -511,3 +511,17 @@ Currying: The process of converting a func with many arg, to only have one arg a
 Compose: Put two func together to form a third, where the input of the one, is the output of the other: const compose = (f, g) => (a) => f(g(a));
 
 Funct purity: Ensuring a func doesn't affect the outside world, and does one thing. It should have no side effects (causing actions we did not plan for), and deterministic (always produce the same result when given the same output). 
+
+
+DAY 97 (24th July 2014)
+
+Tackled arrays in ZTM. Worked with forEach, map, filter and reduce:
+forEach: loops over items, and performs a fn, and push the new values into a helper array.
+
+Map: It iterates an array, applies the operation on each element, and stores the result in a copy of the array.
+
+Filter: Filters the result from our array with a condition, only elements that meet this condition, will be operated on.
+
+Reduce: maps and filters, then takes in an accumulator (stores info of updates in the fn. At first loop, it stores the result and updates its initial value.)
+
+N.B forEach is considered an impure fn. as it can introduce side effects (also mutates the data with a new array) but map, filter and reduce (only makes copies of the same array) are pure as they do one thing "return something"
