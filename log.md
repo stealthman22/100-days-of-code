@@ -498,3 +498,16 @@ DAY 95 (22nd July 2019)
 
 Day 29: JS 30. We built a Pomodoro clock. Learnt how to work with Date.now() (gets timestamp) , and new Date (converts timestamp to actual time), alongside it's sub-methods; getHours(), getMInutes(), then to make setInterval()work properly with countdowns. 
 Then I did ZTM; learnt new features of ES 5 and 6 (Babel, let and const, Destructuring (makes it easy to dynamically create and update object properties {name, age} = obj), symbol and =>).  
+
+
+DAY 96 (23rd July 2014)
+
+Learnt more about functions in ZTM. Worked on scopes, the ES6 way of writing func (assigning it to a variable).
+
+Closures: An executed func will never run again, but there will be a reference to it.  
+ 
+Currying: The process of converting a func with many arg, to only have one arg at a time: const curry = (a)=> (b) => a+ b;
+
+Compose: Put two func together to form a third, where the input of the one, is the output of the other: const compose = (f, g) => (a) => f(g(a));
+
+Funct purity: Ensuring a func doesn't affect the outside world, and does one thing. It should have no side effects (causing actions we did not plan for), and deterministic (always produce the same result when given the same output). 
