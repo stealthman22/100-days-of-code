@@ -513,7 +513,7 @@ Compose: Put two func together to form a third, where the input of the one, is t
 Funct purity: Ensuring a func doesn't affect the outside world, and does one thing. It should have no side effects (causing actions we did not plan for), and deterministic (always produce the same result when given the same output). 
 
 
-DAY 97 (24th July 2014)
+DAY 97 (24th July 2019)
 
 Tackled arrays in ZTM. Worked with forEach, map, filter and reduce:
 forEach: loops over items, and performs a fn, and push the new values into a helper array.
@@ -525,3 +525,17 @@ Filter: Filters the result from our array with a condition, only elements that m
 Reduce: maps and filters, then takes in an accumulator (stores info of updates in the fn. At first loop, it stores the result and updates its initial value.)
 
 N.B forEach is considered an impure fn. as it can introduce side effects (also mutates the data with a new array) but map, filter and reduce (only makes copies of the same array) are pure as they do one thing "return something"
+
+DAY 98 (25th July 2019)
+
+Tackeled the advanced objects lecture in ZTM. Learnt on;
+Reference type: (Objects by default are created only once, and every reference to it will update it's entire values)
+
+Context: (the this keyword by default is refers to the window object, It's refers to whatever object it is called in), 
+
+Instantiation: 
+a. Creating classes (objects we wish to copy from) with the class keyword, constructing arguments with "constructor" then building methods for them,
+
+b. Creating sub classes (with the "extends" and "super" keywords), that extends (copies) them  and adds new methods
+
+c. Then creating updated instances of them with the "new" keyword.
