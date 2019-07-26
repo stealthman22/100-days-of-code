@@ -528,14 +528,15 @@ N.B forEach is considered an impure fn. as it can introduce side effects (also m
 
 DAY 98 (25th July 2019)
 
-Tackeled the advanced objects lecture in ZTM. Learnt on;
-Reference type: (Objects by default are created only once, and every reference to it will update it's entire values)
+Tackled the advanced objects in  ZTM. Learnt on;
+Reference type: (Objects are created only once, and every reference to it will update its entire values)
 
-Context: (the this keyword by default is refers to the window object, It's refers to whatever object it is called in), 
+Context: (the this keyword by default  refers to the window object, It's is  whatever object it is called in)
+
 
 Instantiation: 
 a. Creating classes (objects we wish to copy from) with the class keyword, constructing arguments with "constructor" then building methods for them,
 
-b. Creating sub classes (with the "extends" and "super" keywords), that extends (copies) them  and adds new methods
+b. Creating subclasses (with "extends" and "super" keywords), that extends (copies) them  and adds new methodsds
 
 c. Then creating updated instances of them with the "new" keyword.
