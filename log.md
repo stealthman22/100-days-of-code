@@ -540,3 +540,17 @@ a. Creating classes (objects we wish to copy from) with the class keyword, const
 b. Creating subclasses (with "extends" and "super" keywords), that extends (copies) them  and adds new methodsds
 
 c. Then creating updated instances of them with the "new" keyword.
+
+
+DAY 99 (26th July 2019)
+
+Finished JS 30 today. We built a Whack A Mole game. And I learnt on recursions (calling a fn within itself, stopping or restarting it).
+ Learnt how to generate random results using Math.random.
+ Also, read YDNJS a bit and tried understanding the difference between dynamic this and lexical this, and when to use arrow fn or traditional functions. 
+
+Then I worked on ZTM. Learnt on pass by value (for variables: when you refer a new var to an older one, the value is copied and put in a new location in memory) and pass by reference (for objects: New objects referencing old once, point to the same location in memory).
+Also worked on type coercion (== (causes coercion) ===(prevents coercion), Object.is(Goes deeper then ===, for Nan, -0 and +0).)
+
+Finally leant the features of ES7(.includes (checks for the occurrence of a value in strings and arrays),
+Exponential operator (**: var x = 2**3 // 8)
+).
