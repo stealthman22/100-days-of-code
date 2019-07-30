@@ -554,3 +554,22 @@ Also worked on type coercion (== (causes coercion) ===(prevents coercion), Objec
 Finally leant the features of ES7(.includes (checks for the occurrence of a value in strings and arrays),
 Exponential operator (**: var x = 2**3 // 8)
 ).
+
+DAY 100 (28th July 2019)
+DAY 100
+
+
+Learnt on important ES8 features in the ZTM course:
+padStart(): Adds space in front of the string it is targeting. It takes in an argument which specifies the amount of space to be padded in front. "   Turtle" 
+
+padEnd(): Adds space after the string it is targeting. It takes in an argument which specifies the amount of space to be padded after the string. "Turtle   "
+
+Object.keys: old method of using objects as if they were arrays.
+
+Object.value: A new method for grabbing and working with the values in objects, as if arrays
+
+Objects.entries:  A new method for grabbing and working with the keys and value pairs  in objects as if arrays
+
+
+
+
