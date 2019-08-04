@@ -1,4 +1,6 @@
- #100DaysOfCode #codingNewbies #freeCodeCamp 
+ALARA JOEL
+
+#100DaysOfCode #codingNewbies #freeCodeCamp 
  
  DAY 1 #100daysofcode
  
