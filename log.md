@@ -560,8 +560,6 @@ Exponential operator (**: var x = 2**3 // 8)
 ).
 
 DAY 100 (28th July 2019)
-DAY 100
-
 
 Learnt on important ES8 features in the ZTM course:
 padStart(): Adds space in front of the string it is targeting. It takes in an argument which specifies the amount of space to be padded in front. "   Turtle" 
@@ -574,6 +572,20 @@ Object.value: A new method for grabbing and working with the values in objects, 
 
 Objects.entries:  A new method for grabbing and working with the keys and value pairs  in objects as if arrays
 
+
+Log of Round 2 of #100DaysOfCode - done in 2019
+
+DAY 1
+
+Did the exercises for ES7 today from the ZTM course. Learnt on exponential notation; We were lead to research on answers in this format: 1e+60; it reads 1 exponential + 60. 1 is the mantissa, while 60 is the exponent, hence 1 raised to the power of 60 
+
+DAY 2
+
+Learnt on advanced looping in the ZTM course: the for-of loop, and the for-in loop which is used to loop through properties in objects. Learnt and used the join method in strings, Also learnt how to use the debugging keyword to walk through a problem. 
+
+Finally learnt some theory of js; memory heap and call stack.
+Memory heap is where memory allocation happens in the js engine.
+The call stack is where code is read and executed
 
 
 
