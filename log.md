@@ -1,3 +1,5 @@
+Log of Round 1 of #100DaysOfCode - done in 2019
+
 ALARA JOEL
 
 #100DaysOfCode #codingNewbies #freeCodeCamp 
