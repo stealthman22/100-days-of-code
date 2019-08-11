@@ -35,3 +35,10 @@ Evaluation: Run code to fill all boxes with the values.
 ### DAY 5 (8th August 2019)
 
 Was stuck on some array exercises. Still trying to figure out the logic. looked up some solutions on stack overflow: most are too hacky or way above what I currently know (for example four parameters in a reduce: what do the extra 2 refer to). 
+
+
+### DAY 6 (9th August 2019)
+
+Still stuck on the array logic exercises. Made some progress and learnt how to sort an array, having all repeated indexes together, in whatever order you specify. Example is let sortArray = roughArray.sort((a, b) => {
+    return a - b
+}). Sort in ascending order.
