@@ -42,3 +42,7 @@ Was stuck on some array exercises. Still trying to figure out the logic. looked 
 Still stuck on the array logic exercises. Made some progress and learnt how to sort an array, having all repeated indexes together, in whatever order you specify. Example is let sortArray = roughArray.sort((a, b) => {
     return a - b
 }). Sort in ascending order.
+
+
+### Day 7 (11th August 2019)
+Learnt basic terminal commands today. Navigating through file structures from the terminal, and the differences between terminals across operating systems, and also the various types of shells (Bash, Fish ....)
