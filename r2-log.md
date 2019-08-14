@@ -47,3 +47,17 @@ Still stuck on the array logic exercises. Made some progress and learnt how to s
 ### Day 7 (11th August 2019)
 Learnt basic terminal commands today. Navigating through file structures from the terminal, and the differences between terminals across operating systems, and also the various types of shells (Bash, Fish ....) 
 Learnt basic terminal commands today. Navigating through file structures from the terminal, and the differences between terminals across operating systems, and also the various types of shells (Bash, Fish ....) https://www.makeuseof.com/tag/linux-commands-reference-pdf/ #100DaysOfCode
+
+
+### DAY 8 (13th August 2019)
+
+Finished off the Git section in ZTM; Learnt more commands and rules. 
+Also picked projects for OSS (Open source) contributions; Learnt how to fork repositories and initiate PR (pull requests). 
+
+Then I learnt on NPM extensively; how the packages are uploaded, and how they became browser compatible. Also got to understand SEMVER (semantic versioning of packages). Then finished off with the rules on downloading dependencies.
+
+Began the react section; thinking the react way;
+Components: Breaking codes into small reusable chunks.
+One way data-flow: Data flows from top to bottom, always downstream.
+Virtual DOM: A copy of the DOM, which describes the current state of our web app.
+Then started my first react app, using create-react-app package. 
