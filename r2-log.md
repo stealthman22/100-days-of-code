@@ -61,3 +61,16 @@ Components: Breaking codes into small reusable chunks.
 One way data-flow: Data flows from top to bottom, always downstream.
 Virtual DOM: A copy of the DOM, which describes the current state of our web app.
 Then started my first react app, using create-react-app package. 
+
+### DAY 9 (14th August 2019)
+
+Learnt on building React components:
+1. Create a js file for it (Capitalized names only: Hello.js)
+2. Add code: import React from 'react' at the top of the file. (React is the core that does the VDOM manipulation).
+3. Build the functions or classes for the component.
+4. Declare the return values.
+
+Then learnt some few React methodologies (import and export statements, Destructuring syntax, functional vs class components)
+Also learnt on props (properties). They are extended functionalities for components, which can be accessed by passing in 'props' into the functions
+Finally got to use tachyons (A super-fast shorthand lightweight CSS library like bootstrap: tc (text center)).
+
