@@ -74,3 +74,6 @@ Then learnt some few React methodologies (import and export statements, Destruct
 Also learnt on props (properties). They are extended functionalities for components, which can be accessed by passing in 'props' into the functions
 Finally got to use tachyons (A super-fast shorthand lightweight CSS library like bootstrap: tc (text center)).
 
+### DAY 10 (15th August 2019)
+Worked more on building components, also learnt when to use 'export(many props)' and 'export default(one prop)' for allowing access to components. 
+Learnt that it is possible to plop in template strings into jsx, all you need to do is wrap any js in {}
