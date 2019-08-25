@@ -1,5 +1,5 @@
 
-# 100DaysOfCode Log - Round 1 - [Alara Joel]
+# 100DaysOfCode Log - Round 2 - [Alara Joel]
 
 ## Log of Round 2 of #100DaysOfCode - Started on [August 1st, Thursday, 2019]
 
@@ -77,3 +77,13 @@ Finally got to use tachyons (A super-fast shorthand lightweight CSS library like
 ### DAY 10 (15th August 2019)
 Worked more on building components, also learnt when to use 'export(many props)' and 'export default(one prop)' for allowing access to components. 
 Learnt that it is possible to plop in template strings into jsx, all you need to do is wrap any js in {}
+
+### Day 11 (25th August 2019)
+
+Learnt some Git commands for deleting a commit (local and remote). 
+
+Continued working on the robofriends react project, learnt what state and props are
+State is an object that describes your app at a given time and props are what comes out of state.
+A parent component feeds a state to a child, and the child receives it as a prop
+
+Finally I learned how to edit the terminal's PS1 variable, and added a very helpful functionality that tells me what git branch I am in, and it's status. instructions are  => https://digitalfortress.tech/tutorial/setting-up-git-prompt-step-by-step/ 
