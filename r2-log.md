@@ -78,7 +78,7 @@ Finally got to use tachyons (A super-fast shorthand lightweight CSS library like
 Worked more on building components, also learnt when to use 'export(many props)' and 'export default(one prop)' for allowing access to components. 
 Learnt that it is possible to plop in template strings into jsx, all you need to do is wrap any js in {}
 
-### Day 11 (25th August 2019)
+### Day 11 (23th August 2019)
 
 Learnt some Git commands for deleting a commit (local and remote). 
 
