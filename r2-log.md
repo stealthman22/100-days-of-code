@@ -89,5 +89,12 @@ A parent component feeds a state to a child, and the child receives it as a prop
 Finally I learned how to edit the terminal's PS1 variable, and added a very helpful functionality that tells me what git branch I am in, and it's status. instructions are  => https://digitalfortress.tech/tutorial/setting-up-git-prompt-step-by-step/ 
 
 ### Day 12 (25th August 2019)
+
 Learnt how state communicates with child components, The onchange event; that tracks changes in input elements.
 Also when working with this in react, use => to pass the props/param, so that the value of this will be inherited from where the method was created.
+
+### Day 13 (29th August 2019)
+
+Did a quick revision in all the React I have learnt, I lost touch after staying away for some days, also React is looking quite intimidating: Trying to understand it's this binding, events handling and state.
+I am making progres!
+
