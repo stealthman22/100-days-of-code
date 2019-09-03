@@ -98,3 +98,17 @@ Also when working with this in react, use => to pass the props/param, so that th
 Did a quick revision in all the React I have learnt, I lost touch after staying away for some days, also React is looking quite intimidating: Trying to understand it's this binding, events handling and state.
 I am making progres!
 
+
+### Day 14 (31st August 2019)
+DAY 14
+
+
+Learnt on the React lifecycle methods. They are in 3 tiers:
+1. Mounting: This is the startup of the app. Basically replacing 'root' with a component(Birth).
+2. Updating: Concerned with changes on  a page; which leads to re-rendering (Growth)
+3. Unmounting: When a component is removed from the page (The end of its lifecycle: Death)
+N.B: The React team has determined that some of the lifecycle methods are unsafe to use, and will be dropping them in React v17.
+
+Learn more here: https://programmingwithmosh.com/javascript/react-lifecycle-methods/
+
+Found 30 days of React: https://www.fullstackreact.com/30-days-of-react/
