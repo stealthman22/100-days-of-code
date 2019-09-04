@@ -100,8 +100,6 @@ I am making progres!
 
 
 ### Day 14 (31st August 2019)
-DAY 14
-
 
 Learnt on the React lifecycle methods. They are in 3 tiers:
 1. Mounting: This is the startup of the app. Basically replacing 'root' with a component(Birth).
@@ -112,3 +110,8 @@ N.B: The React team has determined that some of the lifecycle methods are unsafe
 Learn more here: https://programmingwithmosh.com/javascript/react-lifecycle-methods/
 
 Found 30 days of React: https://www.fullstackreact.com/30-days-of-react/
+
+### DAY 15 (2nd September 2019)
+
+Learnt on children in react, which is accessed by using the code prop.children: It is an object that houses everything nested into a wrapper component, so they can be rendered properly. 
+Also learnt on error boundary in React; we can wrap an Error boundary component around our components so in case of errors it can be handled gracefully.
