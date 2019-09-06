@@ -120,10 +120,15 @@ Also learnt on error boundary in React; we can wrap an Error boundary component 
 ### DAY 16 (3rd September 2019)
 
 Started the 30 Days of React challenge from full-stack react. Did lesson 1 and 2.
+
 Lesson 1: What is React?
+
 A.  A React component is a self-contained module that renders an output.
+
 B. Components abide by strict data management principle.
 
 Lesson 2: JSX
+
 A. It means Javascript Extension; it is a react extension that lets us write js code that looks like HTML, that is translation to regular js at runtime.
+
 B. It is a terser way to write React.createElement()
