@@ -115,3 +115,15 @@ Found 30 days of React: https://www.fullstackreact.com/30-days-of-react/
 
 Learnt on children in react, which is accessed by using the code prop.children: It is an object that houses everything nested into a wrapper component, so they can be rendered properly. 
 Also learnt on error boundary in React; we can wrap an Error boundary component around our components so in case of errors it can be handled gracefully.
+
+
+### DAY 16 (3rd September 2019)
+
+Started the 30 Days of React challenge from full-stack react. Did lesson 1 and 2.
+Lesson 1: What is React?
+A.  A React component is a self-contained module that renders an output.
+B. Components abide by strict data management principle.
+
+Lesson 2: JSX
+A. It means Javascript Extension; it is a react extension that lets us write js code that looks like HTML, that is translation to regular js at runtime.
+B. It is a terser way to write React.createElement()
