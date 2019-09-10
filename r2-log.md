@@ -132,3 +132,15 @@ Lesson 2: JSX
 A. It means Javascript Extension; it is a react extension that lets us write js code that looks like HTML, that is translation to regular js at runtime.
 
 B. It is a terser way to write React.createElement()
+
+### DAY 17 (7th September 2019)
+
+DAY 3 of 30 days of React:
+Babel: Is a transpiler that rewrites ES6 code to ES5 on the fly, so all browsers will be compatible with our code.
+
+render(): It is a function that returns the virtual DOM representation of changes to the web page.
+
+ReactDOM.render: Specify what to paste and where to paste it: 
+ReactDOM.render(what, where);
+
+When writing with class syntax, classes will have to extend the React.Component class: "class App extends React.Component"
