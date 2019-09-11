@@ -144,3 +144,12 @@ ReactDOM.render: Specify what to paste and where to paste it:
 ReactDOM.render(what, where);
 
 When writing with class syntax, classes will have to extend the React.Component class: "class App extends React.Component"
+
+
+### DAY 18
+
+DAY 4: 30 Days of React:
+Learnt a few ideologies;
+1. Decide on how deep you want to split your components before starting the project.
+2. Let components be broken down into functional groups.
+3. Always have a Parent component that wraps the others.
