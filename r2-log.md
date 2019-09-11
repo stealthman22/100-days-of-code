@@ -146,7 +146,7 @@ ReactDOM.render(what, where);
 When writing with class syntax, classes will have to extend the React.Component class: "class App extends React.Component"
 
 
-### DAY 18
+### DAY 18 (9th September 2019)
 
 DAY 4: 30 Days of React:
 Learnt a few ideologies;
