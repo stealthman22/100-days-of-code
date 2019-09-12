@@ -153,3 +153,16 @@ Learnt a few ideologies;
 1. Decide on how deep you want to split your components before starting the project.
 2. Let components be broken down into functional groups.
 3. Always have a Parent component that wraps the others.
+
+### DAY 19 (10th September 2019)
+
+Resumed ZTM 
+Learnt on HTTP (HyperText Transfer Protocol); It is the standard for fetching and manipulating documents across servers.
+
+It consists mainly of four commands for communicating with a server:
+1. GET: A request to get a file.
+2. PUT: A request to add a file.
+3. POST: A request to update a file.
+4. DELETE: A request to delete a file.
+
+It is also used to fetch files to update web pages on-demand (AJAX) .
