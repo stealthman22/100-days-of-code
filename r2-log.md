@@ -185,3 +185,23 @@ AJAX (Asynchronous Javascript and XML): This tech allows us to update pages dyna
 Fetch returns a promise which is then accessed using the "then" method.
 
 Promise: An object that may produce a single value some time in the future (either a resolved value or a reason why it has been rejected).
+
+
+### DAY 21 (13th September 2019)
+
+DAY 21 (13th September 2019)
+
+Learnt Promises into details:
+A promise has 3 states: fulfilled, rejected, pending.
+We can create a promise (Using the promise constructor; new Promise), assign it to a variable and then do something asynchronous with it.
+Promises are used to stop JS from blocking Api calls
+We can use a 'catch' method on promises to catch errors gracefully so the app doesn't break.
+A promise can only succeed or fail once.
+You can use the setTimeout function in promises to trigger a callback
+Promises save us from the callback pyramid of doom.
+
+Promise.all: When fetching data from multiple Apis', you use the 'all' method (which takes in an array of promises), which waits until all promises are resolved before giving an output. 
+
+Promise.resolve: This method returns a Promise object that is resolved with a given value.
+
+Promise.reject: This method returns a Promise object that is rejected with a given reason.
