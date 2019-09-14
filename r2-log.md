@@ -166,3 +166,22 @@ It consists mainly of four commands for communicating with a server:
 4. DELETE: A request to delete a file.
 
 It is also used to fetch files to update web pages on-demand (AJAX) .
+
+
+### DAY 20 (12th September 2019)
+
+
+Learnt:
+How data is sent to a server:
+1.Query Strings (?data in the address bar; uses GET) 
+2.Body of request: (accessed via form data; uses POST)
+
+HTTPS (Hypertext Transfer Protocol Secure): A secure version, encrypts the data, and only the client and server know the pass
+It uses TLS (Transport Layer Security) and SSL (now deprecated) (Secure Socket Layer).
+
+JSON (Javascript Object Notation): Standard data transfer language between server and client. Formerly XML (extended Markup language) did this, but JSON is more succinct and easier to parse
+
+AJAX (Asynchronous Javascript and XML): This tech allows us to update pages dynamically, by using the "XMLHttpRequest" object The X in AJAX  has now been replaced by the JSON standard. This is done using the Fetch API and its JSON method.
+Fetch returns a promise which is then accessed using the "then" method.
+
+Promise: An object that may produce a single value some time in the future (either a resolved value or a reason why it has been rejected).
