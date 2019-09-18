@@ -205,3 +205,16 @@ Promise.all: When fetching data from multiple Apis', you use the 'all' method (w
 Promise.resolve: This method returns a Promise object that is resolved with a given value.
 
 Promise.reject: This method returns a Promise object that is rejected with a given reason.
+
+
+### DAY 22 (16th September 2019)
+
+Lerant on the async await function built as a syntactic sugar on top of promises in ES8:
+It allows us write async code in a sync way, and avoids unnecessary chaining of .then method.
+To catch errors when using async await, you will have to use the try catch error block rather than the .catch method
+
+Then some new ES9 features:
+Object spread operator: Allows you spread items in an object into a new object,
+.finally: This method allows you run something after a promise has been settled, irrespective of the promise outcome(resolved or rejected), .finally block will be run.
+Finally tried some exercises, could't do a particular one that involved converting .then chaians into async await function.
+Runtime: 4hrs 20mins
