@@ -209,12 +209,23 @@ Promise.reject: This method returns a Promise object that is rejected with a giv
 
 ### DAY 22 (16th September 2019)
 
-Lerant on the async await function built as a syntactic sugar on top of promises in ES8:
-It allows us write async code in a sync way, and avoids unnecessary chaining of .then method.
-To catch errors when using async await, you will have to use the try catch error block rather than the .catch method
+Learnt on the async await function built as syntactic sugar on top of promises in ES8:
+It allows us to write async code in a sync way and avoids unnecessary chaining of .then method.
+To catch errors when using async-await, you will have to use the try-catch error block rather than the .catch method
 
 Then some new ES9 features:
-Object spread operator: Allows you spread items in an object into a new object,
-.finally: This method allows you run something after a promise has been settled, irrespective of the promise outcome(resolved or rejected), .finally block will be run.
-Finally tried some exercises, could't do a particular one that involved converting .then chaians into async await function.
+Object spread operator: Allows you to spread items in an object into a new object,
+.finally: This method allows you to run something after a promise has been settled, irrespective of the outcome of the promise (resolved or rejected), .finally block will be run.
+Finally tried some exercises, couldn't do a particular one that involved converting .then chains into async-await function. Had to peek the answer .
 Runtime: 4hrs 20mins
+
+
+### DAY 23 (17th September 2019)
+Learnt more ES9 features:
+for await of loop: It is able to loop through an array of promises so easily just like the for-of loop. Instead of nesting another async function in one, use this loop, it's param is usually the return value of a resolved promise.
+
+Progressed to the Backend Basics section and APIs:
+Learnt that LAMP (Linux Apache Mysql PHP) stack servers were the basic servers used earlier, but as applications got larger, new server technologies that build application servers are now used. 
+
+API: An interface for different machines to communicate with each other beyond their own environments, hence extending their functionality. It also gives machines access to data that is not local to them (e.g Google maps, twillo, and sky scanner APIs) 
+Runtime:2hrs
