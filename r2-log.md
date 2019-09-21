@@ -229,3 +229,16 @@ Learnt that LAMP (Linux Apache Mysql PHP) stack servers were the basic servers u
 
 API: An interface for different machines to communicate with each other beyond their own environments, hence extending their functionality. It also gives machines access to data that is not local to them (e.g Google maps, twillo, and sky scanner APIs) 
 Runtime:2hrs
+
+### DAY 24 (19th September 2019 )
+
+DAY 24
+
+Started the final project for ZTM: Smart Brain. It is a facial recognition app that utilizes a bit of machine learning to detect the faces in pictures, and puts a box around it, and ranks you via a database, depending on how many pictures you've detected.
+It is divided into 4 sections:
+Front-end: Using react via the create-react-app package.
+Back-end: Using Node.js and Express.js.
+Database: Using PostGresSql.
+Deployment: Using Heroku.
+We will be learning these skills as we build. I guess we can call it the PERN Stack :)
+Runtime:1hr 30mins
