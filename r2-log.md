@@ -246,10 +246,16 @@ Runtime:1hr 30mins
 
 ### DAY 25 (22nd September 2019)
 
-
 The  Smart-Brain App's frontend is really coming together. Components built: 
 Navigation
 Logo : used tilt.js
 Image Form
 Using tachyons for css
 Had a black screen issue, played around for solutions, it finally seems to have fixed itself.
+
+
+### DAY 26 (23rd September 2019)
+
+Learnt more hacks and tricks as the project is going along. 
+Today I installed a package called particlejs: it is a really nice way of adding cool and interactive background effects. They have a react package on npm as well as different implementations.
+
