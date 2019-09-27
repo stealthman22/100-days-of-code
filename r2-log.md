@@ -259,3 +259,12 @@ Had a black screen issue, played around for solutions, it finally seems to have 
 Learnt more hacks and tricks as the project is going along. 
 Today I installed a package called particlejs: it is a really nice way of adding cool and interactive background effects. They have a react package on npm as well as different implementations.
 
+
+### DAY 27 (24th Septmber 2019)
+
+Added state to the smart-brain app, this will handle the two react synthetic events added to the button and URL box. We will be using https://docs.clarifai.com/ for image recognition. Imported the Clarifai package from npm and figuring out how to add Clarifai Api successfully to the app.
+N.B: Whenever you have to use state in a react app, you must use class syntax.
+State in simple term is the ability of your app to have a memory of changes
+When passing props to a component, use this to access it if it's in the same class
+When passing props to a component, use this to access it if it's in the same class
+
