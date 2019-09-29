@@ -268,3 +268,8 @@ State in simple term is the ability of your app to have a memory of changes
 When passing props to a component, use this to access it if it's in the same class
 When passing props to a component, use this to access it if it's in the same class
 
+
+DAY 28 (27th September 2019)
+
+Made progress with the app today, I built the face recognition component, and it's functionality. App now dynamically updates any Url passed in and does facial recognition. Would have to now build a bounding box for it, using the regions result outputted in the console
+Working on understanding state and setState method of  React deeper. RT: 2hrs 30 mins
