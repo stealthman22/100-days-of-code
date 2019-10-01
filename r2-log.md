@@ -269,7 +269,18 @@ When passing props to a component, use this to access it if it's in the same cla
 When passing props to a component, use this to access it if it's in the same class
 
 
-DAY 28 (27th September 2019)
+### DAY 28 (27th September 2019)
 
 Made progress with the app today, I built the face recognition component, and it's functionality. App now dynamically updates any Url passed in and does facial recognition. Would have to now build a bounding box for it, using the regions result outputted in the console
 Working on understanding state and setState method of  React deeper. RT: 2hrs 30 mins
+
+
+### DAY 29 (29th September 2019)
+
+Took some time to understand setState more from the React Docs:
+1.setState is asynchronous.
+2. It is the primary method used to update the UI, in response to event handlers and server response.
+3. React might delay calls to setState so as to update several components in a sinle pass.
+4. Hence reading this.state right after calling setState is a pitfall.
+5. Instead use componentDidUpdate or call setState's callback: (setState(updater, callback))
+
