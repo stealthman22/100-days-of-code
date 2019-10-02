@@ -284,3 +284,16 @@ Took some time to understand setState more from the React Docs:
 4. Hence reading this.state right after calling setState is a pitfall.
 5. Instead use componentDidUpdate or call setState's callback: (setState(updater, callback))
 
+### DAY 30 (1st October 2019)
+
+Finished up the front-end today, built the bounding box, the sign in and register components and manually built 3 routes state.
+Bounding box: We used clarifai.com face detection model, and some positioning calculations to dynamically align the box to faces, no matter their orientation.
+Sign in and Registration Components: Each component received a route state, which tells the app what to render at all times. Also, a default home route that renders the homepage.
+
+Learnt that:
+Functions in classes are called methods.
+You can destructure all states in render(),  so you wouldn't have to repeat this.state always:
+```render() {
+     // This destructuring helps us reduce our use of this.state
+     const {isSignedIn, imageUrl, route, box} = this.state;
+     ```
