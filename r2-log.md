@@ -297,4 +297,17 @@ You can destructure all states in render(),  so you wouldn't have to repeat this
      // This destructuring helps us reduce our use of this.state
      const {isSignedIn, imageUrl, route, box} = this.state;
      ```
+     
      Runtime: 5 hours
+     
+     
+
+ ### DAY 31 (4th October 2019)
+
+Started to learn about server-side development with Nodejs. Learnt key differences between the browser environment and node (document, window, global, process).
+Learnt to use the commonjs syntax for import and export.
+Also learnt the 3 types of modules in Nodejs:
+Custom: Built by you
+Built-in: Came predefined in node (fs, Http)
+Package: Extends the functionality of node (nodemon).
+ 
