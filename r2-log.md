@@ -313,4 +313,15 @@ Also learnt the 3 types of modules in Nodejs:
 Custom: Built by you
 Built-in: Came predefined in node (fs, Http)
 Package: Extends the functionality of node (nodemon).
+
+
+### DAY 32 (6th October 2019)
+
+
+Learnt more on Node today:
+The two most used params are request and response.
+When transferring data in JSON format, you have to use JSON.stringify() to convert, and the front-end uses JSON.parse() to convert the response to a js object.
+
+Started learning express.js. It is the most popular backend framework for Nodejs
+ It does the string conversion of JSON data for us .
  
