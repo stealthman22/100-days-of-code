@@ -325,3 +325,10 @@ When transferring data in JSON format, you have to use JSON.stringify() to conve
 Started learning express.js. It is the most popular backend framework for Nodejs
  It does the string conversion of JSON data for us .
  
+### DAY 33 (8th October 2019)
+
+Learnt on Express middleware.
+An express middleware is a package that extends the functionalities of express, by performing actions on requests and responses.
+It can make changes to the request-response objects, or end the request-respond cycle.
+If a middleware function isn't ending the cycle, it must call next(), to pass control to the next middleware function. They are accessed using app.use()
+Example body-parser:  Parse incoming request bodies in a middleware before your handlers, available under the req.body property.
