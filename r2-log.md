@@ -332,3 +332,9 @@ An express middleware is a package that extends the functionalities of express, 
 It can make changes to the request-response objects, or end the request-respond cycle.
 If a middleware function isn't ending the cycle, it must call next(), to pass control to the next middleware function. They are accessed using app.use()
 Example body-parser:  Parse incoming request bodies in a middleware before your handlers, available under the req.body property.
+
+
+### DAY 34 (9th October 2019)
+
+Learnt about POSTMAN: It is a good way to test out your server before connecting it to the front-end.
+Also learnt on RESTful APIs: A set of functions through which developers can perform requests and receive responses via HTTP protocol 
