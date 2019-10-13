@@ -338,3 +338,16 @@ Example body-parser:  Parse incoming request bodies in a middleware before your 
 
 Learnt about POSTMAN: It is a good way to test out your server before connecting it to the front-end.
 Also learnt on RESTful APIs: A set of functions through which developers can perform requests and receive responses via HTTP protocol 
+
+### DAY 35 (10th October 2019)
+
+Learnt more on RESTful APIs and also went ahead to learn extensively on the fs (file system) module in node.
+Worked with the readfile and readfilesync  appendfile, writefile, and unlink properties for file manipulation. Finally did a study on  Problem-solving approach as a programmer here:  https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2  by Richard ReissThe right steps are
+1. Understand: Explain the problem in plain language.
+2. Plan: Write down steps for solving it.
+3. Divide: Break down problems into subproblems.
+4. Stuck? : If your approach failed;
+a.Debug: Read the code line by line to isolate the problem.
+b. Reassess: Change your strategy accordingly, or start afresh
+c. Research: Check for answers to subproblems, not the problem directly.
+
