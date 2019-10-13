@@ -351,3 +351,7 @@ a.Debug: Read the code line by line to isolate the problem.
 b. Reassess: Change your strategy accordingly, or start afresh
 c. Research: Check for answers to subproblems, not the problem directly.
 
+
+### DAY 36 (11th October 2019)
+
+Worked on a code challenge from the Advent of code, so as to assimilate and imbibe the problem-solving technique I learnt yesterday: https://adventofcode.com/2015/day/1 . It really did help, although I haven't been able to solve the challenge yet 
