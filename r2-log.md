@@ -355,3 +355,6 @@ c. Research: Check for answers to subproblems, not the problem directly.
 ### DAY 36 (11th October 2019)
 
 Worked on a code challenge from the Advent of code, so as to assimilate and imbibe the problem-solving technique I learnt yesterday: https://adventofcode.com/2015/day/1 . It really did help, although I haven't been able to solve the challenge yet 
+
+### DAY 37
+Finally cracked the puzzle I was working on from the advent of code 2015. It has helped me understand the problem-solving approach. https://adventofcode.com/2015/day/1 
