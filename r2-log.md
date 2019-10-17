@@ -356,7 +356,7 @@ c. Research: Check for answers to subproblems, not the problem directly.
 
 Worked on a code challenge from the Advent of code, so as to assimilate and imbibe the problem-solving technique I learnt yesterday: https://adventofcode.com/2015/day/1 . It really did help, although I haven't been able to solve the challenge yet 
 
-### DAY 37 (12th 
+### DAY 37 (12th January 2019)
 Finally cracked the puzzle I was working on from the advent of code 2015. It has helped me understand the problem-solving approach. https://adventofcode.com/2015/day/1 
 
 
@@ -365,3 +365,8 @@ Finally cracked the puzzle I was working on from the advent of code 2015. It has
 I did a deep dive in learning the reduce function, at https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce. It got useful with my advent of code challenge as I used it to print out index (3rd arg)
 Started building my express server using postman to test: You should plan all your API routes before building.
 Got the sign-in route fully working
+
+### DAY 39 (15th January 2019)
+
+Worked more on the server application, Got all four routes/ endpoints working. About to connect it to the front-end now. Also, I was able to hash passwords as they are sent, so as to disable man in the middle attacks using bcrypt-nodejs(which is sadly not supported anymore). 
+A hash function takes a string and jumbles it up into gibberish in such a way you can't figure it out, hash functions are one way i.e you cannot unhash. And the algorithm  is quite strong
