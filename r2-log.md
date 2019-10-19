@@ -377,3 +377,9 @@ Downloaded Cors (Cross-origin resource sharing) from npm; it allows a call for r
 Components that are not smart can also have state in them; provided the function doesn't go out of the scope of that function.
 Fetch by default sends a GET request
 A second argument can be added to fetch, it is an object that describes what the request will be. 
+
+
+### DAY 41 (18th October 2019)
+
+Worked on the register route, there was a couple of mistakes, but I solved them with some debugging. 
+Also updated the App.js with a function that loads a user after he/ she has been registered.  
