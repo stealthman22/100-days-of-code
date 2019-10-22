@@ -383,3 +383,10 @@ A second argument can be added to fetch, it is an object that describes what the
 
 Worked on the register route, there was a couple of mistakes, but I solved them with some debugging. 
 Also updated the App.js with a function that loads a user after he/ she has been registered.  
+
+
+### DAY 42 (19th October 2019)
+
+Finally wrapped up the server-side, by building the image profile route. I am now ready to move on to the database section. 
+
+
