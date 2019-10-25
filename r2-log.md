@@ -390,7 +390,7 @@ Also updated the App.js with a function that loads a user after he/ she has been
 Finally wrapped up the server-side, by building the image profile route. I am now ready to move on to the database section. 
 
 
-DAY 43 - 44
+### DAY 43 - 44 (20th - 21st October 2019)
 
 Started the DB section with a brief introduction to Database management systems (DBMS). Learnt the different types of DBMS and their key features;
 Relational DBMS: Uses rows and columns to store data, data fields must be predefined, they use the SQL structured query language) to communicate with the server
@@ -398,3 +398,7 @@ Non-Relational DBMS: Stores each dataset as a file. They all have their unique l
 
 I have been working on setting up my dev environment for PostgreSQL. almost done just a few cleanups left.
 
+### DAY 45 (22nd October 2019)
+
+Still on with my database saga. Finally able to get PostgreSQL working. Although for some reason I cannot create a DB with another user apart from the default one created.
+Also chose Dbeaver as my DB GUI of choice it seems to be an amazing choice. Almost set! :)  
