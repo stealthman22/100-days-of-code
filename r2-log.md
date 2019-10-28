@@ -407,3 +407,9 @@ Also chose Dbeaver as my DB GUI of choice it seems to be an amazing choice. Almo
 ### DAY 46 (24th October 2019)
 
 Did a fresh install of PostgreSQL. This all seems very tricky. But I have been able to narrow the problem. It seems the presence of a - (special character) in my default Linux OS user account is responsible for my psql woes. 
+
+
+### DAY 47 (27th October 2019)
+
+Finally got Psql to work perfectly. As suspected it had something to do with my OS username. Glad this whole saga is over, learnt a lot from researching, 
+Connected my DB with terminal and dbeaver
