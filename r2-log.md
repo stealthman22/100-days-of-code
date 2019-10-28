@@ -402,3 +402,8 @@ I have been working on setting up my dev environment for PostgreSQL. almost done
 
 Still on with my database saga. Finally able to get PostgreSQL working. Although for some reason I cannot create a DB with another user apart from the default one created.
 Also chose Dbeaver as my DB GUI of choice it seems to be an amazing choice. Almost set! :)  
+
+
+### DAY 46 (24th October 2019)
+
+Did a fresh install of PostgreSQL. This all seems very tricky. But I have been able to narrow the problem. It seems the presence of a - (special character) in my default Linux OS user account is responsible for my psql woes. 
