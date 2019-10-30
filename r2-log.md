@@ -422,3 +422,7 @@ CREATE TABLE, SELECT, INSERT INTO, ALTER TABLE, UPDATE, SET DROP...
 Also learnt about P SQL functions, which we can use to  build schemas with specific characters like: UNIQUE, Serial, NOT NULL...
 Finally learnt how to join tables by leveraging on the conveys of foreign keys and primary keys
 
+### DAY 49 (29th October 2019)
+
+Started planning and  building a database for the app. and connected it using Knex.js. Knex allows us write SQL commands right into server.js, and it connects it seamlessly to the back-end, and also the front-end.
+With these connected the database us dynamical updated, and it's data will persist, even in the event of a server crash.
