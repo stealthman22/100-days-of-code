@@ -413,3 +413,12 @@ Did a fresh install of PostgreSQL. This all seems very tricky. But I have been a
 
 Finally got Psql to work perfectly. As suspected it had something to do with my OS username. Glad this whole saga is over, learnt a lot from researching, 
 Connected my DB with terminal and dbeaver
+
+
+### DAY 48 (28th October 2019)
+
+Started learning few SQL commands for basic actions ;
+CREATE TABLE, SELECT, INSERT INTO, ALTER TABLE, UPDATE, SET DROP...
+Also learnt about P SQL functions, which we can use to  build schemas with specific characters like: UNIQUE, Serial, NOT NULL...
+Finally learnt how to join tables by leveraging on the conveys of foreign keys and primary keys
+
