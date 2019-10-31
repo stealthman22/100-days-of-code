@@ -9,7 +9,7 @@ Did the exercises for ES7 today from the ZTM course. Learnt on exponential notat
 
 ### DAY 2 (August 2nd 2019)
 
-Learnt on advanced looping in the ZTM course: the for-of loop, and the for-in loop which is used to loop through properties in objects. Learnt and used the join method in strings, Also learnt how to use the debugging keyword to walk through a problem. 
+Learnt on advanced looping in the ZTM course: the for-of loop, and the for-in loop which is used to loop through properties in objects. Learnt and used the join method in strings, Also learnt how to use the debugging keyword to walk through a problem.
 
 Finally learnt some theory of js; memory heap and call stack.
 Memory heap is where memory allocation happens in the js engine.
@@ -26,7 +26,7 @@ Event loop: checks the call stack and the call back queue for their present stat
 
 ### DAY 4 (7th August 2019)
 
-Learnt on modules, and the problems they solve in programming; Code reusability, dependency resolution, preserving the global namespace. How browserify and common js solves this. Then did a deep dive into ES6 modules, which is used with webpack using this amazing resource by LIn Clark https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/ . The steps involved in making ES6 modules work by the js engine are:
+Learnt on modules, and the problems they solve in programming; Code reusability, dependency resolution, preserving the global namespace. How browserify and common js solves this. Then did a deep dive into ES6 modules, which is used with webpack using this amazing resource by LIn Clark <https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/> . The steps involved in making ES6 modules work by the js engine are:
 Construction: Find, download and parse all files into modules.
 Instantiation: Find boxes in memory to place all exported values.
 Evaluation: Run code to fill all boxes with the values.
@@ -34,7 +34,7 @@ Evaluation: Run code to fill all boxes with the values.
 
 ### DAY 5 (8th August 2019)
 
-Was stuck on some array exercises. Still trying to figure out the logic. looked up some solutions on stack overflow: most are too hacky or way above what I currently know (for example four parameters in a reduce: what do the extra 2 refer to). 
+Was stuck on some array exercises. Still trying to figure out the logic. looked up some solutions on stack overflow: most are too hacky or way above what I currently know (for example four parameters in a reduce: what do the extra 2 refer to).
 
 
 ### DAY 6 (9th August 2019)
@@ -43,11 +43,10 @@ Still stuck on the array logic exercises. Made some progress and learnt how to s
     return a - b
 }). Sort in ascending order.
 
-
 ### Day 7 (11th August 2019)
-Learnt basic terminal commands today. Navigating through file structures from the terminal, and the differences between terminals across operating systems, and also the various types of shells (Bash, Fish ....) 
-Learnt basic terminal commands today. Navigating through file structures from the terminal, and the differences between terminals across operating systems, and also the various types of shells (Bash, Fish ....) https://www.makeuseof.com/tag/linux-commands-reference-pdf/ #100DaysOfCode
 
+Learnt basic terminal commands today. Navigating through file structures from the terminal, and the differences between terminals across operating systems, and also the various types of shells (Bash, Fish ....)
+Learnt basic terminal commands today. Navigating through file structures from the terminal, and the differences between terminals across operating systems, and also the various types of shells (Bash, Fish ....) https://www.makeuseof.com/tag/linux-commands-reference-pdf/ #100DaysOfCode
 
 ### DAY 8 (13th August 2019)
 
@@ -65,6 +64,7 @@ Then started my first react app, using create-react-app package.
 ### DAY 9 (14th August 2019)
 
 Learnt on building React components:
+
 1. Create a js file for it (Capitalized names only: Hello.js)
 2. Add code: import React from 'react' at the top of the file. (React is the core that does the VDOM manipulation).
 3. Build the functions or classes for the component.
@@ -75,7 +75,9 @@ Also learnt on props (properties). They are extended functionalities for compone
 Finally got to use tachyons (A super-fast shorthand lightweight CSS library like bootstrap: tc (text center)).
 
 ### DAY 10 (15th August 2019)
-Worked more on building components, also learnt when to use 'export(many props)' and 'export default(one prop)' for allowing access to components. 
+
+Worked more on building components, also learnt when to use 'export(many props)' and 'export default(one prop)' for allowing access to components.
+
 Learnt that it is possible to plop in template strings into jsx, all you need to do is wrap any js in {}
 
 ### Day 11 (23th August 2019)
@@ -98,24 +100,23 @@ Also when working with this in react, use => to pass the props/param, so that th
 Did a quick revision in all the React I have learnt, I lost touch after staying away for some days, also React is looking quite intimidating: Trying to understand it's this binding, events handling and state.
 I am making progres!
 
-
 ### Day 14 (31st August 2019)
 
 Learnt on the React lifecycle methods. They are in 3 tiers:
+
 1. Mounting: This is the startup of the app. Basically replacing 'root' with a component(Birth).
 2. Updating: Concerned with changes on  a page; which leads to re-rendering (Growth)
 3. Unmounting: When a component is removed from the page (The end of its lifecycle: Death)
 N.B: The React team has determined that some of the lifecycle methods are unsafe to use, and will be dropping them in React v17.
 
-Learn more here: https://programmingwithmosh.com/javascript/react-lifecycle-methods/
+Learn more here: <https://programmingwithmosh.com/javascript/react-lifecycle-methods/>
 
-Found 30 days of React: https://www.fullstackreact.com/30-days-of-react/
+Found 30 days of React: <https://www.fullstackreact.com/30-days-of-react/>
 
 ### DAY 15 (2nd September 2019)
 
 Learnt on children in react, which is accessed by using the code prop.children: It is an object that houses everything nested into a wrapper component, so they can be rendered properly. 
 Also learnt on error boundary in React; we can wrap an Error boundary component around our components so in case of errors it can be handled gracefully.
-
 
 ### DAY 16 (3rd September 2019)
 
@@ -145,21 +146,22 @@ ReactDOM.render(what, where);
 
 When writing with class syntax, classes will have to extend the React.Component class: "class App extends React.Component"
 
-
 ### DAY 18 (9th September 2019)
 
 DAY 4: 30 Days of React:
 Learnt a few ideologies;
+
 1. Decide on how deep you want to split your components before starting the project.
 2. Let components be broken down into functional groups.
 3. Always have a Parent component that wraps the others.
 
 ### DAY 19 (10th September 2019)
 
-Resumed ZTM 
+Resumed ZTM
 Learnt on HTTP (HyperText Transfer Protocol); It is the standard for fetching and manipulating documents across servers.
 
 It consists mainly of four commands for communicating with a server:
+
 1. GET: A request to get a file.
 2. PUT: A request to add a file.
 3. POST: A request to update a file.
@@ -167,13 +169,12 @@ It consists mainly of four commands for communicating with a server:
 
 It is also used to fetch files to update web pages on-demand (AJAX) .
 
-
 ### DAY 20 (12th September 2019)
-
 
 Learnt:
 How data is sent to a server:
-1.Query Strings (?data in the address bar; uses GET) 
+
+1.Query Strings (?data in the address bar; uses GET)  
 2.Body of request: (accessed via form data; uses POST)
 
 HTTPS (Hypertext Transfer Protocol Secure): A secure version, encrypts the data, and only the client and server know the pass
@@ -185,7 +186,6 @@ AJAX (Asynchronous Javascript and XML): This tech allows us to update pages dyna
 Fetch returns a promise which is then accessed using the "then" method.
 
 Promise: An object that may produce a single value some time in the future (either a resolved value or a reason why it has been rejected).
-
 
 ### DAY 21 (13th September 2019)
 
@@ -206,7 +206,6 @@ Promise.resolve: This method returns a Promise object that is resolved with a gi
 
 Promise.reject: This method returns a Promise object that is rejected with a given reason.
 
-
 ### DAY 22 (16th September 2019)
 
 Learnt on the async await function built as syntactic sugar on top of promises in ES8:
@@ -219,8 +218,8 @@ Object spread operator: Allows you to spread items in an object into a new objec
 Finally tried some exercises, couldn't do a particular one that involved converting .then chains into async-await function. Had to peek the answer .
 Runtime: 4hrs 20mins
 
-
 ### DAY 23 (17th September 2019)
+
 Learnt more ES9 features:
 for await of loop: It is able to loop through an array of promises so easily just like the for-of loop. Instead of nesting another async function in one, use this loop, it's param is usually the return value of a resolved promise.
 
@@ -243,37 +242,32 @@ Deployment: Using Heroku.
 We will be learning these skills as we build. I guess we can call it the PERN Stack :)
 Runtime:1hr 30mins
 
-
 ### DAY 25 (22nd September 2019)
 
-The  Smart-Brain App's frontend is really coming together. Components built: 
+The  Smart-Brain App's frontend is really coming together. Components built:
 Navigation
 Logo : used tilt.js
 Image Form
 Using tachyons for css
 Had a black screen issue, played around for solutions, it finally seems to have fixed itself.
 
-
 ### DAY 26 (23rd September 2019)
 
 Learnt more hacks and tricks as the project is going along. 
 Today I installed a package called particlejs: it is a really nice way of adding cool and interactive background effects. They have a react package on npm as well as different implementations.
 
-
 ### DAY 27 (24th Septmber 2019)
 
-Added state to the smart-brain app, this will handle the two react synthetic events added to the button and URL box. We will be using https://docs.clarifai.com/ for image recognition. Imported the Clarifai package from npm and figuring out how to add Clarifai Api successfully to the app.
+Added state to the smart-brain app, this will handle the two react synthetic events added to the button and URL box. We will be using <https://docs.clarifai.com/> for image recognition. Imported the Clarifai package from npm and figuring out how to add Clarifai Api successfully to the app.
 N.B: Whenever you have to use state in a react app, you must use class syntax.
 State in simple term is the ability of your app to have a memory of changes
 When passing props to a component, use this to access it if it's in the same class
 When passing props to a component, use this to access it if it's in the same class
 
-
 ### DAY 28 (27th September 2019)
 
 Made progress with the app today, I built the face recognition component, and it's functionality. App now dynamically updates any Url passed in and does facial recognition. Would have to now build a bounding box for it, using the regions result outputted in the console
 Working on understanding state and setState method of  React deeper. RT: 2hrs 30 mins
-
 
 ### DAY 29 (29th September 2019)
 
@@ -297,15 +291,10 @@ You can destructure all states in render(),  so you wouldn't have to repeat this
 render() {
      // This destructuring helps us reduce our use of this.state
      const {isSignedIn, imageUrl, route, box} = this.state;
-     
-     
-     
-     
-     Runtime: 5 hours
-     
-     
 
- ### DAY 31 (4th October 2019)
+     Runtime: 5 hours
+
+### DAY 31 (4th October 2019)
 
 Started to learn about server-side development with Nodejs. Learnt key differences between the browser environment and node (document, window, global, process).
 Learnt to use the commonjs syntax for import and export.
@@ -314,9 +303,7 @@ Custom: Built by you
 Built-in: Came predefined in node (fs, Http)
 Package: Extends the functionality of node (nodemon).
 
-
 ### DAY 32 (6th October 2019)
-
 
 Learnt more on Node today:
 The two most used params are request and response.
@@ -324,7 +311,7 @@ When transferring data in JSON format, you have to use JSON.stringify() to conve
 
 Started learning express.js. It is the most popular backend framework for Nodejs
  It does the string conversion of JSON data for us .
- 
+
 ### DAY 33 (8th October 2019)
 
 Learnt on Express middleware.
@@ -333,16 +320,17 @@ It can make changes to the request-response objects, or end the request-respond 
 If a middleware function isn't ending the cycle, it must call next(), to pass control to the next middleware function. They are accessed using app.use()
 Example body-parser:  Parse incoming request bodies in a middleware before your handlers, available under the req.body property.
 
-
 ### DAY 34 (9th October 2019)
 
 Learnt about POSTMAN: It is a good way to test out your server before connecting it to the front-end.
-Also learnt on RESTful APIs: A set of functions through which developers can perform requests and receive responses via HTTP protocol 
+Also learnt on RESTful APIs: A set of functions through which developers can perform requests and receive responses via HTTP protocol
 
 ### DAY 35 (10th October 2019)
 
 Learnt more on RESTful APIs and also went ahead to learn extensively on the fs (file system) module in node.
-Worked with the readfile and readfilesync  appendfile, writefile, and unlink properties for file manipulation. Finally did a study on  Problem-solving approach as a programmer here:  https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2  by Richard ReissThe right steps are
+Worked with the readfile and readfilesync  appendfile, writefile, and unlink properties for file manipulation. Finally did a study on  Problem-solving approach as a programmer here: < https://medium.freecodecamp.org/
+how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2>> by Richard ReissThe right steps are
+
 1. Understand: Explain the problem in plain language.
 2. Plan: Write down steps for solving it.
 3. Divide: Break down problems into subproblems.
@@ -351,18 +339,17 @@ a.Debug: Read the code line by line to isolate the problem.
 b. Reassess: Change your strategy accordingly, or start afresh
 c. Research: Check for answers to subproblems, not the problem directly.
 
-
 ### DAY 36 (11th October 2019)
 
-Worked on a code challenge from the Advent of code, so as to assimilate and imbibe the problem-solving technique I learnt yesterday: https://adventofcode.com/2015/day/1 . It really did help, although I haven't been able to solve the challenge yet 
+Worked on a code challenge from the Advent of code, so as to assimilate and imbibe the problem-solving technique I learnt yesterday: <https://adventofcode.com/2015/day/1> . It really did help, although I haven't been able to solve the challenge yet 
 
 ### DAY 37 (12th October 2019)
-Finally cracked the puzzle I was working on from the advent of code 2015. It has helped me understand the problem-solving approach. https://adventofcode.com/2015/day/1 
 
+Finally cracked the puzzle I was working on from the advent of code 2015. It has helped me understand the problem-solving approach. https://adventofcode.com/2015/day/1 
 
 ### DAY 38 (14th October 2019)
 
-I did a deep dive in learning the reduce function, at https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce. It got useful with my advent of code challenge as I used it to print out index (3rd arg)
+I did a deep dive in learning the reduce function, at <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce.> It got useful with my advent of code challenge as I used it to print out index (3rd arg)
 Started building my express server using postman to test: You should plan all your API routes before building.
 Got the sign-in route fully working
 
@@ -378,17 +365,14 @@ Components that are not smart can also have state in them; provided the function
 Fetch by default sends a GET request
 A second argument can be added to fetch, it is an object that describes what the request will be. 
 
-
 ### DAY 41 (18th October 2019)
 
 Worked on the register route, there was a couple of mistakes, but I solved them with some debugging. 
 Also updated the App.js with a function that loads a user after he/ she has been registered.  
 
-
 ### DAY 42 (19th October 2019)
 
 Finally wrapped up the server-side, by building the image profile route. I am now ready to move on to the database section. 
-
 
 ### DAY 43 - 44 (20th - 21st October 2019)
 
@@ -403,17 +387,14 @@ I have been working on setting up my dev environment for PostgreSQL. almost done
 Still on with my database saga. Finally able to get PostgreSQL working. Although for some reason I cannot create a DB with another user apart from the default one created.
 Also chose Dbeaver as my DB GUI of choice it seems to be an amazing choice. Almost set! :)  
 
-
 ### DAY 46 (24th October 2019)
 
-Did a fresh install of PostgreSQL. This all seems very tricky. But I have been able to narrow the problem. It seems the presence of a - (special character) in my default Linux OS user account is responsible for my psql woes. 
-
+Did a fresh install of PostgreSQL. This all seems very tricky. But I have been able to narrow the problem. It seems the presence of a - (special character) in my default Linux OS user account is responsible for my psql woes.
 
 ### DAY 47 (27th October 2019)
 
-Finally got Psql to work perfectly. As suspected it had something to do with my OS username. Glad this whole saga is over, learnt a lot from researching, 
+Finally got Psql to work perfectly. As suspected it had something to do with my OS username. Glad this whole saga is over, learnt a lot from researching,
 Connected my DB with terminal and dbeaver
-
 
 ### DAY 48 (28th October 2019)
 
@@ -426,3 +407,11 @@ Finally learnt how to join tables by leveraging on the conveys of foreign keys a
 
 Started planning and  building a database for the app. and connected it using Knex.js. Knex allows us write SQL commands right into server.js, and it connects it seamlessly to the back-end, and also the front-end.
 With these connected the database us dynamical updated, and it's data will persist, even in the event of a server crash.
+
+### DAY 50 (30th October 2019)
+
+Finished configuring the register route for my DB. Also configured the sign-in route.
+
+Learnt a new concept in SQL called "transactions". They help prevent inconsistencies in data fields. Hence if the data returned is incomplete, that transaction will fail, and the DB table will not be populated (registering new users). Only use it in cases where you have to modify information in tables, not when you are just doing a comparison (signing in).
+
+Finally couldn't seem to hash my passwords with bcrypt asynchronously when using transactions. Only the synchronous method worked. I will look into this.
