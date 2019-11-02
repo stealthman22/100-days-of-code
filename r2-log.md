@@ -415,3 +415,7 @@ Finished configuring the register route for my DB. Also configured the sign-in r
 Learnt a new concept in SQL called "transactions". They help prevent inconsistencies in data fields. Hence if the data returned is incomplete, that transaction will fail, and the DB table will not be populated (registering new users). Only use it in cases where you have to modify information in tables, not when you are just doing a comparison (signing in).
 
 Finally couldn't seem to hash my passwords with bcrypt asynchronously when using transactions. Only the synchronous method worked. I will look into this.
+
+### DAY 51 (31 October 2019)
+
+Done with the database, but fixed a bug on the front-end; the state of the app wasn't refreshing on sign out. Fixed this by setting an initialState variable outside the class App, and setting this.state to it. Started with code clean-up on the front-end, by removing repetitions and dong dependency injections.
