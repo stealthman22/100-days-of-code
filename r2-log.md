@@ -416,6 +416,14 @@ Learnt a new concept in SQL called "transactions". They help prevent inconsisten
 
 Finally couldn't seem to hash my passwords with bcrypt asynchronously when using transactions. Only the synchronous method worked. I will look into this.
 
-### DAY 51 (31 October 2019)
+### DAY 51 (31st October 2019)
 
 Done with the database, but fixed a bug on the front-end; the state of the app wasn't refreshing on sign out. Fixed this by setting an initialState variable outside the class App, and setting this.state to it. Started with code clean-up on the front-end, by removing repetitions and dong dependency injections.
+
+### DAY 52 (1st November 2019)
+
+Did seperation of concerns on my backend, to make things much more scalable. I divided server.js into controller files, that are concerned with each route. Using imports and exports statements, alongside with dependency injections made this possible.
+
+### DAY 53 (2nd November 2019)
+
+Started doing a security review, to get my app ready for deployment. Did a fair amount of validation on the front-end and back-end. Also moved the Clarifai package to the back-end, so that the API-keys would not be seen in the console of the browser; which can compromise the safety of the app and its users.
