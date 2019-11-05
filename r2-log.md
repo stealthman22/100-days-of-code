@@ -427,3 +427,7 @@ Did seperation of concerns on my backend, to make things much more scalable. I d
 ### DAY 53 (2nd November 2019)
 
 Started doing a security review, to get my app ready for deployment. Did a fair amount of validation on the front-end and back-end. Also moved the Clarifai package to the back-end, so that the API-keys would not be seen in the console of the browser; which can compromise the safety of the app and its users.
+
+### DAY 54 (4th November 2019)
+
+Learnt a new concept called "Environmental Variables". It states that every environment has its own variables, and they can be injected into specific locations in the file. Accessed in node.js by running process.env. It important for things that should be kept secret (API keys) or dynamic (port number).
