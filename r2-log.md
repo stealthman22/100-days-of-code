@@ -432,6 +432,10 @@ Started doing a security review, to get my app ready for deployment. Did a fair 
 
 Learnt a new concept called "Environmental Variables". It states that every environment has its own variables, and they can be injected into specific locations in the file. Accessed in node.js by running process.env. It important for things that should be kept secret (API keys) or dynamic (port number).
 
-### DAY 55 (5th Novembere 2019)
+### DAY 55 (5th November 2019)
 
 Successfully deployed my server app to Heroku, using the Heroku CLI, after a ton of troubleshooting. Trying to connect the database to it, and point the front-end to the given Heroku address. Lots of debugging going on right now. Heroku is a hosting platform with git support, hence you can easily track changes and redeploy your app seamlessly.
+
+### DAY 56 (6th November 2019)
+
+Learnt how to properly setup and connect a db to a server in heroku. Also I deployed my front-end to heroku. I can finally say I have a working React and Node app deployed to the world. It doesn't seem super useful yet, but it has so much potential to build on, and I have learnt so much from it. Still have alot of cleanup to do before I can share the link.
