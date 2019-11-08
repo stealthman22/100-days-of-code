@@ -438,4 +438,4 @@ Successfully deployed my server app to Heroku, using the Heroku CLI, after a ton
 
 ### DAY 56 (6th November 2019)
 
-Learnt how to properly setup and connect a db to a server in heroku. Also I deployed my front-end to heroku. I can finally say I have a working React and Node app deployed to the world. It doesn't seem super useful yet, but it has so much potential to build on, and I have learnt so much from it. Still have alot of cleanup to do before I can share the link.
+Learnt how to properly setup and connect a db to a server in heroku. Also I deployed my front-end to heroku. I can finally say I have a working React and Node app deployed to the world.  It doesn't seem super useful yet, but it has so much potential to build on, and I have learnt so much from it. Still, have a lot of cleanups to do before I can share the link.
