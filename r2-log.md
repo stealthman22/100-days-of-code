@@ -444,3 +444,14 @@ Learnt how to properly setup and connect a db to a server in heroku. Also I depl
 
 Did a lot of tinkering on how deployment should be done; if to build first or let the hosting platform do the hosting? Not really clear on how and when to serve the app from the build directory.  
 Worked on production a site I am collaborating on, tinkered with helping connect the domain name to the Heroku app. Learnt terms like CNAME ANAME...
+
+### DAY 59-60 (18th and 20th)
+
+Started Learning state management with redux. Redux is a state management tool that follows the Flux Architecture. Here there is only one massive state, and all smart components send a request of changes to it directly, hence a one-way data flow.
+ The redux workflow; action => reducers => store => make changes.
+
+* Actions: Payloads of information that send data from your application to your store.
+* Reducer: A Pure function that takes the previous state and an action, and returns the next state.
+* Store: A store for the current state of the app.
+
+ As a convention, capitalize your Redux constants for easy identification.
