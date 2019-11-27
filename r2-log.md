@@ -455,3 +455,20 @@ Started Learning state management with redux. Redux is a state management tool t
 * Store: A store for the current state of the app.
 
  As a convention, capitalize your Redux constants for easy identification.
+
+### DAY 61 - 62 (21st and 22nd)
+Built a store in redux using the createStore method.
+Learnt how to connect redux to a react app using the provider method and connect function in redux. 
+connect() is a higher-order function that accepts two parameters; mapStateToProps and  mapDispatchToProps.
+
+Learnt a few things about killing procrastination and increasing productivity by Yazeed Bzadough.
+
+### DAY 63 (24th November 2019)
+
+
+Learnt the concept of middleware in react, and installed two of them redux-logger and redux-thunk. 
+logger logs information of state in realtime in the console, thunk helps handle 'side-effects' examples of these are AJAX calls. This is because redux works synchronously, hence async actions have to be handled by middlewares.
+Redux middlewares usually filter the actions before their payloads are dispatched.
+To use them, you call the applyMiddleware method.
+
+Finally learnt that redux needs to keep track of one thing, hence when there are more than one reducers, we call a function combineReducers(), which combines all reducers to a single root reducer, that is easier to track.
