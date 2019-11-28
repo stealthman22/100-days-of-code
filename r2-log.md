@@ -472,3 +472,21 @@ Redux middlewares usually filter the actions before their payloads are dispatche
 To use them, you call the applyMiddleware method.
 
 Finally learnt that redux needs to keep track of one thing, hence when there are more than one reducers, we call a function combineReducers(), which combines all reducers to a single root reducer, that is easier to track.
+
+
+### DAY 64
+Wrapped up the redux section of the course by learning proper folder structure of a redux project. The tip is to take a seperation of concerns approach, and group everything according to components 
+
+Rounded up with learning about some packages that can be very useful in react and redux projects:
+React Router: For building scalable routes.
+Glamorous and styled components: For easy styling.
+Gatsby.js: For static webpages
+Next.js: For server-side rendering
+Material UI and Semantic UI: Tons of react components you can use
+Redux Saga: Handles async functions for very large projects
+Reselect: Helps with selctors and improves app performance
+Imuutable.js: Helps enforce your state to remainimmutable.
+
+And some Utility Libraries:
+Lodash: Adds loads of functions that extends the functions of js.
+Ramda: Smae thing as lodash but focuses on functional programming.
