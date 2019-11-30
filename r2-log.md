@@ -490,3 +490,9 @@ Imuutable.js: Helps enforce your state to remainimmutable.
 And some Utility Libraries:
 Lodash: Adds loads of functions that extends the functions of js.
 Ramda: Smae thing as lodash but focuses on functional programming.
+
+
+### DAY 65 (28th November 2019)
+
+Went through some design inspirations for my portfolio page. So many amazing portfolios out there. 
+I would like to have some nice and unique animations in this project, so it would be eye-catching
