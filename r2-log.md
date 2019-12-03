@@ -496,3 +496,11 @@ Ramda: Smae thing as lodash but focuses on functional programming.
 
 Went through some design inspirations for my portfolio page. So many amazing portfolios out there. 
 I would like to have some nice and unique animations in this project, so it would be eye-catching
+
+
+
+### DAY 66 - 67 (30th November - 1st Dec 2019)
+
+Went through some more design inspirations and finalized what I would want my portfolio to have, out of all the amazing UI/UX I have seen out there. Took down tips and tricks to help. Also downloaded tutorials to help me add effects I don't know.
+Finally found out how to read the js being used by a site via chrome dev tools.
+
