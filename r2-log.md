@@ -508,3 +508,14 @@ Finally found out how to read the js being used by a site via chrome dev tools.
 
 A bit more design inspiration and tricks, and I finally made up my mind on how my portfolio should look (Modern and engaging). 
 Made a rough sketch for it, bringing things more into perspective. This portfolio inspired me a lot http://qaisar.design. 
+
+
+### DAY 69 (4th December 2019)
+
+Working on converting my sketch to a UI/UX design.
+Using Adobe XD as my tool for building the mockup, Following this amazing tutorial by Howard Pinsky https://youtube.com/playlist?list=PLuQZzG-z6zBJvcSTgDleHPDyqRUXYkA6c. Crafted my first design today
+
+
+### DAY 70 (5th December 2019)
+
+Finished my first design today, and built it into a prototype. Also found out how to frame my designs in an image of a device.
