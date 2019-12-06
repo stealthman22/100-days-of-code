@@ -504,3 +504,7 @@ I would like to have some nice and unique animations in this project, so it woul
 Went through some more design inspirations and finalized what I would want my portfolio to have, out of all the amazing UI/UX I have seen out there. Took down tips and tricks to help. Also downloaded tutorials to help me add effects I don't know.
 Finally found out how to read the js being used by a site via chrome dev tools.
 
+### DAY 68 (3rd December 2019)
+
+A bit more design inspiration and tricks, and I finally made up my mind on how my portfolio should look (Modern and engaging). 
+Made a rough sketch for it, bringing things more into perspective. This portfolio inspired me a lot http://qaisar.design. 
