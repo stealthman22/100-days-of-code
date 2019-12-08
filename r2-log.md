@@ -519,3 +519,7 @@ Using Adobe XD as my tool for building the mockup, Following this amazing tutori
 ### DAY 70 (5th December 2019)
 
 Finished my first design today, and built it into a prototype. Also found out how to frame my designs in an image of a device.
+
+
+### DAY 71 -74
+Spent the past days learning and hacking away in XD and design principles. It's a whole different world in XD. But I am picking up fast. Almost done with my portfolio UI  
