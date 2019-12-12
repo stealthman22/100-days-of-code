@@ -523,3 +523,9 @@ Finished my first design today, and built it into a prototype. Also found out ho
 
 ### DAY 71 -74
 Spent the past days learning and hacking away in XD and design principles. It's a whole different world in XD. But I am picking up fast. Almost done with my portfolio UI  
+
+
+### DAY 75 - 76
+
+Done and dusted with the XD mockup. It could still use some experience. But at least my ideas are visually penned down
+Still have a lot to get to know in XD, but it's really so much fun. 
