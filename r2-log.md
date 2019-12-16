@@ -521,11 +521,17 @@ Using Adobe XD as my tool for building the mockup, Following this amazing tutori
 Finished my first design today, and built it into a prototype. Also found out how to frame my designs in an image of a device.
 
 
-### DAY 71 -74
+### DAY 71 -74  (8th December 2019
 Spent the past days learning and hacking away in XD and design principles. It's a whole different world in XD. But I am picking up fast. Almost done with my portfolio UI  
 
 
-### DAY 75 - 76
+### DAY 75 - 76 (9th December 2019)
 
 Done and dusted with the XD mockup. It could still use some experience. But at least my ideas are visually penned down
 Still have a lot to get to know in XD, but it's really so much fun. 
+
+### DAY 77 (12th December 2019)
+
+Built a dynamic landing page, that changes the background as the time if the day changes.
+Inspired by this tutorial by traversy https://www.youtube.com/watch?v=fSTQzlprGLI&t=12s . It has local storage enables to save the name and the main focus.  here is mine https://stealthman22.github.io/Time-controled-landing-page/.
+  
