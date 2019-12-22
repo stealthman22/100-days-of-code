@@ -535,3 +535,15 @@ Still have a lot to get to know in XD, but it's really so much fun.
 Built a dynamic landing page, that changes the background as the time if the day changes.
 Inspired by this tutorial by traversy https://www.youtube.com/watch?v=fSTQzlprGLI&t=12s . It has local storage enables to save the name and the main focus.  here is mine https://stealthman22.github.io/Time-controled-landing-page/.
   
+  
+### DAY 78 (16th December 2019)
+
+Structured my project in Trello boards. Arranged it with checklists, so I could easily cancel out whatever value I have. delivered
+
+
+### DAY 79 - 84 (17th - 22nd December 2019)
+
+Been digging the official webpack docs, it's been gruelling and quite confusing, learning this new approach to js development. But I have been working relentlessly hard at it and coming to really understand it's concepts.
+Currently trying to synthesize a generic template that can bring me up to speed each time I start a project with it.
+
+Also wanting to build my project in components, so I have low chunk file sizes, and a level of separation of concerns just as in react.js
