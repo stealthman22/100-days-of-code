@@ -547,3 +547,37 @@ Been digging the official webpack docs, it's been gruelling and quite confusing,
 Currently trying to synthesize a generic template that can bring me up to speed each time I start a project with it.
 
 Also wanting to build my project in components, so I have low chunk file sizes, and a level of separation of concerns just as in react.js
+
+
+### DAY 85 - 87 (23rd, 30th and 31st December 2019)
+
+85: Did quite a deep dive into understanding webpack configuration files using https://medium.com/hackernoon/the-100-correct-way-to-split-your-chunks-with-webpack-f8a9df5b7758, got some good understanding but a lot of areas are still fuzzy.
+
+86: Started working on my portfolio project started and finished the navbar structure.
+
+87: Learnt the eye follow scroll effect and implemented it on my page.
+
+
+### Day 88 - 91 (1st - 4th)
+
+88: Developed some content for hero section
+
+89: Started to build effects and structure of the hero section
+
+90: Learnt the typewriter effect from @traversymedia and implemented it
+
+91:  Learnt how to build the chrome moment effect by Traversy  
+
+
+### DAY 92 - 95 (5th - 8th)
+
+Got stuck with processing images in webpack, there appeared to have been some kind of bug in file-loader package,important lesson is don't get stuck with tools when you have a deadline, you won't be making real progess, switch if you have too.
+
+### DAY 96 - 98 (9th - 11th)
+
+96: Learnt about parcel-bundler, which is really amazing, was about to switch when I solved the webpack image issue, but will definitely be using parcel for simple sites and personal projects.
+
+97: Got the dynamic hero working 
+
+98: Stared working on showcase section of the site, has another webpack issue with HTML solved it quicker this time.
+Will write all solutions to my webpack issues here soon https://stackoverflow.com/questions/59566181/webpack-not-finding-dynamically-js-added-background-images/59566714#59566714
