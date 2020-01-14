@@ -581,3 +581,11 @@ Got stuck with processing images in webpack, there appeared to have been some ki
 
 98: Stared working on showcase section of the site, has another webpack issue with HTML solved it quicker this time.
 Will write all solutions to my webpack issues here soon https://stackoverflow.com/questions/59566181/webpack-not-finding-dynamically-js-added-background-images/59566714#59566714
+
+
+### DAY 99 - 100 ( 12 - 13)
+
+99: Added a random function to my hero section, so that the pictures won't always be the same when you visit the page; did it for all times of the day. 
+
+
+100: Started working on the showcase and decided not to add all the effects I initially wanted, but rather do something simplistic and nice
