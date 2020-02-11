@@ -68,7 +68,7 @@ Then tuples (): They are ordered, but immutable (Values cannot be changed) data 
 
 22. No coding.
 
-### DAY 23 - 26
+### DAY 23 - 26 (5th Feb - 9th Feb)
 
 23 Learnt about another data structure called Sets. Sets are immutable and unordered, hence cannot be iterated, so to get values from them, you have to use a special function called a hashing function. 
 Hashing means assigning boxes in memory based on the objects they contain
@@ -92,7 +92,21 @@ Counter (A dict that counts the frequency of values in another dict)
 defaultdict (Sets a return value when we reference non- existing keys in dicts). 
 
 
+### DAY 28 (10th February 2020)
 
+
+Started learning about algorithms in python. An algorithm is a solution to a problem.
+Take note that no problem is complex, the complexity lies in the solution.
+Learnt that the 3 main criteria to consider when building solutions to problems are;
+
+1. Computational Complexity (time): How does the number of execution scale with the growth of input. We want our solutions to take less time
+
+2. Memory (RAM): How much memory will be needed for each execution cycle. We cannot store an infinite amount of data in memory, hence memory is always limited.
+
+3. I/O (input/output): How much traffic do we need to send in and out of the program to solve the problem. Traffic could be read and write cycles or network.
+
+Also learnt about the "Big O Notation"; which is a technique used to calculate the complexity of an algorithm.
+There is always a relationship between executions required and the size of the input. Read more here https://en.wikipedia.org/wiki/Big_O_notation
 
 
 
