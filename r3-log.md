@@ -109,4 +109,16 @@ Also learnt about the "Big O Notation"; which is a technique used to calculate t
 There is always a relationship between executions required and the size of the input. Read more here https://en.wikipedia.org/wiki/Big_O_notation
 
 
+### DAY 29 (10th February 2020)
+
+Learnt about Binary Search. It is a recursive algorithm that allows a list to be divided roughly in half on each recursive step. It is very fast, but can only be used on a sorted list.
+
+
+**To find the midpoint of a list in python, use len(list)//2
+
+The reason for its speed is because the computational complexity is logarithmic. This means that it grows exponentially as we half the list on every iteration.
+
+Learnt something about memoisation (not recomputing thngs already computed), but didn't really catch it
+
+
 
