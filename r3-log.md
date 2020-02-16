@@ -109,7 +109,7 @@ Also learnt about the "Big O Notation"; which is a technique used to calculate t
 There is always a relationship between executions required and the size of the input. Read more here https://en.wikipedia.org/wiki/Big_O_notation
 
 
-### DAY 29 (10th February 2020)
+### DAY 29 (11th February 2020)
 
 Learnt about Binary Search. It is a recursive algorithm that allows a list to be divided roughly in half on each recursive step. It is very fast, but can only be used on a sorted list.
 
@@ -121,4 +121,29 @@ The reason for its speed is because the computational complexity is logarithmic.
 Learnt something about memoisation (not recomputing thngs already computed), but didn't really catch it
 
 
+### DAY 30 - 31 (12th - 13th February 2020)
+
+Missed both days. Had lots of errands to run, and always arrived home feeling tired and exhausted.
+
+### DAY 32 (14th February 2020)
+
+Tried to really understand memoization and recursion.
+
+Recursion is simply a function calling itself to fulfil a particular outcome.
+
+Memoization means storing the values for recent function calls so future calls don't have to repeat the work.
+
+This video from Socratia's channel helped a lot https://www.youtube.com/watch?v=Qk0zUZW-U_M&t=139s
+
+
+### DAY 33 (15th February 2020)
+
+Still had to go through recursions. 
+This time around we built a factorial function.
+It was pretty straight forward and genius.
+
+In this case, the time complexity wasn't an issue, hence memorization wasn't necessary.
+
+The problem here was memory complexity, at a level, the recursive function couldn't be handled, leading to a stack overflow.
+Also would try to see how to print answers in index form
 
