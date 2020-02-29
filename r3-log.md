@@ -147,3 +147,59 @@ In this case, the time complexity wasn't an issue, hence memorization wasn't nec
 The problem here was memory complexity, at a level, the recursive function couldn't be handled, leading to a stack overflow.
 Also would try to see how to print answers in index form
 
+
+###  DAY 34- 35 (16th - 17th February 2020)
+
+34: Finished up with memory complexity, don't get everything in data structures and algorithms, but I do get the idea now.
+Also started with the basics of OOP. In python, everything is considered an object. These objects have attributes that can be used to interface with them. But due to the nature of attributes, editing them is not safe and can fail as the python interpreter expects them to always be constant for proper functioning.
+
+To manipulate objects, it's is better to use methods.
+
+Methods are built on top of attributes, providing a safer and efficient way to edit objects, without changing their core representation 
+
+35: Couldn't code today
+
+
+### DAY 36 - 37 (18th - 19th February 2020)
+
+ 36: Studied classes in py today. Classes are larger functions, that can be extended, when we need to do the same basic things again and again. We achieve this by creating instances of the main class.
+ 
+ A class has an argument called "Object" that we must pass in. That means the original class is an extension of an inbuilt class called object. It is responsible for giving a class it's most basic functionality.
+ The first argument taken in by a function in a class is "self"; it is a representation of the object in the class itself
+ 
+ 37: Went further into classes, and learnt about the inheritance; this is the ability of a class to copy the state of a superclass (the class whose functions it wants to have access too)
+ To do this we use the Super function.
+ The super function is used to retrieve the Superclass of a given class, i.e the class it is inheriting from. 
+super gives the class (subclass) the access to the higher class (Superclass) it wants to pull properties  from 
+
+
+### DAY 38 - 41 (20th - 22nd February 2020)
+
+38: Redesigned the footer of my portfolio, did some code cleanups. 
+39: No coding today
+40: Learnt the kinks of coding the pythonic way. Read the Zen of python, and looked into how import statements work in python.
+41: Learnt a bit about exceptions and debugging in py.
+Exceptions help us know what we are doing wrongly in our code. We use try-except blocks to catch exceptions gracefully so the code doesn't break.
+Learning how to read tracebacks in errors can be time-saving when debugging.
+
+### DAY 42 - 44 (23rd -25th February 2020)
+
+42: Added some simple transitions to some of the buttons.
+
+43: Started data wrangling in python today:
+
+Py interacts with files on disk, using the open-close commands; 
+* Once a file is opened, we create a filehandle (a variable that helps us manipulate files) 
+* We then open the files.
+* Perform any read and write operations.
+* then close the files.
+
+Leant about the OS module, which is used to interact with the operating system in python, especially the file system using the listdir (listing directories) method.
+
+
+44:  Learnt briefly about "walk" method. The recursive walk method can be used to list all sub-directories using the os module.
+CSV is the most common files used to work with tabular data in py, and even though we can handle thee directly, it is better to work with tabular data files using the pandas' module
+
+### DAY 45 - 46 (26th -27th February 2020)
+
+Couldnt ge tthe time to code at all, was very busy these two days. Hopefully return to wining ways soon
