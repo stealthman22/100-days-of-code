@@ -203,3 +203,15 @@ CSV is the most common files used to work with tabular data in py, and even thou
 ### DAY 45 - 46 (26th -27th February 2020)
 
 Couldnt ge tthe time to code at all, was very busy these two days. Hopefully return to wining ways soon
+
+
+### DAY 47 - 48 (29th Feb - 1st March 2020)
+
+47: Spent some time to work on my portfolio, cleaning up the various placeholder links and texts, and ensuring target blanks on most links
+48: couldn't code today, but downloaded some cool sysadmin photos
+
+
+### 49 - 50 (2nd - 3rd March 2020)
+
+49: Got the WhatsApp click to open chat working finally, did some more cleanup.
+50: Built the achievements timeline, now time to work on mobile responsiveness.
