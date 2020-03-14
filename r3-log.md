@@ -215,3 +215,19 @@ Couldnt ge tthe time to code at all, was very busy these two days. Hopefully ret
 
 49: Got the WhatsApp click to open chat working finally, did some more cleanup.
 50: Built the achievements timeline, now time to work on mobile responsiveness.
+
+### DAY 51 - 56 (4th - 9th March 2020)
+
+
+Pheew cannot really account for all these days, kinda caught up in a blur, always got back tired and late. Had some kinda burn out. I think I need a breather.
+I think it's lack of exercise and healthy activities.
+
+
+### DAY 57-58 (10th - 11th March 2020)
+
+Started working on mobile responsiveness for my portfolio
+Tackled the navbar and built something nice and smooth, with inspiration from DEVED but there is a bug I am trying to fix, can't get it fully functional with dead links.
+
+### DAY 59 (12th MARCH 2020)
+
+Went for a design thinking Bootcamp organized by Delta Airlines and Junor Achievers. It was awesome. Learnt amazing problem-solving techniques. Glad for the opportunity to be a part of such an amazing atmosphere
