@@ -231,3 +231,8 @@ Tackled the navbar and built something nice and smooth, with inspiration from DE
 ### DAY 59 (12th MARCH 2020)
 
 Went for a design thinking Bootcamp organized by Delta Airlines and Junor Achievers. It was awesome. Learnt amazing problem-solving techniques. Glad for the opportunity to be a part of such an amazing atmosphere
+
+
+### DAY 60 - 61 (13th - 15th March 2020)
+
+Been working through the mobile responsiveness of my site. The navbar isn't working fully but I have started working on other sections too.
