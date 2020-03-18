@@ -240,3 +240,14 @@ Been working through the mobile responsiveness of my site. The navbar isn't work
 ### DAY 62 (15th March 2020)
 
 Another busy Sunday no coding today, but I had a swell day monitoring the streaming of our services.
+
+### DAY 63 (16th March 2020)
+
+For a reason or two, I decided to deploy my project to Netlify today. It's a pretty neat service, and I got up and running with the cli. Found out that my hero images are resulting in an error, will be working on that soon.
+
+### DAY 64 (17th March 2020)
+No coding
+
+### DAY 65 (18th March 2020)
+
+
