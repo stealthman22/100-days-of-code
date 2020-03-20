@@ -250,4 +250,13 @@ No coding
 
 ### DAY 65 (18th March 2020)
 
+Did some troubleshooting in my mobile responsiveness couldn't seem to override set styles in my media queries, found the solution on SO, and it's working nicely now.
+
+Watch out for CSS specificity when working with media queries
+
+### DAY 66 (19th March 2020)
+No coding
+
+### Day 67 (20th march 2020)
+
 
