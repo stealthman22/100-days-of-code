@@ -257,6 +257,13 @@ Watch out for CSS specificity when working with media queries
 ### DAY 66 (19th March 2020)
 No coding
 
-### Day 67 (20th march 2020)
+### Day 67- 69 (20th - 22nd March 2020)
+
+Been working through my site's mobile responsiveness, turns out I have to look into my breakpoints more, another issue that seems to be spronging is optimization. Enjoying all these realtime learning. 
+
+### DAY 70 (23rd March 2020)
+
+Really worked on my RWD yesterday, now most of the site is looking good on width as low as 300px, let's see how they perform well on an actual mobile device of such width.
+Having some issues with linear gradients and box shadows on mobile devices.
 
 
