@@ -266,4 +266,7 @@ Been working through my site's mobile responsiveness, turns out I have to look i
 Really worked on my RWD yesterday, now most of the site is looking good on width as low as 300px, let's see how they perform well on an actual mobile device of such width.
 Having some issues with linear gradients and box shadows on mobile devices.
 
+### DAY 71 (24th March 2020)
+
+Swell  work today, site looking good even on 296px width.Tested on a mobile device of about 350px width and all looked good, apart from the error occuring in netlify for the home images, I am almost done. Also looking into my font choices
 
