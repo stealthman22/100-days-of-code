@@ -268,5 +268,9 @@ Having some issues with linear gradients and box shadows on mobile devices.
 
 ### DAY 71 (24th March 2020)
 
-Swell  work today, site looking good even on 296px width.Tested on a mobile device of about 350px width and all looked good, apart from the error occuring in netlify for the home images, I am almost done. Also looking into my font choices
+Swell  work today, site looking good even on 296px width.Tested on a mobile device of about 350px width and all looked good, apart from the error occuring in netlify for the home images, I am almost done. Also looking into my font choices.
+
+### DAY 72 (25th March 2020)
+
+Did a lot of cleanups today, made the site even more responsive. Also worked on my font and it's looking good now. Tried working on bg fallback colours, and realized it doesn't really work without some js (lazy loading). Not found a solution yet.
 
