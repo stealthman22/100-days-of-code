@@ -274,3 +274,11 @@ Swell  work today, site looking good even on 296px width.Tested on a mobile devi
 
 Did a lot of cleanups today, made the site even more responsive. Also worked on my font and it's looking good now. Tried working on bg fallback colours, and realized it doesn't really work without some js (lazy loading). Not found a solution yet.
 
+### DAY 73
+
+ The Hero sections dynamically added images have really been giving me so many problems in this project, and it has a lot to do with webpack.
+
+ Thought I had solved that until I deployed, and the images weren't displaying on netlify, but giving me a 404 error. 
+They do glitch on webpack dev server too once in a while, so I decided to have a fallback colour, by wrapping a container around it and giving it a bg colour just incase, turns out this doesn't display on netlify too.    
+
+
