@@ -292,3 +292,7 @@ Finally fixed my nav issue, now it works and transitions smoothky, and the full 
 ### DAY 76 (29th March 2020)
 
 Did not code today. Getting ready for the imposed lockdown, pysically and mentally.
+
+### DAY 77 (30th March 2020)
+
+Resumed my troubleshooting, spent time digging into webpack's docs and issues, looking into splitting my config file into 3 (common, production, development),  taking my time to really understand the architecture of modern approaches in web dev 
