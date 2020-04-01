@@ -296,3 +296,8 @@ Did not code today. Getting ready for the imposed lockdown, pysically and mental
 ### DAY 77 (30th March 2020)
 
 Resumed my troubleshooting, spent time digging into webpack's docs and issues, looking into splitting my config file into 3 (common, production, development),  taking my time to really understand the architecture of modern approaches in web dev 
+
+### DAY 78 (31st March 2020)
+
+Another day of trouble-shooting dug deep into the networks tab in chrome dev tools to see the problem, noticed that sometimes the image fetches but with wrong params, and pointing it the wrong js file, other times it doesn't even fetch.
+Created a question on SO https://stackoverflow.com/questions/60963099/webpack-site-not-displaying-my-dynamically-added-images-on-netlify-but-does-so
