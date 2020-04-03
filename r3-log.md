@@ -301,3 +301,10 @@ Resumed my troubleshooting, spent time digging into webpack's docs and issues, l
 
 Another day of trouble-shooting dug deep into the networks tab in chrome dev tools to see the problem, noticed that sometimes the image fetches but with wrong params, and pointing it the wrong js file, other times it doesn't even fetch.
 Created a question on SO https://stackoverflow.com/questions/60963099/webpack-site-not-displaying-my-dynamically-added-images-on-netlify-but-does-so
+
+
+### DAY 79 -80 (1st - 2nd March 2020) 
+
+Shifted my attention to work on responsive images, loading lower resolution images on mobile screens is a big perf win on mobile. 
+Stuck at building logic with match media to do this for the js added images.
+Also enrolled for a new Ds/Ml session
