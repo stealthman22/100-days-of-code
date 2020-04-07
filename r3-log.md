@@ -308,3 +308,12 @@ Created a question on SO https://stackoverflow.com/questions/60963099/webpack-si
 Shifted my attention to work on responsive images, loading lower resolution images on mobile screens is a big perf win on mobile. 
 Stuck at building logic with match media to do this for the js added images.
 Also enrolled for a new Ds/Ml session
+
+### DAY 81 - 82 (3rd -  4th March 2020)
+
+Worked through the logic for updating the actual images array using the js matchMedia API. For some reason, it wasn't working, but since there were no errors in console, I narrowed down the problem to "Scoping". I'm sure am on the right track.
+
+### DAY 83 - 84 (5th - 6th March 2020)
+
+Decided to ask on SO as I couldn't really implement the matchMedia logic while trying to reproduce the problem on js fiddle, I actually produced the solution.
+Now it works like a charm. Let's start the real optimization
