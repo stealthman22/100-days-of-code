@@ -317,3 +317,12 @@ Worked through the logic for updating the actual images array using the js match
 
 Decided to ask on SO as I couldn't really implement the matchMedia logic while trying to reproduce the problem on js fiddle, I actually produced the solution.
 Now it works like a charm. Let's start the real optimization
+
+### DAY 85 (7th March 2020)
+
+Optimization proper: learnt that all those images being in my project directory only makes my webpack bundles bigger, and are actually counter-productive. Hence moved all my large images to cloudinary.
+
+Also learnt that a lot of icons loading one by one is bad for performance, and this can be solved with CSS sprites. Don't know much about it or how to implement it without having to rewrite a lot of codes. 
+More to learn.
+
+This also solved my netlify woes as it now picks all the images
