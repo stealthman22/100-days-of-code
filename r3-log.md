@@ -326,3 +326,7 @@ Also learnt that a lot of icons loading one by one is bad for performance, and t
 More to learn.
 
 This also solved my netlify woes as it now picks all the images
+
+### DAY 86 (8th march 2020)
+
+Few code cleanups, read more on how to implement lazy loading, found another solution which claims to be the easiest, and most performant: it's called lazy sizes, will have to compare to find a solution that would be most intuitive.
