@@ -330,3 +330,9 @@ This also solved my netlify woes as it now picks all the images
 ### DAY 86 (8th march 2020)
 
 Few code cleanups, read more on how to implement lazy loading, found another solution which claims to be the easiest, and most performant: it's called lazy sizes, will have to compare to find a solution that would be most intuitive.
+
+
+### DAY 87 - 89 (9th - 11th)
+
+Been a long one virtually working on the same thing (lazy-loading), finally implemented it but I am not at all impressed by both libraries I have used. But it is obvious the problem my site faces is too much simultaneous network requests.
+I now need a solution that will bundle all the image chunks web pack emits in one. that way I can get all my SVG's without unnecessary network overhead, that or I would have to learn CSS sprites.
