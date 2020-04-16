@@ -303,22 +303,22 @@ Another day of trouble-shooting dug deep into the networks tab in chrome dev too
 Created a question on SO https://stackoverflow.com/questions/60963099/webpack-site-not-displaying-my-dynamically-added-images-on-netlify-but-does-so
 
 
-### DAY 79 -80 (1st - 2nd March 2020) 
+### DAY 79 -80 (1st - 2nd April2020) 
 
 Shifted my attention to work on responsive images, loading lower resolution images on mobile screens is a big perf win on mobile. 
 Stuck at building logic with match media to do this for the js added images.
 Also enrolled for a new Ds/Ml session
 
-### DAY 81 - 82 (3rd -  4th March 2020)
+### DAY 81 - 82 (3rd -  4th April 2020)
 
 Worked through the logic for updating the actual images array using the js matchMedia API. For some reason, it wasn't working, but since there were no errors in console, I narrowed down the problem to "Scoping". I'm sure am on the right track.
 
-### DAY 83 - 84 (5th - 6th March 2020)
+### DAY 83 - 84 (5th - 6th April 2020)
 
 Decided to ask on SO as I couldn't really implement the matchMedia logic while trying to reproduce the problem on js fiddle, I actually produced the solution.
 Now it works like a charm. Let's start the real optimization
 
-### DAY 85 (7th March 2020)
+### DAY 85 (7th April 2020)
 
 Optimization proper: learnt that all those images being in my project directory only makes my webpack bundles bigger, and are actually counter-productive. Hence moved all my large images to cloudinary.
 
@@ -327,12 +327,26 @@ More to learn.
 
 This also solved my netlify woes as it now picks all the images
 
-### DAY 86 (8th march 2020)
+### DAY 86 (8th April 2020)
 
 Few code cleanups, read more on how to implement lazy loading, found another solution which claims to be the easiest, and most performant: it's called lazy sizes, will have to compare to find a solution that would be most intuitive.
 
 
-### DAY 87 - 89 (9th - 11th)
+### DAY 87 - 89 (9th - 11th April 2020)
 
 Been a long one virtually working on the same thing (lazy-loading), finally implemented it but I am not at all impressed by both libraries I have used. But it is obvious the problem my site faces is too much simultaneous network requests.
 I now need a solution that will bundle all the image chunks web pack emits in one. that way I can get all my SVG's without unnecessary network overhead, that or I would have to learn CSS sprites.
+
+
+### DAY 90 - 92 (12th - 14th April 2020)
+
+I built a preloading page and also a nice progress bar on my site. Small things like this help to improve the overall user wxpereice, css animations are just so great.
+
+Finall attempted addign a favicon.ico but it's kinda buggy in chrome
+
+### DAY 93 (15th April 2020 )
+
+Built another section to the portfolio, just to wrap up on skills I have, nothing fancy also did a lot of code cleanups.
+I think I can say I am done now. 
+
+Left with few blog posts and dev resume cleanup. Also preparing for Ds/Ml diploma, and Brad Traversy MERN stack from to back.
