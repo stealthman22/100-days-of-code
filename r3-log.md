@@ -350,3 +350,7 @@ Built another section to the portfolio, just to wrap up on skills I have, nothin
 I think I can say I am done now. 
 
 Left with few blog posts and dev resume cleanup. Also preparing for Ds/Ml diploma, and Brad Traversy MERN stack from to back.
+
+### DAY 93 (16th April 2020)
+
+Had a bit of burn out today, didn't code, but I was able to get my blog set up and linked it to the portfolio, next up my resume and then add the live chat feature.
