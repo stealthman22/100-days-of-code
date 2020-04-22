@@ -342,7 +342,7 @@ I now need a solution that will bundle all the image chunks web pack emits in on
 
 I built a preloading page and also a nice progress bar on my site. Small things like this help to improve the overall user wxpereice, css animations are just so great.
 
-Finall attempted addign a favicon.ico but it's kinda buggy in chrome
+Finally attempted adding a favicon.ico but it's kinda buggy in chrome
 
 ### DAY 93 (15th April 2020 )
 
@@ -354,3 +354,12 @@ Left with few blog posts and dev resume cleanup. Also preparing for Ds/Ml diplom
 ### DAY 93 (16th April 2020)
 
 Had a bit of burn out today, didn't code, but I was able to get my blog set up and linked it to the portfolio, next up my resume and then add the live chat feature.
+
+### DAy 94 - 97 (17th April - 20th 2020)
+
+Finished up work on my portfolio, and was able to build a nice resume, and hosted it on github. almost done now. Redid some image optimizations, almost ready to move to production.
+
+### DAY 98 (21st April 2020)
+
+Decided to run more tests before production, and realized that safari and some android chrome browsers have difficulties with clip-path property, which was what I used to build my hamburger menu. Might have to do serious refactoring. 
+
