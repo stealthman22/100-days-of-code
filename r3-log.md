@@ -363,3 +363,7 @@ Finished up work on my portfolio, and was able to build a nice resume, and hoste
 
 Decided to run more tests before production, and realized that safari and some android chrome browsers have difficulties with clip-path property, which was what I used to build my hamburger menu. Might have to do serious refactoring. 
 
+### DAY 99 -100 (22nd -23rd April)
+
+Got all things working now wheew this was a long one. I am glad I learnt a plethora of things here. Would write some blog posts concerning all I have learnt to help others too.  https://stealthportfolio.netlify.app/
+
