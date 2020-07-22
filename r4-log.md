@@ -6,3 +6,8 @@
 Built a password generator project originally made by Florin Pop's 100 days 100 projects challenge, and explained into details by Brad Traversy..
 I got to learn more about objects, and the way the can be manipulated. Also learnt about the Unary operator. 
 Next up is to make some custom changes to the project, as that is my new approach for this round. it's good to be back
+
+## Restarted the challenge with new rules
+
+### Day 1 (uly 2018)
+Went through some free code camp challenges, in my bid to understand vanilla js more. Focus was on manipulating objects using the Dot notation (.) and bracket notation ([]).
