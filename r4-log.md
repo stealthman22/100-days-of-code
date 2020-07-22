@@ -9,5 +9,8 @@ Next up is to make some custom changes to the project, as that is my new approac
 
 ## Restarted the challenge with new rules
 
-### Day 1 (uly 2018)
+### Day 1 (July 20 2020)
 Went through some free code camp challenges, in my bid to understand vanilla js more. Focus was on manipulating objects using the Dot notation (.) and bracket notation ([]).
+
+### DAY 2 (July 21 2020)
+Stayed so long at work, so couldn't do personal learning trying to secure our cms with an nginx reverse proxy, couldn't get the hand of it, so went with apache instead. Phew!
