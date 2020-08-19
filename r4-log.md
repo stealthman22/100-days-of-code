@@ -14,3 +14,8 @@ Went through some free code camp challenges, in my bid to understand vanilla js 
 
 ### DAY 2 (July 21 2020)
 Stayed so long at work, so couldn't do personal learning trying to secure our cms with an nginx reverse proxy, couldn't get the hand of it, so went with apache instead. Phew!
+
+
+### DAY 3 (August 19 2020)
+
+Went through some few Freecodecamp js challenges, was able to understand some key features of ES6 such as default parameters, and also how to chain ternary operators properly.
