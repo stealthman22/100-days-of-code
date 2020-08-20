@@ -19,3 +19,9 @@ Stayed so long at work, so couldn't do personal learning trying to secure our cm
 ### DAY 3 (August 19 2020)
 
 Went through some few Freecodecamp js challenges, was able to understand some key features of ES6 such as default parameters, and also how to chain ternary operators properly.
+
+
+### DAY 4 (August 20 2020)
+
+Spent time on my datascience setup using Anaconda, also played around with Spyder and Jupyter lab. It was amazing writing python code again.
+Not sure of how to proceed, I hear miniconda is better suited.
