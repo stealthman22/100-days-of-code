@@ -25,3 +25,7 @@ Went through some few Freecodecamp js challenges, was able to understand some ke
 
 Spent time on my datascience setup using Anaconda, also played around with Spyder and Jupyter lab. It was amazing writing python code again.
 Not sure of how to proceed, I hear miniconda is better suited.
+
+### DAY 5 (August 21 2020)
+
+Got to meet the Data science community on Kaggle, seems they've got really vast resources for data science and ml, decided to take their basic python course and work my way up. 
