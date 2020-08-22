@@ -29,3 +29,8 @@ Not sure of how to proceed, I hear miniconda is better suited.
 ### DAY 5 (August 21 2020)
 
 Got to meet the Data science community on Kaggle, seems they've got really vast resources for data science and ml, decided to take their basic python course and work my way up. 
+
+### DAY 6 (August 22 2020)
+
+Didn't code much today, just played around a bit with Kaggle, watched some videos on the data science world and what's really needed in ds jobs, also viewed some job listings on LinkedIn and applied for a few.
+
