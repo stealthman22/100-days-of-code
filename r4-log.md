@@ -34,3 +34,9 @@ Got to meet the Data science community on Kaggle, seems they've got really vast 
 
 Didn't code much today, just played around a bit with Kaggle, watched some videos on the data science world and what's really needed in ds jobs, also viewed some job listings on LinkedIn and applied for a few.
 
+### DAY 7 (August 23 2020)
+Spent some time going through the python for data science refresher on Kaggle. Didn't finish the module yet but picked up some new things in functions, booleans and list. Would start participating in data problem sets soon.
+
+### DAY 8 (August 24 2020)
+
+Started a refresher in core vanilla js concepts. Focusing on how javascript works in the browser (working with the DOM). Using these amazing tutorials by Steve Griffith https://www.youtube.com/playlist?list=PLyuRouwmQCjmQTKvgqIgah03HF1wrYkA9
