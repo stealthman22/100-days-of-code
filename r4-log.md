@@ -40,3 +40,10 @@ Spent some time going through the python for data science refresher on Kaggle. D
 ### DAY 8 (August 24 2020)
 
 Started a refresher in core vanilla js concepts. Focusing on how javascript works in the browser (working with the DOM). Using these amazing tutorials by Steve Griffith https://www.youtube.com/playlist?list=PLyuRouwmQCjmQTKvgqIgah03HF1wrYkA9
+
+### DAY 9 - 12th  (25th - 28th)
+
+Didn't record my progress on Day 9, and honestly didn't really do anything the other days. Apart from stuff I did on the side biz I've been working on, it does take a lot of time
+Other personal things to take care of came up to.
+
+
