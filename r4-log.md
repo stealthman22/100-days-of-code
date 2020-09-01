@@ -41,9 +41,14 @@ Spent some time going through the python for data science refresher on Kaggle. D
 
 Started a refresher in core vanilla js concepts. Focusing on how javascript works in the browser (working with the DOM). Using these amazing tutorials by Steve Griffith https://www.youtube.com/playlist?list=PLyuRouwmQCjmQTKvgqIgah03HF1wrYkA9
 
-### DAY 9 - 12th  (25th - 28th)
+### DAY 9 - 12th  (25th - 28th August 2020)
 
 Didn't record my progress on Day 9, and honestly didn't really do anything the other days. Apart from stuff I did on the side biz I've been working on, it does take a lot of time
 Other personal things to take care of came up to.
 
+### DAY 13 - 14 (29th - 30th August 2020)
+No coding, just some planning
+
+### DAY 14 (31st August 2020) 
+Built a nice split landing page in html css and js. It's more like a basic representation of how I would want to build my next portfolio using routes.
 
