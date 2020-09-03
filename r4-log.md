@@ -50,5 +50,16 @@ Other personal things to take care of came up to.
 No coding, just some planning
 
 ### DAY 14 (31st August 2020) 
-Built a nice split landing page in html css and js. It's more like a basic representation of how I would want to build my next portfolio using routes.
+Built a nice split landing page in html css and js. It's more like a basic representation of how I would want to build my next portfolio using route 
+
+### DAY 15 (1st august 2020)
+Tried to recreate the stylesheet of the split landing page, using flexbox, and reducing the use of position absolute, so it would be easier making it look nicer on mobile.
+Encountered some problems which shows that position absolute is easier for specifically targetting positons, but not always advisable.
+
+### DAY 16 (2nd August 2020)
+Started revising my ds classes from WQU. Went through python classes:
+- We use classes to perform related tasks that are repetitive
+- func in classes are called methods.
+
+
 
