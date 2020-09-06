@@ -59,15 +59,14 @@ Encountered some problems which shows that position absolute is easier for speci
 ### DAY 16 (2nd September 2020)
 Started revising my ds classes from WQU. Went through python classes:
 - We use classes to perform related tasks that are repetitive
-- func in classes are called methods.
+- functions in classes are called methods.
 
-### Day 17 (3rd September 2020)
-
-
-### Day 18 (4th September 2020)
+### Day 17- 18 (3rd- 4th September 2020)
+Revised input-output and file management in python. This allows you to be able to manipulate data stored in files via code.
 
 
+### DAY 18 (3rd- 4th September 2020)
 
-
+Did some introspecting about my coding career and the way forward at this point My aim is to arrive at a decision that makes me do what I enjoy and won't burn bridges at the same time.
 
 
