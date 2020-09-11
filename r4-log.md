@@ -61,12 +61,40 @@ Started revising my ds classes from WQU. Went through python classes:
 - We use classes to perform related tasks that are repetitive
 - functions in classes are called methods.
 
-### Day 17- 18 (3rd- 4th September 2020)
+### Day 17 (3rd September 2020)
 Revised input-output and file management in python. This allows you to be able to manipulate data stored in files via code.
 
 
-### DAY 18 (3rd- 4th September 2020)
+### DAY 18 (4rd September 2020)
 
 Did some introspecting about my coding career and the way forward at this point My aim is to arrive at a decision that makes me do what I enjoy and won't burn bridges at the same time.
+
+### DAY 19 (5th september)
+
+
+
+
+### DAY 20 (6th September)
+
+
+
+### DAY 21 (7th September)
+
+I went thorugh the official react docs and started building the tic-tac toe game to give myself a refresher in react basics.
+
+
+### DAY 22 (8th September)
+
+Was able to finally finish up on the tic tac toe react game, seems to be working fine, and I learnt a lot, but still have questions in state and props.
+
+
+### DAY 23 (9th September)
+
+Did a little coding in react. And spent the rest of the day drawing up a contract agreement. Yes I did say contract agreement, guess who just got his first freelance Client ? I would be building a react app for learning and resource sharing between community members. Which I would then incoporate a blog into (digging into something simple with netlify cms and gatsby)  I am grateful for the opportuinity to do this
+
+### DAY 24 (10th September)
+
+Started builidng a react movie app, while following along Webinfalks course on Udemy. We will be using fucntional components with hooks, I think I kinda like the class syntax. 
+Question on my mind is when touse hooks api or redux or both
 
 
