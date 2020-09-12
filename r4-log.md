@@ -69,32 +69,35 @@ Revised input-output and file management in python. This allows you to be able t
 
 Did some introspecting about my coding career and the way forward at this point My aim is to arrive at a decision that makes me do what I enjoy and won't burn bridges at the same time.
 
-### DAY 19 (5th september)
+### DAY 19 - 20 (5th - 6th september)
 
-
-
-
-### DAY 20 (6th September)
-
+Did some introspecting, and decided to be building react projects, while improving in js.s. 
 
 
 ### DAY 21 (7th September)
 
-I went thorugh the official react docs and started building the tic-tac toe game to give myself a refresher in react basics.
+I went through the official react docs and started building the tic-tac-toe game to give myself a refresher in react basics.
 
 
 ### DAY 22 (8th September)
 
-Was able to finally finish up on the tic tac toe react game, seems to be working fine, and I learnt a lot, but still have questions in state and props.
+Was able to finally finish up on the tic tac toe react game, seems to be working fine, and I learnt a lot, but still have questions about state and props.
 
 
 ### DAY 23 (9th September)
 
-Did a little coding in react. And spent the rest of the day drawing up a contract agreement. Yes I did say contract agreement, guess who just got his first freelance Client ? I would be building a react app for learning and resource sharing between community members. Which I would then incoporate a blog into (digging into something simple with netlify cms and gatsby)  I am grateful for the opportuinity to do this
+Did a little coding in react. And spent the rest of the day drawing up a contract agreement. Yes, I did say contract agreement, guess who just got his first freelance Client? I would be building a react app to manage learning between a community  and tutors  Which I would then incorporate a blog into (digging something simple with netlify cms and gatsby)  I am grateful for the opportunity to do this, and feel quite thrilled and scared at the same time :)
 
 ### DAY 24 (10th September)
 
-Started builidng a react movie app, while following along Webinfalks course on Udemy. We will be using fucntional components with hooks, I think I kinda like the class syntax. 
-Question on my mind is when touse hooks api or redux or both
+Started building a react movie app, while following along Webinfalks course on Udemy. We will be using functional components with hooks, I think I kinda like the class syntax. 
+Question on my mind is when to use hooks API or redux or both
+
+
+### DAY 25 (11th September)
+
+Structuring the state in my react movie app. Got introduced to the new hooks API. I think the biggest advantage is that you won't have to lift state anymore, just add it to wherever you want. I am gradually getting the hang of it.
+
+### DAY 26
 
 
