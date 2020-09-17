@@ -111,9 +111,15 @@ Started working on styled components. I think i really like how they work using 
 Day off for me. Seems I am getting into the habbit of taking sundays off :) I do assist with the streaming and projection at church so...
 Photo by Karolina Grabowska from Pexels
 
-### DAY 28 - 29
+### DAY 28 - 29 (14th - 15th September)
 
  Learnt to abstract the styled-components to separate files in a styles directory, this way my normal components stay neat, and in a way, it seems we are still able to keep the CSS separate from js.
 
 Struggled through an import error, But finally importing data from the movie API
 N.B: In react if you don't export with the  default keyword, ensure to import with a {}: import {exported stuff} from 'path-to-file' 
+
+
+### DAY 30 (16th September)
+ 
+Added the search functionality for the homepage, it entailed a whole lot of state manipulation and callbacks. Callback functions seem to have a special way they work in to react.
+ 
