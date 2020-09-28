@@ -123,3 +123,6 @@ N.B: In react if you don't export with the  default keyword, ensure to import wi
  
 Added the search functionality for the homepage, it entailed a whole lot of state manipulation and callbacks. Callback functions seem to have a special way they work in to react.
  
+ 
+ ### DAY 31 - 42 (17th - 27th September)
+ Haven't been posting for a while now, things have been a blur lately. In that time I have completed my react movie app, learnt a lot about states, prototypes, APIs. Would deploy it to Netlify and add new features with time, and also create a branch where I redo everything in class components... Also, I am really close to landing my first freelance contract; hence I've learnt a lot about handling clients: in relation to emotions, pricing, boldness and firmness.
