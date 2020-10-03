@@ -141,7 +141,10 @@ moviepal.netlify.app
  and a few other changes. I want it to also be recent
  Started a MongoDB crash course by Brad Traversy. Using both the command-line and mongo compass.  
 
+ ### DAY 49 (3rd October)
  
+ Finished Traversy's mongodb tutorial, and created my first atlas cluster
+ Also started to learn how to run mongo using mongoose in actual node development,and how to run basic backedn tests in mocha.
  
  
  
