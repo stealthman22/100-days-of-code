@@ -126,3 +126,22 @@ Added the search functionality for the homepage, it entailed a whole lot of stat
  
  ### DAY 31 - 42 (17th - 27th September)
  Haven't been posting for a while now, things have been a blur lately. In that time I have completed my react movie app, learnt a lot about states, prototypes, APIs. Would deploy it to Netlify and add new features with time, and also create a branch where I redo everything in class components... Also, I am really close to landing my first freelance contract; hence I've learnt a lot about handling clients: in relation to emotions, pricing, boldness and firmness.
+ 
+ 
+ ### DAY 43 - 46 (28th  - 30th September)
+ 
+  Started working through how the project I am working on should go; outlining the flow and reading up how others tackled theirs successfully.
+ Also finished my react movie app and hosted on Netlify
+ 
+ 
+ ### DAY 47- 48 (1st - 2nd October)
+ 
+ Edited my portfolio page, added my new react movie app;
+moviepal.netlify.app
+ and a few other changes. I want it to also be recent
+ Started a MongoDB crash course by Brad Traversy. Using both the command-line and mongo compass.  
+
+ 
+ 
+ 
+ 
