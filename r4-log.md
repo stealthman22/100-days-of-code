@@ -144,7 +144,23 @@ moviepal.netlify.app
  ### DAY 49 (3rd October)
  
  Finished Traversy's mongodb tutorial, and created my first atlas cluster
- Also started to learn how to run mongo using mongoose in actual node development,and how to run basic backedn tests in mocha.
+ Also started to learn how to run mongo using mongoose in actual node development,and how to run basic backed tests in mocha.
  
+ ### DAY 50 - 57 (4th - 10th October)
+ 
+ Done a lot on understanding backend logic with express and MongoDB this period. It made more sense to understand some underlying things before building the new project I am on. Our Rest Apo (express) simply controls the data flow between the database and frontend. Mongoose sits on top of MongoDB and creates a way to easily interact with it programmatically.
+ I also like how MongoDB simply creates a DB if it doesn't find it.These tuts were amazing  https://www.youtube.com/watch?v=9OPP_1eAENg&list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u
+ 
+ 
+ ### DAY 58 - 62 (11th - 14th October) 
+ 
+  Worked on a landing page for my client's web site. Want it to be up while I am building the actual app. Hosted it on netlify, and did a ton of settings regarding DNS, and other domain concerns learnt a ton and also how to optimize primate mail addresses.  
+ 
+ 
+ ### DAY 63 - 64 (15th - 16th October)
+ 
+Started Traversy's Mern stack from to back course.
+ It is quite deep and would help me build Full stack apps with best practices. Also got all docs on standby.
+Using the knowledge to build full my client's site in real time
  
  
