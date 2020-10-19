@@ -164,3 +164,11 @@ Started Traversy's Mern stack from to back course.
 Using the knowledge to build full my client's site in real time
  
  
+ ### DAY 65 (17th October)
+ 
+ Built the JWT logic for user sign in. JWT's allow a user to be authenticated and access a protected route. A JWT has 3 parts; a token type, a payload (what is authenticated), and a signature. Also, it's good to set an expire option in your web tokens. 
+ 
+ 
+ ### DAY 66 (18th OCtober)
+ Rest day
+ 
