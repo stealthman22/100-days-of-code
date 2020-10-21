@@ -172,3 +172,13 @@ Using the knowledge to build full my client's site in real time
  ### DAY 66 (18th OCtober)
  Rest day
  
+ ### DAY 67 (19th Ocotober)
+ 
+  Went deeper into the JWT logic. Worked on signing users in once they pass the JWT authentication. Got this to work by building a custom middleware. Middlewares in express have access to the req, res cycle, and can call the next function to pass controls to the next middleware. 
+  Authentication uses the 'x-auth-token' headers in the browser 
+Also when throwing auth errors, use 401, not 403
+
+
+### DAY 68 (20th October)
+
+No coding today. #ENDSARS!
