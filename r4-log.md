@@ -182,3 +182,14 @@ Also when throwing auth errors, use 401, not 403
 ### DAY 68 (20th October)
 
 No coding today. #ENDSARS!
+
+### DAY 69 - DAY 79 (21st - 31st Oct)
+
+Lost track of committing, but I have been working on the stealth connect app, following Traversy's MERN course. 
+Currently in the working through modelling the profile section of the database.
+
+Seems I've not been coding healthily
+
+### DAY 80 - 86 (1st - 7th NOV)
+
+Been contemplating and how the backend for my client's web app should be modelled, trying to save a lot of repetition with some stroke of genius, If I don't get a concise way then, kinda decided to build 3 distinct user models, and link them with 3 profile models, issue now is would I then have 3 login and register routes? Doesn't sound effective at all
