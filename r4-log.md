@@ -195,6 +195,14 @@ Seems I've not been coding healthily
 Been contemplating and how the backend for my client's web app should be modelled, trying to save a lot of repetition with some stroke of genius, If I don't get a concise way then, kinda decided to build 3 distinct user models, and link them with 3 profile models, issue now is would I then have 3 login and register routes? Doesn't sound effective at all
 
 
+
+
 ### Day 86- 96
 
-Sorry for not committing my progress. Been having issues creating a middleware function to switch between profile routers on my backend. The way I'vestrucutred the app is quite peculiar, and I've been so obsessed about finding a solution that I've lost track of time. Would probably ask for answers on SO. Meanwhile, I will go ahead with creating the backend of the admin dashboard and then start with the frontend with react.    
+Sorry for not committing my progress. Been having issues creating a middleware function to switch between profile routers on my backend. The way I'vestrucutred the app is quite peculiar, and I've been so obsessed about finding a solution that I've lost track of time. Would probably ask for answers on SO. Meanwhile, I will go ahead with creating the backend of the admin dashboard and then start with the frontend with react.  
+
+
+
+### DAY  100
+Been almost two weeks I completed the challenge, had a bit of burnout, didn't know where  I was or where to go (Coding wise). Personal issues didn't make this better. Made small progress with the client's project.
+But I am better now and ready to rumble.
