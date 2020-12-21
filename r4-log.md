@@ -1,5 +1,5 @@
 
-# 100DaysOfCode Log - Round 3 - [Alara Joel]
+# 100DaysOfCode Log - Round 4 - [Alara Joel]
 ## Log of Round 3 of #100DaysOfCode - Started on [Wednesday July 8th, 2020]
 
 ### Day 1
