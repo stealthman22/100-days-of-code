@@ -11,3 +11,9 @@ Manipulated so much backend routes, built my own logic, learnt how to use ES-lin
 ### Day 1 (Dec 21st 2020)
 
 Finished cleaning up the backend routes for my client's web app. Still have to build the profile pic upload logic, won't be using gravatar anymore (unless I change my mind). Would start the front end for now.
+
+
+### Day 2 (Jan 4th 2021)
+
+Built two components (sign up and sign in page) on my client's web app. Also set up redux. Currently have an alert reducer well setup across the application state.
+Redux is still kinda crazy to me, but I am beginning to get it and appreciate it.
