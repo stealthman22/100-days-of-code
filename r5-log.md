@@ -17,3 +17,12 @@ Finished cleaning up the backend routes for my client's web app. Still have to b
 
 Built two components (sign up and sign in page) on my client's web app. Also set up redux. Currently have an alert reducer well setup across the application state.
 Redux is still kinda crazy to me, but I am beginning to get it and appreciate it.
+
+
+
+
+### Day 3 (Jan 5th 2021)
+
+Went deeper into redux and built the whole logic for signing in and out, loading user and clearing the app state at appropriate times.
+Had some hard time with Eslint errors. 
+Learnt to set global headers in Axios, and use the UUID package.
