@@ -26,3 +26,11 @@ Redux is still kinda crazy to me, but I am beginning to get it and appreciate it
 Went deeper into redux and built the whole logic for signing in and out, loading user and clearing the app state at appropriate times.
 Had some hard time with Eslint errors. 
 Learnt to set global headers in Axios, and use the UUID package.
+
+
+
+### Day 4 (Jan 6th 2021)
+
+Built states to authenticate a user  signing in, check if the user has a profile, clear their 
+Been doing a lot with the ternary operator using the short-circuiting style. 
+Also built protected routes with React router. A nice approach I must say
