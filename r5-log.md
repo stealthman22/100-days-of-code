@@ -34,3 +34,9 @@ Learnt to set global headers in Axios, and use the UUID package.
 Built states to authenticate a user  signing in, check if the user has a profile, clear their 
 Been doing a lot with the ternary operator using the short-circuiting style. 
 Also built protected routes with React router. A nice approach I must say
+
+
+### DAY 5 (Jan 7th 2021)
+
+Built component to create profile and dashboard.
+The major challenge is that there are supposed to be 3 different create profile components depending on their role during registration. Can't wait to do that tomorrow 
