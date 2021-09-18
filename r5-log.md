@@ -19,3 +19,34 @@ Taken some interesting decisions and endeavours which I'd unveil with time.
 Me going back to my fundamentals at such a crucial time might seem aimless, but it will surely prove to be career-saving!
 
 Stay Tuned Guys!
+
+
+
+
+# Day 1 (16th Spet 2021)
+Been working on js fundamental concepts, rounded up with function fundamentals, took a while to get how data is passed from one funtion to another, but i got it now. Started with array fundamentals, The Dot and Bracket notaions
+
+
+# Js fundamentals revised so far:
+- Data Types
+- Variable declarations
+- Operators
+- Operator Precedence
+- Type Coercion
+- Truthy Falsy
+- Conditionals 
+- Switch Statements
+- Statements Vs Expressions.
+- The ternary operator
+- The Strict mood
+- Functions 
+- Funtion declarations vs Function expressions
+- Arrow functions
+- Calling functions from within other funtions 
+- Arguments Vs Parameters
+- Arrays 
+- Zero based counting
+- Dot Notation vs  Brakcet Notation
+- Template Literals
+- 
+- 
