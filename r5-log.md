@@ -49,4 +49,13 @@ Been working on js fundamental concepts, rounded up with function fundamentals, 
 - Dot Notation vs  Brakcet Notation
 - Template Literals
 - 
-- 
+
+
+
+
+
+### Day 2 (17th September 2021)
+Learnt some basic array methods (methods are like in-built functions that perform certain actions on arrays).
+Unshift,  Push (add items to the arrays), Pop, shift (removes items), indexOf (returns items position) and Include (returns true or false).
+
+Also learnt a bit on Objects, their anatomy and how to access their items (dot and bracket notation)
