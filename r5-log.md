@@ -59,3 +59,18 @@ Learnt some basic array methods (methods are like in-built functions that perfor
 Unshift,  Push (add items to the arrays), Pop, shift (removes items), indexOf (returns items position) and Include (returns true or false).
 
 Also learnt a bit on Objects, their anatomy and how to access their items (dot and bracket notation)
+
+### Day 3 (18th Sept 2021)
+Did an intro to objects, and learnt the key difference between accessing their items with the dot or bracket notation. 
+ bracket notation:  the property is referred to as a string.
+ dot notation: use the real final property name, and not a computed property name
+
+
+### Day 4 (19th september 2021)
+MISSED
+
+
+### Day 5 (20th September 2021)
+
+
+
