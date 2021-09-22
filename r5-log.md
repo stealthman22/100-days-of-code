@@ -72,5 +72,12 @@ MISSED
 
 ### Day 5 (20th September 2021)
 
+Learnt about methods in js objects. In every object method, javascript gives us access to a special variable called this. The this variable is equal to the object on which the method is called.
+
+
+
+Made my first js joke. hahah 
+
+
 
 
