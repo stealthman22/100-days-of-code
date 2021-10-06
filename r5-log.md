@@ -80,4 +80,53 @@ Made my first js joke. hahah
 
 
 
+### Day 6 - 9
+Learnt about fucntions and methods and also the this keyword
+missed day 8 and 9
+
+
+
+### Day 10 - 11
+Learnt it is possible to create an object  method in another method, rather than explicitly specifying it
+Also learnt the intricacies of for loops and while loops
+
+
+### Day 12 - 13
+Went deeper into while loops, also learnt the math.trucn() function.
+
+
+### Day 14-15
+ Had a bug that made me look deeper into the concept of implicit return in arrow fucntions. Once curly braces surround a funtion body, return statement must be specified.
+ 
+ 
+ ### Day 16
+ 
+ Was stuck on a while loop challenge, but finally got it working well, definitely learning new ways to do things in javascript.
+ 
+ 
+ ### Day 17 - 18 (1-2 october 2021)
+ learnt on the 4 steps to problem solving as a developer
+ 
+ 1.Discover the bugs
+ 2. Isolate where the bug is In the code
+ 3. Fix the bug
+ 4. Prevent the bug from occuring again,
+ 
+ 
+ ### Day 19 -21
+ Missed
+ 
+ 
+ Day 22
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
 
