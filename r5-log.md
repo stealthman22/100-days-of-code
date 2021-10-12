@@ -117,12 +117,29 @@ Went deeper into while loops, also learnt the math.trucn() function.
  Missed
  
  
- Day 22
+ Day 22 (6th Ocotber 2021)
+ solved a challenge thats been bugging me, learnt how to grab the index on items in an array using the indexOf the operator. at first I used to mix up the index and the actual array item.
  
  
+ Day 23 (7th October 2021)
+ Studied the problem solving framework
+ 1.  Understand the problem 100%: Ask the right questions
+2. Divide and conquer: break into sub-problems
+3. Do as much research as you need to (Google, SO, MDN )
+4. For bigger problems write pseudo-code
  
+ 
+ Day 24 (8th)
+I worked through a challenge that is a bit difficult, not sure how to return a single string comprising of all the values from a for loop, I end up printing the last occurrence to the console.
  
 
+Day 25 - 26 (Missed)
+
+Day 27 (11th October 2021)
+
+Finally solved the hard challenge. what i learnt.
+* How to accumulate the values returned from a for loop into a single string using the += operator.
+* when you initialize a var, it will returned undefined unless set to an empty string.
 
 
 
