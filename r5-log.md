@@ -143,7 +143,19 @@ Finally solved the hard challenge. what i learnt.
 
 
 
+Day 28 (12th October 2021)
+
+Started with DOM manipulatin in javascript.
+DOM is an API that consists of a  structured representation of HTML that allows js to access HTML elements and styles to manipulate them.
+Used propteris like .textContent and .value
 
 
 
+Day 29 (13th October 2021)
+
+Learnt how to handle events, manipulate CSS styles via the DOM and also code refactoring. And built a guessing game.
+
+
+
+DAY 30 (14th October 2021)
 
