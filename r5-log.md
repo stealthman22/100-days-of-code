@@ -159,3 +159,16 @@ Learnt how to handle events, manipulate CSS styles via the DOM and also code ref
 
 DAY 30 (14th October 2021)
 
+
+
+### RECAP : DAY 30 - 48
+Concluded parts of the DOM section of my js course learnt how to handle events via the event callback function, and worked through a more comprehensive project, missed quite a couple of days in between. would really work on my consistency as it is key.
+
+
+
+### DAY 40
+Learning how js works behind the scene, did an over-view on core abilities and xteristics of language :
+Highlevel, Garbage collected, both compiled(just in time) and interpreted. multiparadigm, prototype based. 
+ First class fucntions dynamiccally typed, single threaded with a non-blocking event loop
+
+
