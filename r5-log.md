@@ -171,4 +171,8 @@ Learning how js works behind the scene, did an over-view on core abilities and x
 Highlevel, Garbage collected, both compiled(just in time) and interpreted. multiparadigm, prototype based. 
  First class fucntions dynamiccally typed, single threaded with a non-blocking event loop
 
+### Day 60 (long update)
 
+sorry for no updates.
+I have finished the js theory lectures, took a while to assimilate them. Also been doing some extra things, built a ladning page for a company I might be doing a thing with soon, and also did some copy designs too.
+WOuld work on being more regular from now on
