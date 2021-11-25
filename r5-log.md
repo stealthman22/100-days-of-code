@@ -176,3 +176,11 @@ Highlevel, Garbage collected, both compiled(just in time) and interpreted. multi
 sorry for no updates.
 I have finished the js theory lectures, took a while to assimilate them. Also been doing some extra things, built a ladning page for a company I might be doing a thing with soon, and also did some copy designs too.
 WOuld work on being more regular from now on
+
+
+### Day 60 (23rd NOvember)
+
+I learnt about destructuring and used it for array.
+Destructuring is a way of unpacking array/object values into individual variables. i.e breaking a complex data strructure into simpler data strucutres.
+Destruc does not mutate arrays.
+ we can set default values for vars when destruc, useful when we do not know the lenght of the data coming in 
