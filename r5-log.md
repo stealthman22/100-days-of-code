@@ -184,3 +184,17 @@ I learnt about destructuring and used it for array.
 Destructuring is a way of unpacking array/object values into individual variables. i.e breaking a complex data strructure into simpler data strucutres.
 Destruc does not mutate arrays.
  we can set default values for vars when destruc, useful when we do not know the lenght of the data coming in 
+ 
+ 
+ 
+ 
+ ### Day 61 - 62 (24th- 25th Nov )
+ I went deeper into destructuring with objects and learnt how to:
+Destructure Objects;
+With default values
+With different names from their property name
+That is nested
+Also learnt a complex technique where we pass an object as param to a method, and when we call the method with an obj it is destructured immediately by the method.
+
+
+FInally started learning about the spread operators, which unpacks items from arrays, without creating new variables
