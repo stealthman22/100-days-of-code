@@ -188,7 +188,7 @@ Destruc does not mutate arrays.
  
  
  
- ### Day 61 - 62 (24th- 25th Nov )
+ ### Day 61 (24th Nov )
  I went deeper into destructuring with objects and learnt how to:
 Destructure Objects;
 With default values
@@ -198,3 +198,24 @@ Also learnt a complex technique where we pass an object as param to a method, an
 
 
 FInally started learning about the spread operators, which unpacks items from arrays, without creating new variables
+
+
+
+ ### Day 63 -(25th)
+ 
+ Rounded up destructuring with objects, By default objects are destructured with their exact property name as variables, to create new variables for them, you use the key-pair value syntax to rename them.
+ Also, we can destructure, right in a function call, as soon as the call happens, the vars are unpacked and passed in as arguments.
+ 
+ ### Day 64 (26th NOv) Learnt the spread operator, it is used to unpack arrays into its individual items. The spread operator works on all iterables except Objects. It is mostly used when building arrays, or passing values in a function.  It provides an easy syntax to create shallow copies of arrays, and join 2 or more arrays together.
+ 
+ 
+ ### DAY 65 (27th NOv)
+Learnt about the  Rest pattern which uses a spread-like syntax, but does the opposite of spread; it collects different values and packs them into an array. it is placed on the left side of an assignment (spread is mostly on the right)
+if you plan to use rest in a destruc. syntax, it must be the last variable declared. else it would throw an error
+ There can be only one rest parameter in a destruc.
+ 
+ ### DAY 66 (28th Nov)
+ 
+ Using the logical operators AND OR, we can create a special type of conditional called a SHORT CIRCUIT.  it simply means during a comparison, if the current value evaluates to be true, returns it immediately. For  OR once it meets a true value, it evaluates to true. For AND once a single value is false, the operation equates to false.
+ 
+ ROunded up with the new Nullish Coalescing Operator. The NC Operator uses nullish values rather than falsy values. So if  a value of zero happens to be truth, it would evaluate it to true
