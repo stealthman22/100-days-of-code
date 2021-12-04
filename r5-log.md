@@ -219,3 +219,23 @@ if you plan to use rest in a destruc. syntax, it must be the last variable decla
  Using the logical operators AND OR, we can create a special type of conditional called a SHORT CIRCUIT.  it simply means during a comparison, if the current value evaluates to be true, returns it immediately. For  OR once it meets a true value, it evaluates to true. For AND once a single value is false, the operation equates to false.
  
  ROunded up with the new Nullish Coalescing Operator. The NC Operator uses nullish values rather than falsy values. So if  a value of zero happens to be truth, it would evaluate it to true
+ 
+ 
+ 
+ 
+ ### Day 67 - 68 (29th - 30th Nov)
+ 
+ Learnt on the FOR OF loop it is a new way of looping over arrays,  it automatically loops over the element and on each iteration, it gives us access to the current array element. To get access to the index is a bit tricky, we must call the entries method on the array. Also learnt of "ENHANCED OBJECT LIREALS which makes it a bit easier to work with objects.  ROunded up with the LOGICAL ASSIGNMENT OPERATOR; it provides a concise syntax for creating default values when with logical operators. (||= assigns a value to a variable if it is currently falsy 
+ &&= assigns a value to a variable if it is currently truthy)
+ 
+ 
+## DAY 69 - 70 missed
+
+
+DAY 71 (3rd october)
+
+Learnt on OPTIONAL CHAINING; It can be used if we are not so sure a property exists on an object, if the property is absent it returns undefined rather than break out of the code. It also works with arrays to check if they are empty.
+It is often used together with the nullish COalesing operator
+
+
+
