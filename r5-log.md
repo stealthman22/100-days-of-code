@@ -232,10 +232,25 @@ if you plan to use rest in a destruc. syntax, it must be the last variable decla
 ## DAY 69 - 70 missed
 
 
-DAY 71 (3rd october)
+DAY 71 (3rd december)
 
 Learnt on OPTIONAL CHAINING; It can be used if we are not so sure a property exists on an object, if the property is absent it returns undefined rather than break out of the code. It also works with arrays to check if they are empty.
 It is often used together with the nullish COalesing operator
 
+
+### Day 72 (4th devember)
+Learnt how to properly loop over objects.
+Objects are not iterable so they can't be looped over directly. but by using the Object constructor alongside the keys (only keys), entries(both keys and values) and values (only values) methods, we can pull what's needed from the original object and return them in an array. This array can now be looped over using the for-of loop
+
+
+### DAY 73 missed
+
+### DAY 74 - 75
+
+Completed coding challenges involving looping over objects.
+learnt about the /= operator
+Leant about sets in javascript. Sets are data structures that hold unique values, which means sets cannot have duplicates. 
+We can add and  delete elements from  sets clear it, and loop over it
+A practical use case of sets is to remove duplicates from an array, with the spread operator
 
 
