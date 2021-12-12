@@ -254,3 +254,15 @@ We can add and  delete elements from  sets clear it, and loop over it
 A practical use case of sets is to remove duplicates from an array, with the spread operator
 
 
+### DAY 76
+I learnt about Map in Js. A map is a data structure that can be used to map values to keys.  With maps, the keys can be any type (in object keys are mostly strings).  it is very easy to convert Objects to maps using entries method on the object. We can convert map to array, using the spread operator.
+Maps are iterables, hence we can loop over them directly as we would with arrays.
+  
+  ### DAY 77
+Arrays vs Sets: Use arrays when you want to store values in order and they might also contain duplicates, use sets when you want unique values. Also, use arrays when you would be doing a lot of manipulations, but use sets when high performance is needed. 
+
+Objects vs Maps
+Use maps when you need to map keys to values and when you need keys that are not strings.  Use Objets when you need to include functions (methods) and  when you are working with JSON (you can convert later to Maps).
+
+### Day 78
+working on the looping over maps challenge, and I am stuck trying to mutate a map. First time I have had a challenge so difficult in this course, if I don't crack it by tomorrow, I'd just move on
