@@ -266,3 +266,10 @@ Use maps when you need to map keys to values and when you need keys that are not
 
 ### Day 78
 working on the looping over maps challenge, and I am stuck trying to mutate a map. First time I have had a challenge so difficult in this course, if I don't crack it by tomorrow, I'd just move on
+
+### DAY 79
+Missed 
+
+### DAY 80 (13th december 2021)
+Succesfully finished the Map challenges; learnt about the at() method of arrays, to return the element at a particular index.
+Started learning on Strings. They  are iterable, hence can be indexed. Also you can use slice to return a part of a string. It is impossible to mutate strings becuase they are primitives
