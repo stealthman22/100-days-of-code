@@ -273,3 +273,20 @@ Missed
 ### DAY 80 (13th december 2021)
 Succesfully finished the Map challenges; learnt about the at() method of arrays, to return the element at a particular index.
 Started learning on Strings. They  are iterable, hence can be indexed. Also you can use slice to return a part of a string. It is impossible to mutate strings becuase they are primitives
+
+
+DAY 81 - 85 (14th - 18th  December)
+A long gruesome study into string manipulations in javascript. And just as I was about to post, I lost the notes (like everything, 4 days worth of work).
+
+Methods I learnt to use are:
+• indexOf (get the index of a char)
+• lastIndexOg (get the index of the last occurrence of a char)
+• slice (return a part of a string from a specific point)
+• toUpperCase and toLowerCase
+• trim: remove white space from the front and end of a string
+• startsWith and endsWith: checks If a string starts or ends with specified char.
+• split: divides a string bases on criteria, and returns the items in an array
+• join: takes items in an array and joins them to a single string
+• repeat: repeats a char, by a specified number
+
+strings are primitives, hence methods should not be called on them, for this to happen, the js engine converts the primitive string to  a String object, runs the computation and converts the output back to a primitive string
