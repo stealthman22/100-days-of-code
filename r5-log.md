@@ -290,3 +290,8 @@ Methods I learnt to use are:
 • repeat: repeats a char, by a specified number
 
 strings are primitives, hence methods should not be called on them, for this to happen, the js engine converts the primitive string to  a String object, runs the computation and converts the output back to a primitive string
+
+
+DAY 86 (1st January 2022)Studied default functions today. It can set default values for arguments that aren't passed into a function, useful when there is a common value expected. They can be set to ternary operators or any other expressions, hence are very flexible.
+
+
