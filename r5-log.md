@@ -295,3 +295,6 @@ strings are primitives, hence methods should not be called on them, for this to 
 DAY 86 (1st January 2022)Studied default functions today. It can set default values for arguments that aren't passed into a function, useful when there is a common value expected. They can be set to ternary operators or any other expressions, hence are very flexible.
 
 
+DAY 87
+The first-class function is a concept in programming languages that functions are just treated as values. In practice, this translates to a fnc  ability to be  ]a higher-order fnc (accepting a fnc as an argument), or return another function.
+
