@@ -301,9 +301,8 @@ The first-class function is a concept in programming languages that functions ar
 
 
 
-### Day 88
-Revised the call bind and apply methods of functions. started a new challenge . Found out that you cannot evaluate Nan using the equality operator
+### Day 88 (may 24th 2022)
+Revised the call bind and apply methods of functions. started a new challenge. Found out that you cannot evaluate Nan using the equality operator
 if and === Nan doesn't work. YOu have to use the isNan function for evaluations like this to be correct.
-Started making anki flashcards to solidify my code knloweledge, it's really a slow transition to this style of learning, but I am determined not to stop .
-
+Started making Anki flashcards to solidify my code knowledge, it's really a slow transition to this style of learning, and building your own cards can be hard but I am determined not to stop.
 
