@@ -298,3 +298,12 @@ DAY 86 (1st January 2022)Studied default functions today. It can set default val
 DAY 87
 The first-class function is a concept in programming languages that functions are just treated as values. In practice, this translates to a fnc  ability to be  ]a higher-order fnc (accepting a fnc as an argument), or return another function.
 
+
+
+
+### Day 88
+Revised the call bind and apply methods of functions. started a new challenge . Found out that you cannot evaluate Nan using the equality operator
+if and === Nan doesn't work. YOu have to use the isNan function for evaluations like this to be correct.
+Started making anki flashcards to solidify my code knloweledge, it's really a slow transition to this style of learning, but I am determined not to stop .
+
+
