@@ -306,3 +306,9 @@ Revised the call bind and apply methods of functions. started a new challenge. F
 if and === Nan doesn't work. YOu have to use the isNan function for evaluations like this to be correct.
 Started making Anki flashcards to solidify my code knowledge, it's really a slow transition to this style of learning, and building your own cards can be hard but I am determined not to stop.
 
+
+### Day 89 - 90 (may 25th - 26th may 2022)
+
+Worked on a rather difficult challenge do with bind and this. 
+Learnt that the best way to evaluate NaN is to use the isNaN() function rather than equality operators, as NaN is not equal to NaN, and hence will always return false.
+
