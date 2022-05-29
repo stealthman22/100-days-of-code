@@ -313,7 +313,7 @@ Worked on a rather difficult challenge do with bind and this.
 Learnt that the best way to evaluate NaN is to use the isNaN() function rather than equality operators, as NaN is not equal to NaN, and hence will always return false.
 
 
-Day 91
+### Day 91
 
 Went deeper into function concepts today and learnt about Immediately invoked functional expressions and closures
 
