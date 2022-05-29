@@ -312,3 +312,11 @@ Started making Anki flashcards to solidify my code knowledge, it's really a slow
 Worked on a rather difficult challenge do with bind and this. 
 Learnt that the best way to evaluate NaN is to use the isNaN() function rather than equality operators, as NaN is not equal to NaN, and hence will always return false.
 
+
+Day 91
+
+Went deeper into function concepts today and learnt about Immediately invoked functional expressions and closures
+
+IIFE is a function that is only run once in the code's lifetime, technically the function runs once and disappears from the code's memory.
+
+A closure is basically the variable environment attached to a function, exactly as it was when the function was created.
