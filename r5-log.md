@@ -320,3 +320,12 @@ Went deeper into function concepts today and learnt about Immediately invoked fu
 IIFE is a function that is only run once in the code's lifetime, technically the function runs once and disappears from the code's memory.
 
 A closure is basically the variable environment attached to a function, exactly as it was when the function was created.
+
+
+
+### Day 92
+
+I finished up with CLosures today and the functions section of the course.
+Started with arrays today and learnt a few more array methods (slice, splice, reverse). With array methods, keep in mind the ones that mutate the array and the ones that don't.
+
+
